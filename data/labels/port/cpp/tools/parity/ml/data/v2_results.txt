@@ -1,0 +1,8 @@
+n=76 pos=38 (MINOR->SAME)
+| v1 baseline | 0.806 | 0.70-0.90 | 0.74 |
+| v2 new only | 0.907 | 0.83-0.97 | 0.84 |
+OLD14 fixed: ['border_resize_content/android/dark', 'border_stroke/android/dark', 'cv_visual_states/windows/dark', 'formatted_text/android/dark', 'formatted_text/android/light', 'hybrid_web_view/android/dark', 'hybrid_web_view/android/light', 'hybrid_web_view/ios/dark', 'image_button/android/dark', 'scattered_radio_button/android/light', 'time_picker/ios/dark']
+OLD14 still wrong: ['carousel_page/android/dark', 'header_footer_grid_horizontal/windows/light', 'header_footer_view/windows/light']
+NEW errors: {'header_footer_grid/ios/light': ('SAME', 0.63), 'absolute_layout/ios/dark': ('DIFFERENT', 0.41), 'polyline_gallery/maccatalyst/light': ('MINOR', 0.72), 'border_playground/android/light': ('SAME', 0.71), 'device/android/dark': ('DIFFERENT', 0.21), 'header_footer_grid/ios/dark': ('SAME', 1.0), 'absolute_layout/windows/dark': ('DIFFERENT', 0.31), 'scattered_radio_button/android/dark': ('DIFFERENT', 0.37), 'path_transform_string/android/light': ('SAME', 0.81)}
+| v1+v2 | 0.891 | 0.82-0.96 | 0.79 |
+coefs {'lpips_tile_max': np.float64(0.49), 'lpips_tile_p95': np.float64(1.06), 'dino_patch_max_masked': np.float64(1.2), 'elem_count': np.float64(-0.99), 'elem_max_area': np.float64(1.15), 'elem_total': np.float64(0.1), 'ocr_missing': np.float64(-0.05), 'ocr_extra': np.float64(0.41), 'ocr_moved': np.float64(0.02), 'ocr_changed': np.float64(0.75), 'ocr_unmatched': np.float64(-0.08), 'ocr_unmatched_frac': np.float64(0.83)}

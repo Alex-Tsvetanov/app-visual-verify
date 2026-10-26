@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "reference": "/Users/Alex.Tsvetanov/Documents/GitHub/maui/port/cpp/docs/comparison/captures/ios/maui/button_light.png",
+  "candidate": "/Users/Alex.Tsvetanov/Documents/GitHub/maui/port/cpp/docs/comparison/captures/ios/cpp/button_light.png",
+  "kind": "static",
+  "verdict": "DIFFERENT",
+  "verdict_detail": {
+    "verdict": "DIFFERENT",
+    "primary": "pixel.score",
+    "score": 0.43507644534111023,
+    "thresholds": {
+      "diff": 0.28034964203834534,
+      "minor": 0.14017482101917267
+    }
+  },
+  "layers": {
+    "pixel": {
+      "available": true,
+      "score": 0.43507644534111023,
+      "details": {
+        "max_tile": 0.43507644534111023,
+        "mean_tile": 0.015016492456197739,
+        "global_dissimilarity": 0.01509791612625122,
+        "grid": 16,
+        "size_mismatch": false,
+        "ref_size": [
+          1206,
+          2622
+        ],
+        "cand_size": [
+          1206,
+          2622
+        ]
+      }
+    },
+    "layout": {
+      "available": false,
+      "score": null,
+      "reason": "no layout trees supplied"
+    }
+  }
+}

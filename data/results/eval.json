@@ -1,0 +1,178 @@
+{
+  "schema_version": 1,
+  "static": {
+    "n_labels": 108,
+    "n_orig76": 76,
+    "n_new32": 32,
+    "size_mismatch_pairs": [],
+    "pixel_max_tile": {
+      "all": {
+        "auc": 0.5926055109870945,
+        "ci": [
+          0.47824259825490345,
+          0.7011036598281287
+        ],
+        "n": 108,
+        "pos": 47,
+        "neg": 61
+      },
+      "threshold_loo": {
+        "acc": 0.6388888888888888,
+        "bal_acc": 0.6192884548308336
+      },
+      "threshold_all_in_sample": 0.28034964203834534,
+      "threshold_all_in_sample_acc": {
+        "acc": 0.6481481481481481,
+        "bal_acc": 0.629926752703174
+      },
+      "split": {
+        "train_threshold": 0.2847539782524109,
+        "heldout_auc": {
+          "auc": 0.5458937198067633,
+          "ci": [
+            0.2692045454545455,
+            0.796875
+          ],
+          "n": 32,
+          "pos": 9,
+          "neg": 23
+        },
+        "heldout_threshold_acc": {
+          "acc": 0.6875,
+          "bal_acc": 0.5797101449275363
+        },
+        "train_auc": {
+          "auc": 0.6024930747922439,
+          "ci": [
+            0.4753902448154525,
+            0.7292701287832206
+          ],
+          "n": 76,
+          "pos": 38,
+          "neg": 38
+        }
+      }
+    },
+    "pixel_global_dissimilarity": {
+      "all": {
+        "auc": 0.4956400418555982,
+        "ci": [
+          0.3788261885384313,
+          0.6096552957868114
+        ],
+        "n": 108,
+        "pos": 47,
+        "neg": 61
+      },
+      "threshold_loo": {
+        "acc": 0.5555555555555556,
+        "bal_acc": 0.6016742239274503
+      },
+      "threshold_all_in_sample": 0.0029945969581604004,
+      "threshold_all_in_sample_acc": {
+        "acc": 0.5648148148148148,
+        "bal_acc": 0.6123125217997907
+      },
+      "split": {
+        "train_threshold": 0.0029945969581604004,
+        "heldout_auc": {
+          "auc": 0.6570048309178744,
+          "ci": [
+            0.45408965557706976,
+            0.8400937499999994
+          ],
+          "n": 32,
+          "pos": 9,
+          "neg": 23
+        },
+        "heldout_threshold_acc": {
+          "acc": 0.59375,
+          "bal_acc": 0.717391304347826
+        },
+        "train_auc": {
+          "auc": 0.399584487534626,
+          "ci": [
+            0.2714584439275339,
+            0.536021167469758
+          ],
+          "n": 76,
+          "pos": 38,
+          "neg": 38
+        }
+      }
+    }
+  },
+  "gif": {
+    "n_labels": 34,
+    "n_pos": 4,
+    "max_abs_diff_vs_all_dtw_json": 5.821079712277355e-05,
+    "temporal_dtw": {
+      "all": {
+        "auc": 0.5583333333333333,
+        "ci": [
+          0.16129032258064516,
+          0.90625
+        ],
+        "n": 34,
+        "pos": 4,
+        "neg": 30
+      },
+      "threshold_loo": {
+        "acc": 0.7941176470588235,
+        "bal_acc": 0.5583333333333333
+      },
+      "threshold_all_in_sample": 0.09700802147815685,
+      "threshold_all_in_sample_acc": {
+        "acc": 0.8235294117647058,
+        "bal_acc": 0.6833333333333333
+      }
+    },
+    "temporal_static_full": {
+      "all": {
+        "auc": 0.36666666666666664,
+        "ci": [
+          0.1583333333333333,
+          0.6076515151515153
+        ],
+        "n": 34,
+        "pos": 4,
+        "neg": 30
+      },
+      "threshold_loo": {
+        "acc": 0.29411764705882354,
+        "bal_acc": 0.4916666666666667
+      },
+      "threshold_all_in_sample": 0.001924479047337141,
+      "threshold_all_in_sample_acc": {
+        "acc": 0.3235294117647059,
+        "bal_acc": 0.6166666666666667
+      }
+    }
+  },
+  "reported_not_reproduced": {
+    "static_siamese_head_LOO108": {
+      "auc": 0.695,
+      "ci": [
+        0.62,
+        0.78
+      ],
+      "source": "data/results/train_log.txt E2 LOO 108 (ResNet-18 features, not in repo)"
+    },
+    "static_siamese_head_LOO108_rn": {
+      "auc": 0.664,
+      "ci": [
+        0.59,
+        0.74
+      ],
+      "source": "data/results/train2_rn.txt (features not in repo)"
+    },
+    "static_grok_v2_LOO108": {
+      "auc": 0.909,
+      "ci": [
+        0.85,
+        0.96
+      ],
+      "source": "data/labels/port/cpp/tools/parity/ml/data/v3_results.txt LOO all v2 (features not in repo)"
+    }
+  }
+}

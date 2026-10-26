@@ -1,0 +1,206 @@
+[
+ {
+  "id": "ios/button_light",
+  "y": 0,
+  "score": 9.261203940402751e-07,
+  "static_full": 0.026732287503589247
+ },
+ {
+  "id": "android/semantics_light",
+  "y": 0,
+  "score": 0.01764587866408357,
+  "static_full": 0.011788006496402659
+ },
+ {
+  "id": "android/picker_dark",
+  "y": 0,
+  "score": 0.009656022936117198,
+  "static_full": 0.009655196770214675
+ },
+ {
+  "id": "android/selection_synchronization_light",
+  "y": 0,
+  "score": 0.17562441397309528,
+  "static_full": 0.17108266607033584
+ },
+ {
+  "id": "android/picker_light",
+  "y": 0,
+  "score": 0.0034686287219482803,
+  "static_full": 0.0033716374957303195
+ },
+ {
+  "id": "ios/empty_view_rtl_dark",
+  "y": 1,
+  "score": 0.005030042448869121,
+  "static_full": 0.005770677529427448
+ },
+ {
+  "id": "android/carousel_page_dark",
+  "y": 0,
+  "score": 0.00868730580717291,
+  "static_full": 0.020191670083304275
+ },
+ {
+  "id": "ios/carousel_page_light",
+  "y": 0,
+  "score": 0.020621402306890073,
+  "static_full": 0.013702598013821213
+ },
+ {
+  "id": "android/stepper_dark",
+  "y": 0,
+  "score": 0.0007387425155803151,
+  "static_full": 0.014565191816708031
+ },
+ {
+  "id": "android/entry_light",
+  "y": 0,
+  "score": 0.014556952728098408,
+  "static_full": 0.012750785418917979
+ },
+ {
+  "id": "android/selection_synchronization_dark",
+  "y": 0,
+  "score": 0.17753221230291785,
+  "static_full": 0.17806092919079608
+ },
+ {
+  "id": "android/activity_indicator_dark",
+  "y": 0,
+  "score": 0.09402625905885124,
+  "static_full": 0.02102891058134305
+ },
+ {
+  "id": "android/activity_indicator_light",
+  "y": 0,
+  "score": 0.05962475266175337,
+  "static_full": 0.00593347573050515
+ },
+ {
+  "id": "ios/radio_button_content_dark",
+  "y": 0,
+  "score": 8.552076195822433e-06,
+  "static_full": 0.0008296772926802976
+ },
+ {
+  "id": "android/controls_stack_light",
+  "y": 0,
+  "score": 0.052755148007180584,
+  "static_full": 0.0009651186424859496
+ },
+ {
+  "id": "ios/selection_synchronization_light",
+  "y": 0,
+  "score": 0.14080191934668912,
+  "static_full": 0.14034511101518854
+ },
+ {
+  "id": "android/swipe_refresh_dark",
+  "y": 1,
+  "score": 0.11500997602853426,
+  "static_full": 0.014787795191885583
+ },
+ {
+  "id": "maccatalyst/activity_indicator_light",
+  "y": 0,
+  "score": 0.0013639433357195863,
+  "static_full": 0.0015456489359219523
+ },
+ {
+  "id": "ios/switch_light",
+  "y": 1,
+  "score": 9.27512638667638e-05,
+  "static_full": 0.003458561738813648
+ },
+ {
+  "id": "ios/selection_synchronization_dark",
+  "y": 0,
+  "score": 0.13268899865723072,
+  "static_full": 0.1323739168248691
+ },
+ {
+  "id": "android/search_bar_light",
+  "y": 0,
+  "score": 0.012815449866509851,
+  "static_full": 0.011445431345439017
+ },
+ {
+  "id": "maccatalyst/picker_dark",
+  "y": 0,
+  "score": 0.0014470035540535275,
+  "static_full": 0.0014470035540535275
+ },
+ {
+  "id": "android/carousel_page_light",
+  "y": 0,
+  "score": 0.01916832544655999,
+  "static_full": 0.018326871053193573
+ },
+ {
+  "id": "windows/chrome_dark",
+  "y": 0,
+  "score": 0.0,
+  "static_full": 6.979676105094741e-07
+ },
+ {
+  "id": "maccatalyst/button_light",
+  "y": 0,
+  "score": 7.82310962677002e-07,
+  "static_full": 0.0068799555854699435
+ },
+ {
+  "id": "windows/controls_stack_dark",
+  "y": 0,
+  "score": 0.01433348444086563,
+  "static_full": 0.001759681626898324
+ },
+ {
+  "id": "android/swipe_refresh_light",
+  "y": 1,
+  "score": 0.09700802147815685,
+  "static_full": 0.001924479047337141
+ },
+ {
+  "id": "ios/carousel_page_dark",
+  "y": 0,
+  "score": 0.022922273396223956,
+  "static_full": 0.01797268667778894
+ },
+ {
+  "id": "windows/switch_light",
+  "y": 0,
+  "score": 0.0,
+  "static_full": 0.0
+ },
+ {
+  "id": "android/clip_views_light",
+  "y": 0,
+  "score": 0.014957995244427999,
+  "static_full": 0.011929203713422412
+ },
+ {
+  "id": "android/editor_light",
+  "y": 0,
+  "score": 0.012900369591860639,
+  "static_full": 0.010732055999820625
+ },
+ {
+  "id": "maccatalyst/controls_stack_dark",
+  "y": 0,
+  "score": 0.0001279862498390627,
+  "static_full": 0.0034269035569171047
+ },
+ {
+  "id": "android/search_bar_dark",
+  "y": 0,
+  "score": 0.013028160306952816,
+  "static_full": 0.02257638469859145
+ },
+ {
+  "id": "android/clip_views_dark",
+  "y": 0,
+  "score": 0.02066274499836358,
+  "static_full": 0.02790159696285645
+ }
+]

@@ -1,0 +1,17 @@
+/private/tmp/claude-503/-Users-Alex-Tsvetanov-Documents-GitHub-maui/4165873d-d654-47c2-906e-c62b70b65c50/scratchpad/proto/train.py:31: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.detach().clone() or sourceTensor.detach().clone().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pw = torch.tensor((len(y) - y.sum()) / max(1.0, y.sum()))
+real: 108 pairs, orig76 76, new 32
+E1 DiffSpot val (synthetic): AUC 1.000 (1.00-1.00) acc 0.95 n=225 pos=150
+E1 zero-shot on 108 real labels: AUC 0.701 (0.63-0.77) acc 0.44 n=108 pos=47
+/private/tmp/claude-503/-Users-Alex-Tsvetanov-Documents-GitHub-maui/4165873d-d654-47c2-906e-c62b70b65c50/scratchpad/proto/train.py:31: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.detach().clone() or sourceTensor.detach().clone().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pw = torch.tensor((len(y) - y.sum()) / max(1.0, y.sum()))
+E2 pretrained+finetune HELD-OUT 32: AUC 0.751 (0.53-0.93) acc 0.28 n=32 pos=9
+/private/tmp/claude-503/-Users-Alex-Tsvetanov-Documents-GitHub-maui/4165873d-d654-47c2-906e-c62b70b65c50/scratchpad/proto/train.py:31: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.detach().clone() or sourceTensor.detach().clone().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pw = torch.tensor((len(y) - y.sum()) / max(1.0, y.sum()))
+E2 pretrained+finetune LOO 108: AUC 0.695 (0.62-0.78) acc 0.45 n=108 pos=47
+/private/tmp/claude-503/-Users-Alex-Tsvetanov-Documents-GitHub-maui/4165873d-d654-47c2-906e-c62b70b65c50/scratchpad/proto/train.py:31: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.detach().clone() or sourceTensor.detach().clone().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pw = torch.tensor((len(y) - y.sum()) / max(1.0, y.sum()))
+E3 from scratch HELD-OUT 32: AUC 0.401 (0.20-0.61) acc 0.28 n=32 pos=9
+/private/tmp/claude-503/-Users-Alex-Tsvetanov-Documents-GitHub-maui/4165873d-d654-47c2-906e-c62b70b65c50/scratchpad/proto/train.py:31: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.detach().clone() or sourceTensor.detach().clone().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pw = torch.tensor((len(y) - y.sum()) / max(1.0, y.sum()))
+E3 from scratch LOO 108: AUC 0.575 (0.47-0.69) acc 0.44 n=108 pos=47

@@ -1,0 +1,122 @@
+{
+ "android/selection_synchronization_dark": {
+  "label": "SAME",
+  "note": "Frame 0 identical; later frames differ only in scroll offset (timing).",
+  "source": "claude-visual-review",
+  "confidence": "medium"
+ },
+ "android/selection_synchronization_light": {
+  "label": "SAME",
+  "note": "",
+  "source": "claude-visual-review",
+  "confidence": "medium"
+ },
+ "ios/selection_synchronization_light": {
+  "label": "SAME",
+  "note": "",
+  "source": "claude-visual-review",
+  "confidence": "medium"
+ },
+ "ios/selection_synchronization_dark": {
+  "label": "SAME",
+  "note": "",
+  "source": "claude-visual-review",
+  "confidence": "medium"
+ },
+ "android/swipe_refresh_dark": {
+  "label": "DIFFERENT",
+  "note": "C++ shows Refreshed x1 at frame 3; MAUI stays Ready in all 12 frames and still shows the spinner in the last. Could be a capture-window timing effect, not a final-state bug.",
+  "source": "claude-visual-review",
+  "confidence": "high"
+ },
+ "android/swipe_refresh_light": {
+  "label": "DIFFERENT",
+  "note": "Same as dark: MAUI stays Ready, C++ reaches Refreshed x1. May be capture timing.",
+  "source": "claude-visual-review",
+  "confidence": "high"
+ },
+ "ios/carousel_page_dark": {
+  "label": "MINOR",
+  "note": "Same end state (Card 2). Slide timing differs; 34 MAUI frames vs 19 C++.",
+  "source": "claude-visual-review",
+  "confidence": "medium"
+ },
+ "ios/carousel_page_light": {
+  "label": "MINOR",
+  "note": "Same as dark: same end state, different slide timing.",
+  "source": "claude-visual-review",
+  "confidence": "medium"
+ },
+ "android/controls_stack_light": {
+  "label": "SAME",
+  "note": "",
+  "source": "claude-visual-review",
+  "confidence": "medium"
+ },
+ "maccatalyst/activity_indicator_light": {
+  "label": "MINOR",
+  "note": "Confirmed at full resolution: window title MauiReference vs MAUI C++ gallery. Chrome only.",
+  "source": "claude-visual-review",
+  "confidence": "high"
+ },
+ "android/activity_indicator_dark": {
+  "label": "SAME",
+  "note": "",
+  "source": "claude-visual-review",
+  "confidence": "medium"
+ },
+ "android/activity_indicator_light": {
+  "label": "SAME",
+  "note": "",
+  "source": "claude-visual-review",
+  "confidence": "medium"
+ },
+ "ios/radio_button_content_dark": {
+  "label": "SAME",
+  "note": "",
+  "source": "claude-visual-review",
+  "confidence": "medium"
+ },
+ "android/semantics_light": {
+  "label": "SAME",
+  "note": "",
+  "source": "claude-visual-review",
+  "confidence": "medium"
+ },
+ "ios/switch_light": {
+  "label": "DIFFERENT",
+  "note": "Confirmed at full resolution: ThumbColor is orange in C++, default in MAUI.",
+  "source": "claude-visual-review",
+  "confidence": "high"
+ },
+ "windows/chrome_dark": {
+  "label": "SAME",
+  "note": "",
+  "source": "claude-visual-review",
+  "confidence": "medium"
+ },
+ "android/editor_light": {
+  "label": "SAME",
+  "note": "",
+  "source": "claude-visual-review",
+  "confidence": "medium"
+ },
+ "android/entry_light": {
+  "label": "SAME",
+  "note": "",
+  "source": "claude-visual-review",
+  "confidence": "medium"
+ },
+ "windows/switch_light": {
+  "label": "SAME",
+  "note": "",
+  "source": "claude-visual-review",
+  "confidence": "medium"
+ },
+ "maccatalyst/picker_dark": {
+  "label": "MINOR",
+  "note": "Window title differs (chrome only), same as activity_indicator.",
+  "source": "claude-visual-review",
+  "confidence": "medium"
+ }
+}

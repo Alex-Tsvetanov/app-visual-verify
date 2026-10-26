@@ -1,0 +1,14 @@
+total 108; train 76 (pos 38); test 32 (pos 9, labels {'DIFFERENT': 9, 'SAME': 23})
+HELD-OUT v1 baseline: AUC 0.734 (0.51-0.91) acc 0.69
+HELD-OUT v2: AUC 0.850 (0.70-0.96) acc 0.75
+  HO-ERR header_footer_view/windows/dark DIFFERENT 0.28 "This is A Footer" label is not rotated in C++ port.
+  HO-ERR scroll_mode_test/maccatalyst/light DIFFERENT 0.4 C++ port has the "KeepItemsInView" text in the input box while MAUI does not
+  HO-ERR empty_view_rtl/ios/dark DIFFERENT 0.4 Flow direction is filled in C++ port while it is not filled in MAUI
+  HO-ERR containers/ios/dark DIFFERENT 0.27 "Scrolled to" numbers differ
+  HO-ERR relative_layout/maccatalyst/dark SAME 1.0 
+  HO-ERR animation/maccatalyst/dark SAME 0.53 
+  HO-ERR custom_layout/maccatalyst/dark SAME 0.58 
+  HO-ERR staggered_layout/maccatalyst/dark SAME 0.57 
+LOO all v1 baseline: AUC 0.815 (0.73-0.90) acc 0.78 errors 24
+LOO all v2: AUC 0.909 (0.85-0.96) acc 0.83 errors 18
+LOO all v1+v2: AUC 0.904 (0.84-0.96) acc 0.82 errors 19

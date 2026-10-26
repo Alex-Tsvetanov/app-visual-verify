@@ -1,0 +1,866 @@
+[
+ {
+  "id": "carousel_page/android/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.2708938419818878,
+  "global": 0.005701303482055664,
+  "size_mismatch": false
+ },
+ {
+  "id": "hybrid_web_view/android/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.14571288228034973,
+  "global": 0.007344722747802734,
+  "size_mismatch": false
+ },
+ {
+  "id": "image_button/android/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.2852972149848938,
+  "global": 0.01634770631790161,
+  "size_mismatch": false
+ },
+ {
+  "id": "border_clip_playground/android/light",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.19951727986335754,
+  "global": 0.003514528274536133,
+  "size_mismatch": false
+ },
+ {
+  "id": "switch_grouping/android/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.2838963568210602,
+  "global": 0.005602538585662842,
+  "size_mismatch": false
+ },
+ {
+  "id": "header_footer_grid/ios/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.22308355569839478,
+  "global": 0.004198968410491943,
+  "size_mismatch": false
+ },
+ {
+  "id": "button/ios/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.43507644534111023,
+  "global": 0.01509791612625122,
+  "size_mismatch": false
+ },
+ {
+  "id": "scroll_mode_test/ios/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.18306393921375275,
+  "global": 0.003040015697479248,
+  "size_mismatch": false
+ },
+ {
+  "id": "carousel_page/android/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.2834491729736328,
+  "global": 0.009601771831512451,
+  "size_mismatch": false
+ },
+ {
+  "id": "border_resize_content/maccatalyst/light",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.2546224296092987,
+  "global": 0.005124270915985107,
+  "size_mismatch": false
+ },
+ {
+  "id": "scroll_mode_test/android/light",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.19902965426445007,
+  "global": 0.003359973430633545,
+  "size_mismatch": false
+ },
+ {
+  "id": "border_resize_content/android/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.3184320032596588,
+  "global": 0.01181095838546753,
+  "size_mismatch": false
+ },
+ {
+  "id": "absolute_layout/android/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.28034964203834534,
+  "global": 0.010485351085662842,
+  "size_mismatch": false
+ },
+ {
+  "id": "border_playground/windows/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.0016886394005268812,
+  "global": 0.00029349327087402344,
+  "size_mismatch": false
+ },
+ {
+  "id": "absolute_layout/android/light",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.2091982662677765,
+  "global": 0.005837440490722656,
+  "size_mismatch": false
+ },
+ {
+  "id": "web_view/ios/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.20019230246543884,
+  "global": 0.00722116231918335,
+  "size_mismatch": false
+ },
+ {
+  "id": "scroll_mode_test/ios/light",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.18043343722820282,
+  "global": 0.0029945969581604004,
+  "size_mismatch": false
+ },
+ {
+  "id": "absolute_layout/ios/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.14835873246192932,
+  "global": 0.003980875015258789,
+  "size_mismatch": false
+ },
+ {
+  "id": "border_playground/windows/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.001772789633832872,
+  "global": 0.0003040432929992676,
+  "size_mismatch": false
+ },
+ {
+  "id": "scattered_radio_button/android/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.2863590121269226,
+  "global": 0.003919661045074463,
+  "size_mismatch": false
+ },
+ {
+  "id": "polyline_gallery/maccatalyst/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.4493025243282318,
+  "global": 0.01014012098312378,
+  "size_mismatch": false
+ },
+ {
+  "id": "hybrid_web_view/android/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.26110824942588806,
+  "global": 0.011233150959014893,
+  "size_mismatch": false
+ },
+ {
+  "id": "border_clip_playground/ios/light",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.18529102206230164,
+  "global": 0.003173351287841797,
+  "size_mismatch": false
+ },
+ {
+  "id": "visual_states/android/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.26110824942588806,
+  "global": 0.008568763732910156,
+  "size_mismatch": false
+ },
+ {
+  "id": "header_footer_grid_horizontal/windows/light",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.144160658121109,
+  "global": 0.0012759566307067871,
+  "size_mismatch": false
+ },
+ {
+  "id": "absolute_layout/ios/light",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.16166077554225922,
+  "global": 0.005492866039276123,
+  "size_mismatch": false
+ },
+ {
+  "id": "border_resize_content/maccatalyst/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.24933862686157227,
+  "global": 0.005208730697631836,
+  "size_mismatch": false
+ },
+ {
+  "id": "scroll_mode_test/android/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.26110824942588806,
+  "global": 0.009043991565704346,
+  "size_mismatch": false
+ },
+ {
+  "id": "border_playground/android/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.10997675359249115,
+  "global": 0.004487276077270508,
+  "size_mismatch": false
+ },
+ {
+  "id": "border_stroke/android/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.14350856840610504,
+  "global": 0.029442131519317627,
+  "size_mismatch": false
+ },
+ {
+  "id": "header_footer_grid_horizontal/windows/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.42273029685020447,
+  "global": 0.00371474027633667,
+  "size_mismatch": false
+ },
+ {
+  "id": "polyline_gallery/ios/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.3646726906299591,
+  "global": 0.010906457901000977,
+  "size_mismatch": false
+ },
+ {
+  "id": "clipping/ios/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.19921556115150452,
+  "global": 0.003916800022125244,
+  "size_mismatch": false
+ },
+ {
+  "id": "custom_layout/android/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.26358264684677124,
+  "global": 0.008891165256500244,
+  "size_mismatch": false
+ },
+ {
+  "id": "refresh_view/windows/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.2847539782524109,
+  "global": 0.0037378668785095215,
+  "size_mismatch": false
+ },
+ {
+  "id": "absolute_layout/maccatalyst/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.4366118907928467,
+  "global": 0.004303276538848877,
+  "size_mismatch": false
+ },
+ {
+  "id": "absolute_layout/maccatalyst/light",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.3296489715576172,
+  "global": 0.003731071949005127,
+  "size_mismatch": false
+ },
+ {
+  "id": "date_picker/ios/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.1858682930469513,
+  "global": 0.0078051090240478516,
+  "size_mismatch": false
+ },
+ {
+  "id": "device/android/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.4376783072948456,
+  "global": 0.012834787368774414,
+  "size_mismatch": false
+ },
+ {
+  "id": "header_footer_grid/ios/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.3482303321361542,
+  "global": 0.00798875093460083,
+  "size_mismatch": false
+ },
+ {
+  "id": "filter_collection/android/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.3722149133682251,
+  "global": 0.005457937717437744,
+  "size_mismatch": false
+ },
+ {
+  "id": "formatted_text/android/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.26110824942588806,
+  "global": 0.005824863910675049,
+  "size_mismatch": false
+ },
+ {
+  "id": "picker/android/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.26110824942588806,
+  "global": 0.009990870952606201,
+  "size_mismatch": false
+ },
+ {
+  "id": "absolute_layout/windows/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.394113153219223,
+  "global": 0.003781616687774658,
+  "size_mismatch": false
+ },
+ {
+  "id": "polyline_gallery/android/light",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.38592901825904846,
+  "global": 0.012072324752807617,
+  "size_mismatch": false
+ },
+ {
+  "id": "absolute_layout/windows/light",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.3414779305458069,
+  "global": 0.003125905990600586,
+  "size_mismatch": false
+ },
+ {
+  "id": "scattered_radio_button/android/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.3740679621696472,
+  "global": 0.009728968143463135,
+  "size_mismatch": false
+ },
+ {
+  "id": "cv_visual_states/android/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.36842113733291626,
+  "global": 0.013886749744415283,
+  "size_mismatch": false
+ },
+ {
+  "id": "device/windows/light",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.4979569911956787,
+  "global": 0.0067903995513916016,
+  "size_mismatch": false
+ },
+ {
+  "id": "indicator/ios/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.28511032462120056,
+  "global": 0.013250887393951416,
+  "size_mismatch": false
+ },
+ {
+  "id": "picker/android/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.043540775775909424,
+  "global": 0.0036833882331848145,
+  "size_mismatch": false
+ },
+ {
+  "id": "controls_stack/windows/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.0822487473487854,
+  "global": 0.0007870197296142578,
+  "size_mismatch": false
+ },
+ {
+  "id": "border_stroke/android/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.26110824942588806,
+  "global": 0.035924673080444336,
+  "size_mismatch": false
+ },
+ {
+  "id": "search_bar/android/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.2134746015071869,
+  "global": 0.005562007427215576,
+  "size_mismatch": false
+ },
+ {
+  "id": "clip_views/android/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.18100520968437195,
+  "global": 0.008343398571014404,
+  "size_mismatch": false
+ },
+ {
+  "id": "refresh_view/windows/light",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.28288960456848145,
+  "global": 0.0036594271659851074,
+  "size_mismatch": false
+ },
+ {
+  "id": "hybrid_web_view/ios/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.23097528517246246,
+  "global": 0.007097780704498291,
+  "size_mismatch": false
+ },
+ {
+  "id": "cv_visual_states/windows/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.025946466252207756,
+  "global": 0.0005595088005065918,
+  "size_mismatch": false
+ },
+ {
+  "id": "layout_is_enabled/android/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.26110824942588806,
+  "global": 0.014370381832122803,
+  "size_mismatch": false
+ },
+ {
+  "id": "date_picker/ios/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.19475466012954712,
+  "global": 0.009548187255859375,
+  "size_mismatch": false
+ },
+ {
+  "id": "pickers/android/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.26110824942588806,
+  "global": 0.010432064533233643,
+  "size_mismatch": false
+ },
+ {
+  "id": "header_footer_view/windows/light",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.16878044605255127,
+  "global": 0.0032195448875427246,
+  "size_mismatch": false
+ },
+ {
+  "id": "label/android/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.275948703289032,
+  "global": 0.01055210828781128,
+  "size_mismatch": false
+ },
+ {
+  "id": "time_picker/ios/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.2582809627056122,
+  "global": 0.012657463550567627,
+  "size_mismatch": false
+ },
+ {
+  "id": "pickers/ios/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.2161475419998169,
+  "global": 0.004431664943695068,
+  "size_mismatch": false
+ },
+ {
+  "id": "label/android/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.2868705987930298,
+  "global": 0.014549970626831055,
+  "size_mismatch": false
+ },
+ {
+  "id": "device/windows/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.497153103351593,
+  "global": 0.006744444370269775,
+  "size_mismatch": false
+ },
+ {
+  "id": "device/maccatalyst/light",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.4030390977859497,
+  "global": 0.006093919277191162,
+  "size_mismatch": false
+ },
+ {
+  "id": "clip_views/android/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.26110824942588806,
+  "global": 0.009816169738769531,
+  "size_mismatch": false
+ },
+ {
+  "id": "formatted_text/android/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.17518144845962524,
+  "global": 0.00248795747756958,
+  "size_mismatch": false
+ },
+ {
+  "id": "alerts/android/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.26110824942588806,
+  "global": 0.007168292999267578,
+  "size_mismatch": false
+ },
+ {
+  "id": "pickers/android/light",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.1316765695810318,
+  "global": 0.004405677318572998,
+  "size_mismatch": false
+ },
+ {
+  "id": "border_resize_content/ios/dark",
+  "y": 1,
+  "in_orig76": true,
+  "score": 0.5664153695106506,
+  "global": 0.00845193862915039,
+  "size_mismatch": false
+ },
+ {
+  "id": "ios_blur_effect/android/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.26110824942588806,
+  "global": 0.03157550096511841,
+  "size_mismatch": false
+ },
+ {
+  "id": "path_transform_string/android/light",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.4743180572986603,
+  "global": 0.012031078338623047,
+  "size_mismatch": false
+ },
+ {
+  "id": "border_playground/maccatalyst/dark",
+  "y": 0,
+  "in_orig76": true,
+  "score": 0.2511054277420044,
+  "global": 0.0046991705894470215,
+  "size_mismatch": false
+ },
+ {
+  "id": "header_footer_view/windows/dark",
+  "y": 1,
+  "in_orig76": false,
+  "score": 0.16878272593021393,
+  "global": 0.003084242343902588,
+  "size_mismatch": false
+ },
+ {
+  "id": "search_bar/android/dark",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.26110824942588806,
+  "global": 0.009184539318084717,
+  "size_mismatch": false
+ },
+ {
+  "id": "application_control/android/dark",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.26110824942588806,
+  "global": 0.0039803385734558105,
+  "size_mismatch": false
+ },
+ {
+  "id": "border_resize_content/ios/light",
+  "y": 1,
+  "in_orig76": false,
+  "score": 0.5613294243812561,
+  "global": 0.008061408996582031,
+  "size_mismatch": false
+ },
+ {
+  "id": "some_empty_groups/ios/dark",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.4003676772117615,
+  "global": 0.009439229965209961,
+  "size_mismatch": false
+ },
+ {
+  "id": "ios_entry/ios/dark",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.2584477961063385,
+  "global": 0.01358729600906372,
+  "size_mismatch": false
+ },
+ {
+  "id": "button/maccatalyst/light",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.5098103880882263,
+  "global": 0.008367955684661865,
+  "size_mismatch": false
+ },
+ {
+  "id": "input_controls/android/light",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.027046944946050644,
+  "global": 0.0002358555793762207,
+  "size_mismatch": false
+ },
+ {
+  "id": "web_view/maccatalyst/dark",
+  "y": 1,
+  "in_orig76": false,
+  "score": 0.2804468870162964,
+  "global": 0.005094349384307861,
+  "size_mismatch": false
+ },
+ {
+  "id": "pickers/ios/light",
+  "y": 1,
+  "in_orig76": false,
+  "score": 0.2139018177986145,
+  "global": 0.004363358020782471,
+  "size_mismatch": false
+ },
+ {
+  "id": "polyline_gallery/android/dark",
+  "y": 1,
+  "in_orig76": false,
+  "score": 0.3950991630554199,
+  "global": 0.015620946884155273,
+  "size_mismatch": false
+ },
+ {
+  "id": "scroll_mode_test/maccatalyst/light",
+  "y": 1,
+  "in_orig76": false,
+  "score": 0.4034854769706726,
+  "global": 0.00344008207321167,
+  "size_mismatch": false
+ },
+ {
+  "id": "some_empty_groups/ios/light",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.33831652998924255,
+  "global": 0.0077018141746521,
+  "size_mismatch": false
+ },
+ {
+  "id": "empty_view_rtl/ios/dark",
+  "y": 1,
+  "in_orig76": false,
+  "score": 0.22289124131202698,
+  "global": 0.0030078887939453125,
+  "size_mismatch": false
+ },
+ {
+  "id": "indicator/maccatalyst/light",
+  "y": 1,
+  "in_orig76": false,
+  "score": 0.2546224296092987,
+  "global": 0.0070855021476745605,
+  "size_mismatch": false
+ },
+ {
+  "id": "swipe_view_shadow/ios/light",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.012680106796324253,
+  "global": 0.000949561595916748,
+  "size_mismatch": false
+ },
+ {
+  "id": "rectangle_gallery/android/light",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.22704586386680603,
+  "global": 0.014741599559783936,
+  "size_mismatch": false
+ },
+ {
+  "id": "filter_collection/maccatalyst/light",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.2546224296092987,
+  "global": 0.00372999906539917,
+  "size_mismatch": false
+ },
+ {
+  "id": "radio_button_group_gallery/android/dark",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.26110824942588806,
+  "global": 0.005749404430389404,
+  "size_mismatch": false
+ },
+ {
+  "id": "stepper/android/dark",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.26110824942588806,
+  "global": 0.004086971282958984,
+  "size_mismatch": false
+ },
+ {
+  "id": "controls_stack/maccatalyst/dark",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.3075163960456848,
+  "global": 0.0031933188438415527,
+  "size_mismatch": false
+ },
+ {
+  "id": "empty_view_load_simulate/android/light",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.2416244000196457,
+  "global": 0.0038544535636901855,
+  "size_mismatch": false
+ },
+ {
+  "id": "containers/ios/dark",
+  "y": 1,
+  "in_orig76": false,
+  "score": 0.16283759474754333,
+  "global": 0.007976233959197998,
+  "size_mismatch": false
+ },
+ {
+  "id": "relative_layout/maccatalyst/dark",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.24933862686157227,
+  "global": 0.0018227100372314453,
+  "size_mismatch": false
+ },
+ {
+  "id": "animation/maccatalyst/light",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.2546224296092987,
+  "global": 0.00186234712600708,
+  "size_mismatch": false
+ },
+ {
+  "id": "animation/maccatalyst/dark",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.24933862686157227,
+  "global": 0.0018227100372314453,
+  "size_mismatch": false
+ },
+ {
+  "id": "custom_layout/maccatalyst/dark",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.24933862686157227,
+  "global": 0.0018227100372314453,
+  "size_mismatch": false
+ },
+ {
+  "id": "content_view/maccatalyst/light",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.2546224296092987,
+  "global": 0.00186234712600708,
+  "size_mismatch": false
+ },
+ {
+  "id": "containers/android/light",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.11018145084381104,
+  "global": 0.007333993911743164,
+  "size_mismatch": false
+ },
+ {
+  "id": "radio_template_from_style/ios/light",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.09573196619749069,
+  "global": 0.0028377175331115723,
+  "size_mismatch": false
+ },
+ {
+  "id": "empty_view_load_simulate/maccatalyst/light",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.2546224296092987,
+  "global": 0.00186234712600708,
+  "size_mismatch": false
+ },
+ {
+  "id": "staggered_layout/maccatalyst/dark",
+  "y": 0,
+  "in_orig76": false,
+  "score": 0.24933862686157227,
+  "global": 0.0018227100372314453,
+  "size_mismatch": false
+ }
+]

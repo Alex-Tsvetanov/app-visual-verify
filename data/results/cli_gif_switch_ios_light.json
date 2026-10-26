@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "reference": "/Users/Alex.Tsvetanov/Documents/GitHub/maui/port/cpp/docs/comparison/captures/ios/maui/switch_light.gif",
+  "candidate": "/Users/Alex.Tsvetanov/Documents/GitHub/maui/port/cpp/docs/comparison/captures/ios/cpp/switch_light.gif",
+  "kind": "gif",
+  "verdict": "SAME",
+  "verdict_detail": {
+    "verdict": "SAME",
+    "primary": "temporal.score",
+    "score": 9.27512638667638e-05,
+    "thresholds": {
+      "diff": 0.09700802147815685,
+      "minor": 0.048504010739078424
+    }
+  },
+  "layers": {
+    "pixel": {
+      "available": true,
+      "score": 0.19172239303588867,
+      "details": {
+        "max_tile": 0.19172239303588867,
+        "mean_tile": 0.0020852889865636826,
+        "global_dissimilarity": 0.0020006299018859863,
+        "grid": 16,
+        "size_mismatch": false,
+        "ref_size": [
+          400,
+          870
+        ],
+        "cand_size": [
+          400,
+          870
+        ]
+      }
+    },
+    "temporal": {
+      "available": true,
+      "score": 9.27512638667638e-05,
+      "details": {
+        "dtw": 9.27512638667638e-05,
+        "static_full": 0.003458561738813648,
+        "motion": true,
+        "lag_max": 0.0,
+        "frames": [
+          2,
+          2
+        ],
+        "path_len": 2
+      }
+    },
+    "layout": {
+      "available": false,
+      "score": null,
+      "reason": "no layout trees supplied"
+    }
+  }
+}

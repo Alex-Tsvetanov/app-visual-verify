@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "note": "fitted on all labels (in-sample); MINOR band width is a guess",
+  "static": {
+    "score": "pixel.score",
+    "diff": 0.28034964203834534,
+    "minor": 0.14017482101917267
+  },
+  "gif": {
+    "score": "temporal.score",
+    "diff": 0.09700802147815685,
+    "minor": 0.048504010739078424
+  }
+}

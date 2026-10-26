@@ -1,0 +1,8 @@
+encoder dino dim 384 tiles 256
+real: 108 pairs, orig76 76, new 32
+E1 DiffSpot val (synthetic): AUC 1.000 (1.00-1.00) acc 0.98 n=225 pos=150
+E1 zero-shot on 108 real labels: AUC 0.598 (0.55-0.66) acc 0.44 n=108 pos=47
+E2 pretrained+finetune HELD-OUT 32: AUC 0.698 (0.53-0.85) acc 0.28 n=32 pos=9
+E2 pretrained+finetune LOO 108: AUC 0.613 (0.54-0.68) acc 0.44 n=108 pos=47
+E3 from scratch HELD-OUT 32: AUC 0.304 (0.12-0.52) acc 0.28 n=32 pos=9
+E3 from scratch LOO 108: AUC 0.478 (0.36-0.59) acc 0.45 n=108 pos=47

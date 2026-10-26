@@ -1,0 +1,8 @@
+encoder rn dim 384 tiles 256
+real: 108 pairs, orig76 76, new 32
+E1 DiffSpot val (synthetic): AUC 1.000 (1.00-1.00) acc 0.97 n=225 pos=150
+E1 zero-shot on 108 real labels: AUC 0.624 (0.56-0.69) acc 0.44 n=108 pos=47
+E2 pretrained+finetune HELD-OUT 32: AUC 0.722 (0.58-0.84) acc 0.28 n=32 pos=9
+E2 pretrained+finetune LOO 108: AUC 0.664 (0.59-0.74) acc 0.44 n=108 pos=47
+E3 from scratch HELD-OUT 32: AUC 0.449 (0.23-0.67) acc 0.28 n=32 pos=9
+E3 from scratch LOO 108: AUC 0.556 (0.45-0.67) acc 0.44 n=108 pos=47
