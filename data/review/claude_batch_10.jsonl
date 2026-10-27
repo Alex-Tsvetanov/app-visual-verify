@@ -1,0 +1,36 @@
+{"key": "auto_size_shapes/ios/dark", "verdict": "ACCEPTED", "reason": "Label, ellipse and colored regions match the desired layout."}
+{"key": "auto_size_shapes/ios/light", "verdict": "ACCEPTED", "reason": "Label, ellipse and colored regions match the desired layout."}
+{"key": "basic_grouping/ios/dark", "verdict": "ACCEPTED", "reason": "Grouped list headers, items and footers are identical."}
+{"key": "basic_grouping/ios/light", "verdict": "ACCEPTED", "reason": "Grouped list headers, items and footers are identical."}
+{"key": "basic_swipe/ios/dark", "verdict": "ACCEPTED", "reason": "All five swipe buttons match in text and layout."}
+{"key": "basic_swipe/ios/light", "verdict": "ACCEPTED", "reason": "All five swipe buttons match in text and layout."}
+{"key": "behaviors/ios/dark", "verdict": "ACCEPTED", "reason": "Title and entry placeholder match the desired UI."}
+{"key": "behaviors/ios/light", "verdict": "ACCEPTED", "reason": "Title and entry placeholder match the desired UI."}
+{"key": "border_alignment/ios/dark", "verdict": "DECLINED", "reason": "Candidate borders have rounded corners while desired borders are square."}
+{"key": "border_alignment/ios/light", "verdict": "DECLINED", "reason": "Candidate borders have rounded corners while desired borders are square."}
+{"key": "border_clip_playground/ios/dark", "verdict": "DECLINED", "reason": "Border Shape picker shows RoundRectangle in candidate but is empty in desired."}
+{"key": "border_clip_playground/ios/light", "verdict": "DECLINED", "reason": "Border Shape picker shows RoundRectangle in candidate but is empty in desired."}
+{"key": "border/ios/dark", "verdict": "ACCEPTED", "reason": "Bordered box matches in position, shape and colors."}
+{"key": "border/ios/light", "verdict": "ACCEPTED", "reason": "Bordered box and its text match the desired UI."}
+{"key": "border_layout/ios/dark", "verdict": "ACCEPTED", "reason": "Slider, label and striped border match the desired UI."}
+{"key": "border_layout/ios/light", "verdict": "ACCEPTED", "reason": "Slider, label and striped border match the desired UI."}
+{"key": "border_playground/ios/dark", "verdict": "ACCEPTED", "reason": "Preview, fields and sliders match the desired UI."}
+{"key": "border_playground/ios/light", "verdict": "ACCEPTED", "reason": "Preview, fields and sliders match the desired UI."}
+{"key": "border_resize_content/ios/dark", "verdict": "DECLINED", "reason": "Triangle borders render with different shape and clipping than desired."}
+{"key": "border_resize_content/ios/light", "verdict": "DECLINED", "reason": "Triangle borders render with different shape and clipping than desired."}
+{"key": "border_stroke/ios/dark", "verdict": "ACCEPTED", "reason": "Stroke thickness boxes, label and slider match the desired UI."}
+{"key": "border_stroke/ios/light", "verdict": "ACCEPTED", "reason": "Stroke thickness boxes, label and slider match the desired UI."}
+{"key": "border_styles/ios/dark", "verdict": "DECLINED", "reason": "Parent-bound StrokeShape box has a much larger corner radius in the candidate."}
+{"key": "border_styles/ios/light", "verdict": "DECLINED", "reason": "Parent-bound StrokeShape box has a much larger corner radius in the candidate."}
+{"key": "borderless/ios/dark", "verdict": "ACCEPTED", "reason": "Colored regions are identical."}
+{"key": "borderless/ios/light", "verdict": "ACCEPTED", "reason": "Colored regions are identical."}
+{"key": "box_view/ios/dark", "verdict": "ACCEPTED", "reason": "Box views, labels and corner radii match the desired UI."}
+{"key": "box_view/ios/light", "verdict": "ACCEPTED", "reason": "Box views, labels and corner radii match the desired UI."}
+{"key": "button/ios/dark", "verdict": "ACCEPTED", "reason": "All buttons match in text, colors and layout."}
+{"key": "button/ios/light", "verdict": "ACCEPTED", "reason": "All buttons match in text, colors and layout."}
+{"key": "carousel_page/ios/dark", "verdict": "ACCEPTED", "reason": "Card 1 page and border match the desired UI."}
+{"key": "carousel_page/ios/light", "verdict": "ACCEPTED", "reason": "Card 1 page and border match the desired UI."}
+{"key": "carousel_view/ios/dark", "verdict": "DECLINED", "reason": "Candidate shows slider, stepper, switch and indicator absent from the empty desired screen."}
+{"key": "carousel_view/ios/light", "verdict": "DECLINED", "reason": "Candidate shows slider, stepper, switch and indicator absent from the empty desired screen."}
+{"key": "chat_example/ios/dark", "verdict": "ACCEPTED", "reason": "Toolbar buttons and empty chat area match the desired UI."}
+{"key": "chat_example/ios/light", "verdict": "ACCEPTED", "reason": "Toolbar buttons and empty chat area match the desired UI."}

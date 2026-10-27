@@ -1,0 +1,36 @@
+{"key": "custom_layout/android/dark", "verdict": "DECLINED", "reason": "Side panels and top/bottom bars render in a visibly different grey shade than the desired UI."}
+{"key": "custom_layout/android/light", "verdict": "ACCEPTED", "reason": "Layout, labels and colours match the desired UI."}
+{"key": "custom_size_swipe/android/dark", "verdict": "ACCEPTED", "reason": "Swipe content, button and status text match the desired UI."}
+{"key": "custom_size_swipe/android/light", "verdict": "ACCEPTED", "reason": "Swipe content, button and status text match the desired UI."}
+{"key": "custom_swipe_item_view/android/dark", "verdict": "ACCEPTED", "reason": "Header text and card content match the desired UI."}
+{"key": "custom_swipe_item_view/android/light", "verdict": "ACCEPTED", "reason": "Header text and card content match the desired UI."}
+{"key": "cv_visual_states/android/dark", "verdict": "ACCEPTED", "reason": "Section headers and list areas match apart from a pixel-level offset."}
+{"key": "cv_visual_states/android/light", "verdict": "ACCEPTED", "reason": "Section headers and items match apart from a pixel-level offset."}
+{"key": "data_template_selector/android/dark", "verdict": "ACCEPTED", "reason": "Search field, list and keyboard match; only a text caret differs."}
+{"key": "data_template_selector/android/light", "verdict": "ACCEPTED", "reason": "Search field and day list match the desired UI."}
+{"key": "date_picker/android/dark", "verdict": "DECLINED", "reason": "Disabled picker appears enabled and the buttons use a darker grey than desired."}
+{"key": "date_picker/android/light", "verdict": "ACCEPTED", "reason": "All pickers, labels and buttons match the desired UI."}
+{"key": "device/android/dark", "verdict": "DECLINED", "reason": "Platform and version text differ and the text block is positioned differently."}
+{"key": "device/android/light", "verdict": "DECLINED", "reason": "Platform and version text differ and the text block is positioned differently."}
+{"key": "dispatcher/android/dark", "verdict": "DECLINED", "reason": "Buttons render in a noticeably darker grey than the desired UI."}
+{"key": "dispatcher/android/light", "verdict": "ACCEPTED", "reason": "Text and buttons match the desired UI."}
+{"key": "drag_drop/android/dark", "verdict": "ACCEPTED", "reason": "Colour swatches and labels match the desired UI."}
+{"key": "drag_drop/android/light", "verdict": "ACCEPTED", "reason": "Colour swatches and labels match the desired UI."}
+{"key": "editor/android/dark", "verdict": "DECLINED", "reason": "First editor lacks the focused state and placeholder text is dimmer than desired."}
+{"key": "editor/android/light", "verdict": "ACCEPTED", "reason": "All editors, labels and colours match the desired UI."}
+{"key": "effects/android/dark", "verdict": "DECLINED", "reason": "Buttons render in a darker grey and focus moved to the first entry."}
+{"key": "effects/android/light", "verdict": "ACCEPTED", "reason": "Entries, buttons and status text match the desired UI."}
+{"key": "ellipse_gallery/android/dark", "verdict": "ACCEPTED", "reason": "All shapes and labels match the desired UI."}
+{"key": "ellipse_gallery/android/light", "verdict": "ACCEPTED", "reason": "All shapes and labels match the desired UI."}
+{"key": "empty_view/android/dark", "verdict": "ACCEPTED", "reason": "Filter, list and keyboard match; only a text caret differs."}
+{"key": "empty_view/android/light", "verdict": "ACCEPTED", "reason": "Filter and list items match the desired UI."}
+{"key": "empty_view_load_simulate/android/dark", "verdict": "ACCEPTED", "reason": "Loading message matches the desired UI."}
+{"key": "empty_view_load_simulate/android/light", "verdict": "ACCEPTED", "reason": "Loading message matches the desired UI."}
+{"key": "empty_view_null/android/dark", "verdict": "ACCEPTED", "reason": "Empty message matches the desired UI."}
+{"key": "empty_view_null/android/light", "verdict": "ACCEPTED", "reason": "Empty message matches the desired UI."}
+{"key": "empty_view_rtl/android/dark", "verdict": "ACCEPTED", "reason": "FlowDirection field, filter and grid items match the desired UI."}
+{"key": "empty_view_rtl/android/light", "verdict": "ACCEPTED", "reason": "FlowDirection field, filter and grid items match the desired UI."}
+{"key": "empty_view_selector/android/dark", "verdict": "ACCEPTED", "reason": "Instructions, filter, item and keyboard match; only a text caret differs."}
+{"key": "empty_view_selector/android/light", "verdict": "ACCEPTED", "reason": "Instructions, filter and item match the desired UI."}
+{"key": "empty_view_swap/android/dark", "verdict": "DECLINED", "reason": "Clear and Fill buttons render in a darker grey than the desired UI."}
+{"key": "empty_view_swap/android/light", "verdict": "ACCEPTED", "reason": "Filter, toggle, buttons and grid match the desired UI."}

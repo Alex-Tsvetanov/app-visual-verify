@@ -1,0 +1,36 @@
+{"key": "ios_picker/android/dark", "verdict": "DECLINED", "reason": "Status bar time and icons are dark instead of light on the dark theme."}
+{"key": "ios_picker/android/light", "verdict": "ACCEPTED", "reason": "Picker and button match in content, layout and colour."}
+{"key": "ios_safe_area/android/dark", "verdict": "DECLINED", "reason": "Status bar time and icons are dark instead of light on the dark theme."}
+{"key": "ios_safe_area/android/light", "verdict": "ACCEPTED", "reason": "Text and button match in content and layout."}
+{"key": "ios_scroll_view/android/dark", "verdict": "DECLINED", "reason": "Status bar content is dark instead of light and buttons are a darker grey."}
+{"key": "ios_scroll_view/android/light", "verdict": "ACCEPTED", "reason": "Slider and buttons match in content and layout."}
+{"key": "ios_search_bar/android/dark", "verdict": "DECLINED", "reason": "Status bar content is dark instead of light and buttons are a darker grey."}
+{"key": "ios_search_bar/android/light", "verdict": "ACCEPTED", "reason": "Search bar and buttons match in content and layout."}
+{"key": "ios_slider_update_on_tap/android/dark", "verdict": "DECLINED", "reason": "Status bar time and icons are dark instead of light on the dark theme."}
+{"key": "ios_slider_update_on_tap/android/light", "verdict": "ACCEPTED", "reason": "Label, slider and button match."}
+{"key": "ios_swipe_transition/android/dark", "verdict": "DECLINED", "reason": "Status bar time and icons are dark instead of light on the dark theme."}
+{"key": "ios_swipe_transition/android/light", "verdict": "ACCEPTED", "reason": "Buttons, swipe area and labels match."}
+{"key": "ios_time_picker/android/dark", "verdict": "DECLINED", "reason": "Status bar content is dark instead of light and the button is a darker grey."}
+{"key": "ios_time_picker/android/light", "verdict": "ACCEPTED", "reason": "Time picker, button and label match."}
+{"key": "items/android/dark", "verdict": "DECLINED", "reason": "Status bar time and icons are dark instead of light on the dark theme."}
+{"key": "items/android/light", "verdict": "ACCEPTED", "reason": "List items and label match."}
+{"key": "items_updating_scroll_mode/android/dark", "verdict": "DECLINED", "reason": "Status bar time and icons are dark instead of light on the dark theme."}
+{"key": "items_updating_scroll_mode/android/light", "verdict": "ACCEPTED", "reason": "Buttons, status line and list items match."}
+{"key": "label/android/dark", "verdict": "DECLINED", "reason": "A truncated Lorem line shows an extra clipped character and the status bar is dark instead of light."}
+{"key": "label/android/light", "verdict": "DECLINED", "reason": "The third single-line Lorem label is clipped differently and shows an extra partial character."}
+{"key": "layout_is_enabled/android/dark", "verdict": "DECLINED", "reason": "Enabled buttons are a noticeably darker grey and the status bar is dark instead of light."}
+{"key": "layout_is_enabled/android/light", "verdict": "ACCEPTED", "reason": "All enabled and disabled states and colours match."}
+{"key": "line_gallery/android/dark", "verdict": "DECLINED", "reason": "Status bar time and icons are dark instead of light on the dark theme."}
+{"key": "line_gallery/android/light", "verdict": "ACCEPTED", "reason": "Labels and lines match in position, colour and style."}
+{"key": "line_join_gallery/android/dark", "verdict": "DECLINED", "reason": "Status bar time and icons are dark instead of light on the dark theme."}
+{"key": "line_join_gallery/android/light", "verdict": "ACCEPTED", "reason": "Miter, bevel and round joins match."}
+{"key": "measure_first_strategy/android/dark", "verdict": "DECLINED", "reason": "Status bar time and icons are dark instead of light on the dark theme."}
+{"key": "measure_first_strategy/android/light", "verdict": "ACCEPTED", "reason": "Header, button and grouped list match."}
+{"key": "menu_bar/android/dark", "verdict": "DECLINED", "reason": "Status bar content is dark instead of light and the button is a darker grey."}
+{"key": "menu_bar/android/light", "verdict": "ACCEPTED", "reason": "Label and button match."}
+{"key": "modal/android/dark", "verdict": "DECLINED", "reason": "Status bar content is dark instead of light and button shades differ."}
+{"key": "modal/android/light", "verdict": "ACCEPTED", "reason": "Buttons, disabled state and labels match."}
+{"key": "multiple_bound_selection/android/dark", "verdict": "DECLINED", "reason": "Status bar time and icons are dark instead of light on the dark theme."}
+{"key": "multiple_bound_selection/android/light", "verdict": "ACCEPTED", "reason": "Selection highlights, labels and buttons match."}
+{"key": "navigation_gallery/android/dark", "verdict": "DECLINED", "reason": "Status bar content is dark instead of light and button shades differ."}
+{"key": "navigation_gallery/android/light", "verdict": "ACCEPTED", "reason": "Status text and all buttons match."}

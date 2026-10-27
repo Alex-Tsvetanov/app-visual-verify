@@ -1,0 +1,36 @@
+{"key": "styles/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Labels, colours and styled button match."}
+{"key": "styles/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Labels, colours and styled button match."}
+{"key": "swipe_gesture/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Header, card content and status text match."}
+{"key": "swipe_gesture/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Header, card content and status text match."}
+{"key": "swipe_item_position/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Mode picker bar and grey content area match."}
+{"key": "swipe_item_position/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Mode picker bar and grey content area match."}
+{"key": "swipe_item_size/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All section labels and swipe rows match in size and order."}
+{"key": "swipe_item_size/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All section labels and swipe rows match in size and order."}
+{"key": "swipe_refresh/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Instruction and status text match."}
+{"key": "swipe_refresh/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Instruction and status text match."}
+{"key": "swipe_threshold/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Labels, swipe rows, sliders and status line match."}
+{"key": "swipe_threshold/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Labels, swipe rows, sliders and status line match."}
+{"key": "swipe_view_margin/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Instructions, sliders and swipe rows match."}
+{"key": "swipe_view_margin/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Instructions, sliders and swipe rows match."}
+{"key": "swipe_view_shadow/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Labels and both content cards match."}
+{"key": "swipe_view_shadow/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Labels and both content cards match."}
+{"key": "switch/maccatalyst/dark", "verdict": "DECLINED", "reason": "ThumbColor switch thumb is orange in the candidate but white in the desired UI."}
+{"key": "switch_grouping/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Toggle, group headers, members and totals match."}
+{"key": "switch_grouping/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Toggle, group headers, members and totals match."}
+{"key": "switch/maccatalyst/light", "verdict": "DECLINED", "reason": "ThumbColor switch thumb is orange in the candidate but white in the desired UI."}
+{"key": "tabbed_flyout/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Buttons and status text match."}
+{"key": "tabbed_flyout/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Buttons and status text match."}
+{"key": "table_view/maccatalyst/dark", "verdict": "DECLINED", "reason": "Name value moved to far right, Account text colour differs and cell backgrounds differ."}
+{"key": "table_view/maccatalyst/light", "verdict": "DECLINED", "reason": "Name value moved to far right, Account text colour differs and cell backgrounds are white instead of grey."}
+{"key": "templated_view/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Captions, card and compact cards match."}
+{"key": "templated_view/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Captions, card and compact cards match."}
+{"key": "time_picker/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All pickers, backgrounds and buttons match."}
+{"key": "time_picker/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All pickers, backgrounds and buttons match."}
+{"key": "title_bar/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Content and colour options, checkboxes and buttons match."}
+{"key": "title_bar/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Content and colour options, checkboxes and buttons match."}
+{"key": "toolbar/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Status label and all buttons match."}
+{"key": "toolbar/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Status label and all buttons match."}
+{"key": "transform_playground/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Preview box and all transform sliders match apart from minor border rendering."}
+{"key": "transform_playground/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Preview box and all transform sliders match apart from minor border rendering."}
+{"key": "transformations/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Button, sliders, steppers and labels match."}
+{"key": "transformations/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Button, sliders, steppers and labels match."}

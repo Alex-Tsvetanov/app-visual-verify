@@ -1,0 +1,5650 @@
+{
+ "absolute_layout/android/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "absolute_layout/android/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "activity_indicator/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "activity_indicator/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "adaptive_collection/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "adaptive_collection/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "alerts/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "alerts/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "alignment/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "alignment/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "animation/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "animation/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "app_theme_binding/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "app_theme_binding/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "application_control/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "application_control/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "auto_size_shapes/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "auto_size_shapes/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "basic_grouping/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "basic_grouping/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "basic_swipe/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "basic_swipe/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "behaviors/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "behaviors/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_clip_playground/android/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "border_clip_playground/android/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "border/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_layout/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_layout/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_playground/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_playground/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_resize_content/android/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "border_resize_content/android/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "border_stroke/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_stroke/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "borderless/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "borderless/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "box_view/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "box_view/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "button/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "button/android/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "carousel_page/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "carousel_page/android/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "chat_example/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "chat_example/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "check_box/android/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "check_box/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "chrome/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "chrome/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_corner_radius/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_corner_radius/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_gallery/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_gallery/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_views/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "clip_views/android/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "clipping/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clipping/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "collectionview/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "collectionview/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "composition_gallery/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "composition_gallery/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "containers/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "containers/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "content_view/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "content_view/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "context_flyout/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "context_flyout/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "controls_stack/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "controls_stack/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_layout/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "custom_layout/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_size_swipe/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_size_swipe/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_swipe_item_view/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_swipe_item_view/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "cv_visual_states/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "cv_visual_states/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "data_template_selector/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "data_template_selector/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "date_picker/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "date_picker/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "device/android/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "device/android/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "dispatcher/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "dispatcher/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "drag_drop/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "drag_drop/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "editor/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "editor/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "effects/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "effects/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ellipse_gallery/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ellipse_gallery/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_load_simulate/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_load_simulate/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_null/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_null/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_rtl/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_rtl/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_selector/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_selector/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_swap/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "empty_view_swap/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_template/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_template/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_view/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_view/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "entry/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "entry/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "filter_collection/android/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "filter_collection/android/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "filter_selection/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "filter_selection/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "flex_layout/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "flex_layout/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "focus/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "focus/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "fonts/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "fonts/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "footer_only_string/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "footer_only_string/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "formatted_text/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "formatted_text/android/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "gestures/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "gestures/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "gradient/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "gradient/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grid/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grid_grouping/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grid_grouping/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grid/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grouping_no_templates/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grouping_no_templates/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grouping_plus_selection/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grouping_plus_selection/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_grid/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_grid_horizontal/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_grid_horizontal/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_grid/android/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "header_footer/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_template/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_template/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_view/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "header_footer_view/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "hit_testing/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "hit_testing/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "horizontal_stack/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "horizontal_stack/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "hybrid_web_view/android/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "hybrid_web_view/android/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "image_button/android/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "image_button/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "image/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "image/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "indicator/android/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "indicator/android/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "input_controls/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "input_controls/android/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "input_transparent/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "input_transparent/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "invalidate_brush/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "invalidate_brush/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "invalidate_shadow_host/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "invalidate_shadow_host/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_blur_effect/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "ios_blur_effect/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_date_picker/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "ios_date_picker/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_entry/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "ios_entry/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_first_responder/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "ios_first_responder/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_pan_gesture/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_pan_gesture/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_picker/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "ios_picker/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_safe_area/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "ios_safe_area/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_scroll_view/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "ios_scroll_view/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_search_bar/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "ios_search_bar/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_slider_update_on_tap/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "ios_slider_update_on_tap/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_swipe_transition/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "ios_swipe_transition/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_time_picker/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "ios_time_picker/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "items/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "items/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "items_updating_scroll_mode/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "items_updating_scroll_mode/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "label/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "label/android/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "layout_is_enabled/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "layout_is_enabled/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "line_gallery/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "line_gallery/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "line_join_gallery/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "line_join_gallery/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "measure_first_strategy/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "measure_first_strategy/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "menu_bar/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "menu_bar/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "modal/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "modal/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "multiple_bound_selection/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "multiple_bound_selection/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "navigation_gallery/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "navigation_gallery/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "nested_collection/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "nested_collection/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "pan_gesture_events/android/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "pan_gesture_events/android/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "path_aspect_gallery/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_aspect_gallery/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_gallery/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_gallery/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_transform_string/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_transform_string/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "picker/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "picker/android/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "pickers/android/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "pickers/android/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "pointer_gesture/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "pointer_gesture/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "polygon_gallery/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "polygon_gallery/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "polyline_gallery/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "polyline_gallery/android/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "preselected_item/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "preselected_item/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "preselected_items/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "preselected_items/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "progress_bar/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "progress_bar/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_border/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "radio_button_border/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_content/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "radio_button_content/android/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "radio_button_group_binding/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "radio_button_group_binding/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "radio_button_group_gallery/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "radio_button_group_gallery/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_content_properties/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_content_properties/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_template_from_style/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_template_from_style/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "rectangle_gallery/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "rectangle_gallery/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "refresh_view/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "refresh_view/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "relative_layout/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "relative_layout/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scattered_radio_button/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "scattered_radio_button/android/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "scroll_mode_test/android/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "scroll_mode_test/android/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "scroll_to_group/android/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "scroll_to_group/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scroll_view/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scroll_view/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "search_bar/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "search_bar/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "selection_command_param/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "selection_command_param/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "selection_synchronization/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "selection_synchronization/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "semantics/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "semantics/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shadow_playground/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shadow_playground/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shape_app_theme/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shape_app_theme/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shapes/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shapes/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "single_bound_selection/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "single_bound_selection/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "slider/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "slider/android/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "some_empty_groups/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "some_empty_groups/android/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "stack_layout/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "stack_layout/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "staggered_layout/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "staggered_layout/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "stepper/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "stepper/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "styles/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "styles/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_gesture/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_gesture/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_item_position/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "swipe_item_position/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_item_size/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_item_size/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_refresh/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_refresh/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_threshold/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_threshold/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_view_margin/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_view_margin/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_view_shadow/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_view_shadow/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "switch/android/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "switch_grouping/android/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "switch_grouping/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "switch/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "tabbed_flyout/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "tabbed_flyout/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "templated_view/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "templated_view/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "time_picker/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "time_picker/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "title_bar/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "title_bar/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "toolbar/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "toolbar/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "transform_playground/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "transform_playground/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "transformations/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "transformations/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "triggers/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "triggers/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "update_path_data/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "update_path_data/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "varied_size_selector/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "varied_size_selector/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "vertical_stack/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "vertical_stack/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "visual_states/android/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "visual_states/android/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "web_view/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "web_view/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "z_index/android/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "z_index/android/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "absolute_layout/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "absolute_layout/ios/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "activity_indicator/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "activity_indicator/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "adaptive_collection/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "adaptive_collection/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "alerts/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "alerts/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "alignment/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "alignment/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "animation/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "animation/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "app_theme_binding/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "app_theme_binding/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "application_control/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "application_control/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "auto_size_shapes/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "auto_size_shapes/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "basic_grouping/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "basic_grouping/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "basic_swipe/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "basic_swipe/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "behaviors/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "behaviors/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_alignment/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "border_alignment/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "border_clip_playground/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "border_clip_playground/ios/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "border/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_layout/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_layout/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_playground/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_playground/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_resize_content/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "border_resize_content/ios/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "border_stroke/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_stroke/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_styles/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "border_styles/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "borderless/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "borderless/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "box_view/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "box_view/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "button/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "button/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "carousel_page/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "carousel_page/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "carousel_view/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "carousel_view/ios/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "chat_example/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "chat_example/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "check_box/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "check_box/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "chrome/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "chrome/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_corner_radius/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_corner_radius/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_gallery/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_gallery/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_views/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_views/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clipping/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clipping/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "collectionview/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "collectionview/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "composition_gallery/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "composition_gallery/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "containers/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "containers/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "content_view/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "content_view/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "context_flyout/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "context_flyout/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "controls_stack/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "controls_stack/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "custom_layout/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_layout/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_size_swipe/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_size_swipe/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_swipe_item_view/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_swipe_item_view/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "cv_visual_states/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "cv_visual_states/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "data_template_selector/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "data_template_selector/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "date_picker/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "date_picker/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "device/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "device/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "dispatcher/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "dispatcher/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "drag_drop/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "drag_drop/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "editor/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "editor/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "effects/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "effects/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ellipse_gallery/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ellipse_gallery/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_load_simulate/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_load_simulate/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_null/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_null/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_rtl/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "empty_view_rtl/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "empty_view_selector/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_selector/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_swap/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_swap/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_template/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_template/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_view/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_view/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "entry/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "entry/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "filter_collection/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "filter_collection/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "filter_selection/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "filter_selection/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "flex_layout/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "flex_layout/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "focus/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "focus/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "fonts/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "fonts/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "footer_only_string/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "footer_only_string/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "formatted_text/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "formatted_text/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "frame/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "frame/ios/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "gestures/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "gestures/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "gradient/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "gradient/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grid/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grid_definitions/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "grid_definitions/ios/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "grid_grouping/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grid_grouping/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grid_layout/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "grid_layout/ios/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "grid/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grouping_no_templates/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grouping_no_templates/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grouping_plus_selection/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grouping_plus_selection/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_grid/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "header_footer_grid_horizontal/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "header_footer_grid_horizontal/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "header_footer_grid/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "header_footer/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_template/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_template/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_view/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_view/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "hit_testing/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "hit_testing/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "horizontal_stack/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "horizontal_stack_layout/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "horizontal_stack_layout/ios/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "horizontal_stack/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "hybrid_web_view/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "hybrid_web_view/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "image_button/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "image_button/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "image/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "image/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "indicator/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "indicator/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "input_controls/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "input_controls/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "input_transparent/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "input_transparent/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "invalidate_brush/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "invalidate_brush/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "invalidate_shadow_host/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "invalidate_shadow_host/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_blur_effect/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_blur_effect/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_date_picker/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_date_picker/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_entry/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "ios_entry/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "ios_first_responder/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_first_responder/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_pan_gesture/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_pan_gesture/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_picker/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_picker/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_safe_area/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_safe_area/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_scroll_view/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_scroll_view/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_search_bar/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "ios_search_bar/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "ios_slider_update_on_tap/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_slider_update_on_tap/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_swipe_transition/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_swipe_transition/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_time_picker/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_time_picker/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "items/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "items/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "items_updating_scroll_mode/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "items_updating_scroll_mode/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "label/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "label/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "layout_is_enabled/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "layout_is_enabled/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "line_gallery/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "line_gallery/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "line_join_gallery/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "line_join_gallery/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "measure_first_strategy/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "measure_first_strategy/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "menu_bar/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "menu_bar/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "modal/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "modal/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "multiple_bound_selection/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "multiple_bound_selection/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "navigation_gallery/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "navigation_gallery/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "nested_collection/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "nested_collection/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "pan_gesture_events/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "pan_gesture_events/ios/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "path_aspect_gallery/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_aspect_gallery/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_gallery/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_gallery/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_transform_string/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_transform_string/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "picker/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "picker/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "pickers/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "pickers/ios/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "pointer_gesture/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "pointer_gesture/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "polygon_gallery/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "polygon_gallery/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "polyline_gallery/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "polyline_gallery/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "preselected_item/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "preselected_item/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "preselected_items/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "preselected_items/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "progress_bar/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "progress_bar/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_border/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_border/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_content/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_content/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group_binding/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group_binding/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group_gallery/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group_gallery/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_content_properties/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_content_properties/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_template_from_style/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_template_from_style/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "rectangle_gallery/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "rectangle_gallery/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "refresh_view/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "refresh_view/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "relative_layout/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "relative_layout/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scattered_radio_button/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scattered_radio_button/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scroll_mode_test/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "scroll_mode_test/ios/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "scroll_to_group/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scroll_to_group/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scroll_view/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scroll_view/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "search_bar/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "search_bar/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "selection_command_param/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "selection_command_param/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "selection_synchronization/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "selection_synchronization/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "semantics/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "semantics/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shadow_playground/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shadow_playground/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shape_app_theme/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shape_app_theme/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shapes/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shapes/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "single_bound_selection/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "single_bound_selection/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "slider/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "slider/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "some_empty_groups/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "some_empty_groups/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "stack_layout/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "stack_layout/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "staggered_layout/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "staggered_layout/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "stepper/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "stepper/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "styles/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "styles/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_gesture/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_gesture/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_item_position/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_item_position/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_item_size/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_item_size/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_refresh/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_refresh/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_threshold/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_threshold/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_view_margin/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_view_margin/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_view_shadow/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_view_shadow/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "switch/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "switch_grouping/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "switch_grouping/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "switch/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "tabbed_flyout/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "tabbed_flyout/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "table_view/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "table_view/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "templated_view/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "templated_view/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "time_picker/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "time_picker/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "title_bar/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "title_bar/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "toolbar/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "toolbar/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "transform_playground/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "transform_playground/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "transformations/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "transformations/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "triggers/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "triggers/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "update_path_data/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "update_path_data/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "value_controls/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "value_controls/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "varied_size_selector/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "varied_size_selector/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "vertical_stack/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "vertical_stack_layout/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "vertical_stack_layout/ios/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "vertical_stack/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "visual_states/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "visual_states/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "web_view/ios/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "web_view/ios/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "z_index/ios/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "z_index/ios/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "absolute_layout/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "absolute_layout/maccatalyst/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "activity_indicator/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "activity_indicator/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "adaptive_collection/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "adaptive_collection/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "alerts/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "alerts/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "alignment/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "alignment/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "animation/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "animation/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "app_theme_binding/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "app_theme_binding/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "application_control/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "application_control/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "auto_size_shapes/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "auto_size_shapes/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "basic_grouping/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "basic_grouping/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "basic_swipe/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "basic_swipe/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "behaviors/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "behaviors/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_alignment/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_alignment/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_clip_playground/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "border_clip_playground/maccatalyst/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "border/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_layout/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_layout/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_playground/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_playground/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_resize_content/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "border_resize_content/maccatalyst/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "border_stroke/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_stroke/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_styles/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "border_styles/maccatalyst/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "borderless/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "borderless/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "box_view/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "box_view/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "button/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "button/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "carousel_page/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "carousel_page/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "chat_example/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "chat_example/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "check_box/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "check_box/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "chrome/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "chrome/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_corner_radius/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_corner_radius/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_gallery/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_gallery/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_views/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_views/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clipping/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clipping/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "collectionview/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "collectionview/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "composition_gallery/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "composition_gallery/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "containers/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "containers/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "content_view/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "content_view/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "context_flyout/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "context_flyout/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "controls_stack/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "controls_stack/maccatalyst/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "custom_layout/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_layout/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_size_swipe/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_size_swipe/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_swipe_item_view/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_swipe_item_view/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "cv_visual_states/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "cv_visual_states/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "data_template_selector/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "data_template_selector/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "date_picker/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "date_picker/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "device/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "device/maccatalyst/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "dispatcher/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "dispatcher/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "drag_drop/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "drag_drop/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "editor/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "editor/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "effects/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "effects/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ellipse_gallery/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ellipse_gallery/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_load_simulate/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_load_simulate/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_null/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_null/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_rtl/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "empty_view_rtl/maccatalyst/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "empty_view_selector/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_selector/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_swap/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_swap/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_template/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_template/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_view/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_view/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "entry/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "entry/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "filter_collection/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "filter_collection/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "filter_selection/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "filter_selection/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "flex_layout/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "flex_layout/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "focus/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "focus/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "fonts/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "fonts/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "footer_only_string/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "footer_only_string/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "formatted_text/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "formatted_text/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "gestures/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "gestures/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "gradient/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "gradient/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grid/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grid_grouping/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grid_grouping/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grid/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grouping_no_templates/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grouping_no_templates/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grouping_plus_selection/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grouping_plus_selection/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_grid/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "header_footer_grid_horizontal/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "header_footer_grid_horizontal/maccatalyst/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "header_footer_grid/maccatalyst/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "header_footer/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_template/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_template/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_view/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_view/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "hit_testing/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "hit_testing/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "horizontal_stack/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "horizontal_stack/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "hybrid_web_view/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "hybrid_web_view/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "image_button/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "image_button/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "image/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "image/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "indicator/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "indicator/maccatalyst/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "input_controls/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "input_controls/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "input_transparent/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "input_transparent/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "invalidate_brush/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "invalidate_brush/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "invalidate_shadow_host/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "invalidate_shadow_host/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_blur_effect/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_blur_effect/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_date_picker/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_date_picker/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_entry/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_entry/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_first_responder/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_first_responder/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_pan_gesture/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_pan_gesture/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_picker/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_picker/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_safe_area/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_safe_area/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_scroll_view/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_scroll_view/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_search_bar/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_search_bar/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_slider_update_on_tap/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_slider_update_on_tap/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_swipe_transition/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_swipe_transition/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_time_picker/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_time_picker/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "items/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "items/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "items_updating_scroll_mode/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "items_updating_scroll_mode/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "label/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "label/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "layout_is_enabled/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "layout_is_enabled/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "line_gallery/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "line_gallery/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "line_join_gallery/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "line_join_gallery/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "measure_first_strategy/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "measure_first_strategy/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "menu_bar/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "menu_bar/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "modal/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "modal/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "multiple_bound_selection/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "multiple_bound_selection/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "navigation_gallery/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "navigation_gallery/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "nested_collection/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "nested_collection/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "pan_gesture_events/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "pan_gesture_events/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "path_aspect_gallery/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_aspect_gallery/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_gallery/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_gallery/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_transform_string/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_transform_string/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "picker/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "picker/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "pickers/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "pickers/maccatalyst/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "pointer_gesture/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "pointer_gesture/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "polygon_gallery/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "polygon_gallery/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "polyline_gallery/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "polyline_gallery/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "preselected_item/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "preselected_item/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "preselected_items/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "preselected_items/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "progress_bar/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "progress_bar/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_border/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_border/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_content/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_content/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group_binding/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group_binding/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group_gallery/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group_gallery/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_content_properties/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_content_properties/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_template_from_style/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_template_from_style/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "rectangle_gallery/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "rectangle_gallery/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "refresh_view/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "refresh_view/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "relative_layout/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "relative_layout/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scattered_radio_button/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scattered_radio_button/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scroll_mode_test/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "scroll_mode_test/maccatalyst/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "scroll_to_group/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scroll_to_group/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scroll_view/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scroll_view/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "search_bar/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "search_bar/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "selection_command_param/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "selection_command_param/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "selection_synchronization/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "selection_synchronization/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "semantics/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "semantics/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shadow_playground/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shadow_playground/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shape_app_theme/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shape_app_theme/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shapes/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shapes/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "single_bound_selection/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "single_bound_selection/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "slider/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "slider/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "some_empty_groups/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "some_empty_groups/maccatalyst/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "stack_layout/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "stack_layout/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "staggered_layout/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "staggered_layout/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "stepper/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "stepper/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "styles/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "styles/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_gesture/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_gesture/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_item_position/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_item_position/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_item_size/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_item_size/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_refresh/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_refresh/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_threshold/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_threshold/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_view_margin/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_view_margin/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_view_shadow/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_view_shadow/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "switch/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "switch_grouping/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "switch_grouping/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "switch/maccatalyst/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "tabbed_flyout/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "tabbed_flyout/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "table_view/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "table_view/maccatalyst/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "templated_view/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "templated_view/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "time_picker/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "time_picker/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "title_bar/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "title_bar/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "toolbar/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "toolbar/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "transform_playground/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "transform_playground/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "transformations/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "transformations/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "triggers/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "triggers/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "update_path_data/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "update_path_data/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "value_controls/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "value_controls/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "varied_size_selector/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "varied_size_selector/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "vertical_stack/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "vertical_stack/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "visual_states/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "visual_states/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "web_view/maccatalyst/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "web_view/maccatalyst/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "z_index/maccatalyst/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "z_index/maccatalyst/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "absolute_layout/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "absolute_layout/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "activity_indicator/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "activity_indicator/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "adaptive_collection/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "adaptive_collection/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "alerts/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "alerts/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "alignment/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "alignment/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "animation/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "animation/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "app_theme_binding/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "app_theme_binding/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "application_control/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "application_control/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "auto_size_shapes/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "auto_size_shapes/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "basic_grouping/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "basic_grouping/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "basic_swipe/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "basic_swipe/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "behaviors/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "behaviors/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_alignment/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "border_alignment/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "border_clip_playground/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "border_clip_playground/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "border/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_layout/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_layout/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_playground/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_playground/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_resize_content/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_resize_content/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_stroke/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_stroke/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "border_styles/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "border_styles/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "borderless/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "borderless/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "box_view/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "box_view/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "button/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "button/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "carousel_page/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "carousel_page/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "chat_example/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "chat_example/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "check_box/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "check_box/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "chrome/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "chrome/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_corner_radius/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_corner_radius/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_gallery/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_gallery/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clip_views/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "clip_views/windows/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "clipping/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "clipping/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "collectionview/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "collectionview/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "composition_gallery/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "composition_gallery/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "containers/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "containers/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "content_view/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "content_view/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "context_flyout/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "context_flyout/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "controls_stack/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "controls_stack/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_layout/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_layout/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_size_swipe/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_size_swipe/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_swipe_item_view/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "custom_swipe_item_view/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "cv_visual_states/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "cv_visual_states/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "data_template_selector/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "data_template_selector/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "date_picker/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "date_picker/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "device/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "device/windows/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "dispatcher/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "dispatcher/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "drag_drop/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "drag_drop/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "editor/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "editor/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "effects/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "effects/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ellipse_gallery/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "ellipse_gallery/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "empty_view/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_load_simulate/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "empty_view_load_simulate/windows/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "empty_view_null/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "empty_view_null/windows/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "empty_view_rtl/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "empty_view_rtl/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "empty_view_selector/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_selector/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_swap/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_swap/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_template/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_template/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_view/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "empty_view_view/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "entry/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "entry/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "filter_collection/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "filter_collection/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "filter_selection/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "filter_selection/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "flex_layout/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "flex_layout/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "focus/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "focus/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "fonts/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "fonts/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "footer_only_string/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "footer_only_string/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "formatted_text/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "formatted_text/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "gestures/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "gestures/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "gradient/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "gradient/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grid/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grid_grouping/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "grid_grouping/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "grid/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grouping_no_templates/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grouping_no_templates/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grouping_plus_selection/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "grouping_plus_selection/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_grid/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "header_footer_grid_horizontal/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "header_footer_grid_horizontal/windows/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "header_footer_grid/windows/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "header_footer/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "header_footer_template/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "header_footer_template/windows/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "header_footer_view/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "header_footer_view/windows/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "hit_testing/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "hit_testing/windows/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "horizontal_stack/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "horizontal_stack/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "hybrid_web_view/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "hybrid_web_view/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "image_button/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "image_button/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "image/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "image/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "indicator/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "indicator/windows/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "input_controls/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "input_controls/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "input_transparent/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "input_transparent/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "invalidate_brush/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "invalidate_brush/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "invalidate_shadow_host/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "invalidate_shadow_host/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_blur_effect/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_blur_effect/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_date_picker/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_date_picker/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_entry/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_entry/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_first_responder/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_first_responder/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_pan_gesture/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_pan_gesture/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_picker/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_picker/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_safe_area/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_safe_area/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_scroll_view/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_scroll_view/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_search_bar/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_search_bar/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_slider_update_on_tap/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_slider_update_on_tap/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_swipe_transition/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_swipe_transition/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_time_picker/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "ios_time_picker/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "items/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "items/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "items_updating_scroll_mode/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "items_updating_scroll_mode/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "label/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "label/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "layout_is_enabled/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "layout_is_enabled/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "line_gallery/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "line_gallery/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "line_join_gallery/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "line_join_gallery/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "measure_first_strategy/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "measure_first_strategy/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "menu_bar/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "menu_bar/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "modal/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "modal/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "multiple_bound_selection/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "multiple_bound_selection/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "navigation_gallery/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "navigation_gallery/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "nested_collection/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "nested_collection/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "pan_gesture_events/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "pan_gesture_events/windows/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "path_aspect_gallery/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_aspect_gallery/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_gallery/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_gallery/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_transform_string/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "path_transform_string/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "picker/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "picker/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "pickers/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "pickers/windows/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "pointer_gesture/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "pointer_gesture/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "polygon_gallery/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "polygon_gallery/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "polyline_gallery/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "polyline_gallery/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "preselected_item/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "preselected_item/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "preselected_items/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "preselected_items/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "progress_bar/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "progress_bar/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_border/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_border/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_content/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_content/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group_binding/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group_binding/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group_gallery/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group_gallery/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_button_group/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_content_properties/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_content_properties/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "radio_template_from_style/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "radio_template_from_style/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "rectangle_gallery/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "rectangle_gallery/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "refresh_view/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "refresh_view/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "relative_layout/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "relative_layout/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scattered_radio_button/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scattered_radio_button/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scroll_mode_test/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "scroll_mode_test/windows/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "scroll_to_group/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scroll_to_group/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scroll_view/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "scroll_view/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "search_bar/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "search_bar/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "selection_command_param/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "selection_command_param/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "selection_synchronization/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "selection_synchronization/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "semantics/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "semantics/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shadow_playground/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shadow_playground/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shape_app_theme/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shape_app_theme/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shapes/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "shapes/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "single_bound_selection/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "single_bound_selection/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "slider/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "slider/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "some_empty_groups/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "some_empty_groups/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "stack_layout/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "stack_layout/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "staggered_layout/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "staggered_layout/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "stepper/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "stepper/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "styles/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "styles/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_gesture/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_gesture/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_item_position/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_item_position/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_item_size/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_item_size/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_refresh/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "swipe_refresh/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "swipe_threshold/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_threshold/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_view_margin/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_view_margin/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_view_shadow/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "swipe_view_shadow/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "switch/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "switch_grouping/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "switch_grouping/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "switch/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "tabbed_flyout/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "tabbed_flyout/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "table_view/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "table_view/windows/light": {
+  "verdict": "DECLINED",
+  "source": "consensus"
+ },
+ "templated_view/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "templated_view/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "time_picker/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "time_picker/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "title_bar/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "title_bar/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "toolbar/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "toolbar/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "transform_playground/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "transform_playground/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "human"
+ },
+ "transformations/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "transformations/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "triggers/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "triggers/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "update_path_data/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "update_path_data/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "value_controls/windows/dark": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "value_controls/windows/light": {
+  "verdict": "DECLINED",
+  "source": "human"
+ },
+ "varied_size_selector/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "varied_size_selector/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "vertical_stack/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "vertical_stack/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "visual_states/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "visual_states/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "web_view/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "web_view/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "z_index/windows/dark": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ },
+ "z_index/windows/light": {
+  "verdict": "ACCEPTED",
+  "source": "consensus"
+ }
+}

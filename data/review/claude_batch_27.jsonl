@@ -1,0 +1,36 @@
+{"key": "relative_layout/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Corner markers and nested rectangles match in position, size and colour."}
+{"key": "relative_layout/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Corner markers and nested rectangles match in position, size and colour."}
+{"key": "scattered_radio_button/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same labels, radio buttons and nested StackLayout band in the same layout."}
+{"key": "scattered_radio_button/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same labels, radio buttons and nested StackLayout band in the same layout."}
+{"key": "scroll_mode_test/maccatalyst/dark", "verdict": "DECLINED", "reason": "The scroll mode picker is empty in the desired UI but shows KeepItemsInView in the candidate."}
+{"key": "scroll_mode_test/maccatalyst/light", "verdict": "DECLINED", "reason": "The scroll mode picker is empty in the desired UI but shows KeepItemsInView in the candidate."}
+{"key": "scroll_to_group/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Inputs, Go buttons and grouped list content match."}
+{"key": "scroll_to_group/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Inputs, Go buttons and grouped list content match."}
+{"key": "scroll_view/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Scroll status label and rows match."}
+{"key": "scroll_view/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Scroll status label and rows match in light theme."}
+{"key": "search_bar/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All search bars, texts, placeholders and clear buttons match."}
+{"key": "search_bar/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All search bars, texts, placeholders and clear buttons match."}
+{"key": "selection_command_param/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Status, header and item list match."}
+{"key": "selection_command_param/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Status, header and item list match."}
+{"key": "selection_synchronization/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Descriptions, selection labels and highlighted items match in all sections."}
+{"key": "selection_synchronization/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Descriptions, selection labels and highlighted items match in all sections."}
+{"key": "semantics/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Labels, buttons, entry, editor and search bar match."}
+{"key": "semantics/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Labels, buttons, entry, editor and search bar match."}
+{"key": "shadow_playground/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Preview box, colour entries, sliders and button match."}
+{"key": "shadow_playground/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Preview box, colour entries, sliders and button match."}
+{"key": "shape_app_theme/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Red label and rectangle on black background match."}
+{"key": "shape_app_theme/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Red label and rectangle on black background match."}
+{"key": "shapes/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Ellipse, rounded rectangle, pentagram and line match."}
+{"key": "shapes/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Ellipse, rounded rectangle, pentagram and line match."}
+{"key": "single_bound_selection/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Instruction text, selection label, buttons and list match."}
+{"key": "single_bound_selection/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Instruction text, selection label, buttons and list match."}
+{"key": "slider/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All slider variants, colours, values and buttons match."}
+{"key": "slider/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All slider variants, colours, values and buttons match."}
+{"key": "some_empty_groups/maccatalyst/dark", "verdict": "DECLINED", "reason": "Group header names are bold in the desired UI but regular weight in the candidate."}
+{"key": "some_empty_groups/maccatalyst/light", "verdict": "DECLINED", "reason": "Group header names are bold in the desired UI but regular weight in the candidate."}
+{"key": "stack_layout/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Vertical and horizontal colour stacks match."}
+{"key": "stack_layout/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Vertical and horizontal colour stacks match."}
+{"key": "staggered_layout/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Three-column item grid matches."}
+{"key": "staggered_layout/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Three-column item grid matches."}
+{"key": "stepper/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All stepper variants, labels and value text match."}
+{"key": "stepper/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All stepper variants, labels and value text match."}

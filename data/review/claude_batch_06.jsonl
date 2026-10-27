@@ -1,0 +1,36 @@
+{"key": "nested_collection/android/dark", "verdict": "ACCEPTED", "reason": "Content, text and layout match the desired UI."}
+{"key": "nested_collection/android/light", "verdict": "ACCEPTED", "reason": "Content, text and layout match the desired UI."}
+{"key": "pan_gesture_events/android/dark", "verdict": "DECLINED", "reason": "Status text shows TotalX 0, TotalY 0 instead of 12 and -8, so the gesture result differs."}
+{"key": "pan_gesture_events/android/light", "verdict": "DECLINED", "reason": "Status text shows TotalX 0, TotalY 0 instead of 12 and -8, so the gesture result differs."}
+{"key": "path_aspect_gallery/android/dark", "verdict": "ACCEPTED", "reason": "All four labelled octagons match in content and layout."}
+{"key": "path_aspect_gallery/android/light", "verdict": "ACCEPTED", "reason": "All four labelled octagons match in content and layout."}
+{"key": "path_gallery/android/dark", "verdict": "ACCEPTED", "reason": "All paths, shapes and labels match the desired UI."}
+{"key": "path_gallery/android/light", "verdict": "ACCEPTED", "reason": "All paths, shapes and labels match the desired UI."}
+{"key": "path_transform_string/android/dark", "verdict": "ACCEPTED", "reason": "Both shapes and labels match; only minor stroke rendering differs."}
+{"key": "path_transform_string/android/light", "verdict": "ACCEPTED", "reason": "Both shapes and labels match; only minor stroke rendering differs."}
+{"key": "picker/android/dark", "verdict": "DECLINED", "reason": "Underlines are missing on the yellow and green pickers and the italic placeholder colour differs."}
+{"key": "picker/android/light", "verdict": "DECLINED", "reason": "Underlines are missing on the yellow and green background pickers."}
+{"key": "pickers/android/dark", "verdict": "DECLINED", "reason": "Summary text reads 'No room on 8/23/2026 at 09:00' instead of '(no date) at (no time)'."}
+{"key": "pickers/android/light", "verdict": "DECLINED", "reason": "Summary text reads 'No room on 8/23/2026 at 09:00' instead of '(no date) at (no time)'."}
+{"key": "pointer_gesture/android/dark", "verdict": "ACCEPTED", "reason": "All labels and layout match the desired UI."}
+{"key": "pointer_gesture/android/light", "verdict": "ACCEPTED", "reason": "All labels and layout match the desired UI."}
+{"key": "polygon_gallery/android/dark", "verdict": "ACCEPTED", "reason": "All polygons, fills and labels match the desired UI."}
+{"key": "polygon_gallery/android/light", "verdict": "ACCEPTED", "reason": "All polygons, fills and labels match the desired UI."}
+{"key": "polyline_gallery/android/dark", "verdict": "DECLINED", "reason": "Page padding is missing, so labels moved left and up relative to the polylines."}
+{"key": "polyline_gallery/android/light", "verdict": "DECLINED", "reason": "Page padding is missing, so labels moved left and up relative to the polylines."}
+{"key": "preselected_item/android/dark", "verdict": "ACCEPTED", "reason": "List content and preselected item highlight match."}
+{"key": "preselected_item/android/light", "verdict": "ACCEPTED", "reason": "List content and preselected item highlight match."}
+{"key": "preselected_items/android/dark", "verdict": "ACCEPTED", "reason": "Grid content and the three preselected highlights match."}
+{"key": "preselected_items/android/light", "verdict": "ACCEPTED", "reason": "Grid content and the three preselected highlights match."}
+{"key": "progress_bar/android/dark", "verdict": "ACCEPTED", "reason": "All progress bars, labels and button match the desired UI."}
+{"key": "progress_bar/android/light", "verdict": "ACCEPTED", "reason": "All progress bars, labels and button match the desired UI."}
+{"key": "radio_button_border/android/dark", "verdict": "DECLINED", "reason": "Radio button outlines are dark grey instead of the light grey of the desired dark theme."}
+{"key": "radio_button_border/android/light", "verdict": "ACCEPTED", "reason": "Bordered radio buttons, selection and labels match."}
+{"key": "radio_button_content/android/dark", "verdict": "DECLINED", "reason": "Radio button outlines are dark grey instead of the light grey of the desired dark theme."}
+{"key": "radio_button_content/android/light", "verdict": "ACCEPTED", "reason": "Content matches; only the card shadow around the text item is not rendered."}
+{"key": "radio_button_group_binding/android/dark", "verdict": "DECLINED", "reason": "Radio button outlines are dark grey instead of the light grey of the desired dark theme."}
+{"key": "radio_button_group_binding/android/light", "verdict": "ACCEPTED", "reason": "Radio grid, labels and buttons match the desired UI."}
+{"key": "radio_button_group/android/dark", "verdict": "DECLINED", "reason": "Radio button outlines are dark grey instead of the light grey of the desired dark theme."}
+{"key": "radio_button_group_gallery/android/dark", "verdict": "DECLINED", "reason": "Radio button outlines are dark grey instead of the light grey of the desired dark theme."}
+{"key": "radio_button_group_gallery/android/light", "verdict": "ACCEPTED", "reason": "All radio groups, labels and states match."}
+{"key": "radio_button_group/android/light", "verdict": "ACCEPTED", "reason": "Radio buttons, labels and layout match."}

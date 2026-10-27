@@ -1,0 +1,36 @@
+{"key": "pan_gesture_events/ios/dark", "verdict": "DECLINED", "reason": "Status text shows TotalX: 0, TotalY: 0 instead of TotalX: 12, TotalY: -8."}
+{"key": "pan_gesture_events/ios/light", "verdict": "DECLINED", "reason": "Status text shows TotalX: 0, TotalY: 0 instead of TotalX: 12, TotalY: -8."}
+{"key": "path_aspect_gallery/ios/dark", "verdict": "ACCEPTED", "reason": "All four labeled octagon samples match in content and layout."}
+{"key": "path_aspect_gallery/ios/light", "verdict": "ACCEPTED", "reason": "All four labeled octagon samples match in content and layout."}
+{"key": "path_gallery/ios/dark", "verdict": "ACCEPTED", "reason": "Labels and shapes match, including the same invisible dark strokes."}
+{"key": "path_gallery/ios/light", "verdict": "ACCEPTED", "reason": "All path samples and labels match in content and layout."}
+{"key": "path_transform_string/ios/dark", "verdict": "ACCEPTED", "reason": "Both show the same two labels with no visible shapes."}
+{"key": "path_transform_string/ios/light", "verdict": "ACCEPTED", "reason": "Both transformed and untransformed paths match with only minor rendering differences."}
+{"key": "picker/ios/dark", "verdict": "ACCEPTED", "reason": "All pickers, labels, buttons and colors match."}
+{"key": "picker/ios/light", "verdict": "ACCEPTED", "reason": "All pickers, labels, buttons and colors match."}
+{"key": "pickers/ios/dark", "verdict": "DECLINED", "reason": "Summary text reads 'on 8/23/2026 at 09:00' instead of 'on (no date) at (no time)'."}
+{"key": "pickers/ios/light", "verdict": "DECLINED", "reason": "Summary text reads 'on 8/23/2026 at 09:00' instead of 'on (no date) at (no time)'."}
+{"key": "pointer_gesture/ios/dark", "verdict": "ACCEPTED", "reason": "All labels match in text and position."}
+{"key": "pointer_gesture/ios/light", "verdict": "ACCEPTED", "reason": "All labels match in text and position."}
+{"key": "polygon_gallery/ios/dark", "verdict": "ACCEPTED", "reason": "All polygons and labels match in shape, color and layout."}
+{"key": "polygon_gallery/ios/light", "verdict": "ACCEPTED", "reason": "All polygons and labels match with only minor dash rendering differences."}
+{"key": "polyline_gallery/ios/dark", "verdict": "DECLINED", "reason": "Labels lost their left padding and content moved up relative to the desired layout."}
+{"key": "polyline_gallery/ios/light", "verdict": "DECLINED", "reason": "Labels lost their left padding and content moved up relative to the desired layout."}
+{"key": "preselected_item/ios/dark", "verdict": "ACCEPTED", "reason": "List content and preselected highlight match."}
+{"key": "preselected_item/ios/light", "verdict": "ACCEPTED", "reason": "List content and preselected highlight match."}
+{"key": "preselected_items/ios/dark", "verdict": "ACCEPTED", "reason": "Grid content and the three preselected items match."}
+{"key": "preselected_items/ios/light", "verdict": "ACCEPTED", "reason": "Grid content and the three preselected items match."}
+{"key": "progress_bar/ios/dark", "verdict": "ACCEPTED", "reason": "All progress bars, labels and button match."}
+{"key": "progress_bar/ios/light", "verdict": "ACCEPTED", "reason": "All progress bars, labels and button match."}
+{"key": "radio_button_border/ios/dark", "verdict": "ACCEPTED", "reason": "Radio buttons, borders, backgrounds and selection state match."}
+{"key": "radio_button_border/ios/light", "verdict": "ACCEPTED", "reason": "Radio buttons, borders, backgrounds and selection state match."}
+{"key": "radio_button_content/ios/dark", "verdict": "ACCEPTED", "reason": "All text, radio buttons and custom template elements match."}
+{"key": "radio_button_content/ios/light", "verdict": "ACCEPTED", "reason": "All text, radio buttons, framed item and coffee-cup template match."}
+{"key": "radio_button_group_binding/ios/dark", "verdict": "ACCEPTED", "reason": "Text, radio grid and buttons match."}
+{"key": "radio_button_group_binding/ios/light", "verdict": "ACCEPTED", "reason": "Text, radio grid and buttons match."}
+{"key": "radio_button_group/ios/dark", "verdict": "ACCEPTED", "reason": "Text and radio buttons match in content and layout."}
+{"key": "radio_button_group_gallery/ios/dark", "verdict": "ACCEPTED", "reason": "All groups, labels and radio buttons match."}
+{"key": "radio_button_group_gallery/ios/light", "verdict": "ACCEPTED", "reason": "All groups, labels and radio buttons match."}
+{"key": "radio_button_group/ios/light", "verdict": "ACCEPTED", "reason": "Text and radio buttons match in content and layout."}
+{"key": "radio_content_properties/ios/dark", "verdict": "ACCEPTED", "reason": "All text, fonts, colors and radio buttons match."}
+{"key": "radio_content_properties/ios/light", "verdict": "ACCEPTED", "reason": "All text, fonts, colors and radio buttons match."}

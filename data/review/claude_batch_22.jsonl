@@ -1,0 +1,36 @@
+{"key": "data_template_selector/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Search bar and day list match the desired UI."}
+{"key": "data_template_selector/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Search bar and day list match the desired UI."}
+{"key": "date_picker/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All date pickers, labels, colours and buttons match."}
+{"key": "date_picker/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All date pickers, labels, colours and buttons match."}
+{"key": "device/maccatalyst/dark", "verdict": "DECLINED", "reason": "Platform, idiom and version text differ (iOS/Phone/17.0 vs MacCatalyst/Desktop/26.5)."}
+{"key": "device/maccatalyst/light", "verdict": "DECLINED", "reason": "Platform, idiom and version text differ (iOS/Phone/17.0 vs MacCatalyst/Desktop/26.5)."}
+{"key": "dispatcher/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All labels and buttons match in text and layout."}
+{"key": "dispatcher/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All labels and buttons match in text and layout."}
+{"key": "drag_drop/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Colour swatches and labels match."}
+{"key": "drag_drop/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Colour swatches and labels match."}
+{"key": "editor/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All editors, labels and placeholders match."}
+{"key": "editor/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All editors, labels and placeholders match."}
+{"key": "effects/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Entries, buttons and status text match."}
+{"key": "effects/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Entries, buttons and status text match."}
+{"key": "ellipse_gallery/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All ellipses, strokes and labels match."}
+{"key": "ellipse_gallery/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All ellipses, strokes and labels match."}
+{"key": "empty_view/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Filter bar and item list match."}
+{"key": "empty_view/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Filter bar and item list match."}
+{"key": "empty_view_load_simulate/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Centered loading message matches."}
+{"key": "empty_view_load_simulate/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Centered loading message matches."}
+{"key": "empty_view_null/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Centered empty message matches."}
+{"key": "empty_view_null/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Centered empty message matches."}
+{"key": "empty_view_rtl/maccatalyst/dark", "verdict": "DECLINED", "reason": "FlowDirection picker shows 'Left to Right' instead of the 'FlowDirection' placeholder."}
+{"key": "empty_view_rtl/maccatalyst/light", "verdict": "DECLINED", "reason": "FlowDirection picker shows 'Left to Right' instead of the 'FlowDirection' placeholder."}
+{"key": "empty_view_selector/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Instructions, filter and item match."}
+{"key": "empty_view_selector/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Instructions, filter and item match."}
+{"key": "empty_view_swap/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Toggle, buttons and grid items match."}
+{"key": "empty_view_swap/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Toggle, buttons and grid items match."}
+{"key": "empty_view_template/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Filter and grid items match."}
+{"key": "empty_view_template/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Filter and grid items match."}
+{"key": "empty_view_view/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Filter and grid items match."}
+{"key": "empty_view_view/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Filter and grid items match."}
+{"key": "entry/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All entries, slider and labels match."}
+{"key": "entry/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All entries, slider and labels match."}
+{"key": "filter_collection/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Toggle, filter and items match apart from a tiny label offset."}
+{"key": "filter_collection/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Toggle, filter and items match apart from a tiny label offset."}

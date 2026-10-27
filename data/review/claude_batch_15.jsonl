@@ -1,0 +1,36 @@
+{"key": "ios_safe_area/ios/dark", "verdict": "ACCEPTED", "reason": "Text block and button match in content and layout."}
+{"key": "ios_safe_area/ios/light", "verdict": "ACCEPTED", "reason": "Text block and button match in content and layout."}
+{"key": "ios_scroll_view/ios/dark", "verdict": "ACCEPTED", "reason": "Slider and both buttons match."}
+{"key": "ios_scroll_view/ios/light", "verdict": "ACCEPTED", "reason": "Slider and both buttons match."}
+{"key": "ios_search_bar/ios/dark", "verdict": "DECLINED", "reason": "Search bar placeholder text is noticeably brighter than in the desired UI."}
+{"key": "ios_search_bar/ios/light", "verdict": "DECLINED", "reason": "Search bar placeholder text is noticeably darker than in the desired UI."}
+{"key": "ios_slider_update_on_tap/ios/dark", "verdict": "ACCEPTED", "reason": "Label, slider and button match."}
+{"key": "ios_slider_update_on_tap/ios/light", "verdict": "ACCEPTED", "reason": "Label, slider and button match."}
+{"key": "ios_swipe_transition/ios/dark", "verdict": "ACCEPTED", "reason": "Mode buttons, swipe box and labels match."}
+{"key": "ios_swipe_transition/ios/light", "verdict": "ACCEPTED", "reason": "Mode buttons, swipe box and labels match."}
+{"key": "ios_time_picker/ios/dark", "verdict": "ACCEPTED", "reason": "Time field, button and label match apart from glyph spacing."}
+{"key": "ios_time_picker/ios/light", "verdict": "ACCEPTED", "reason": "Time field, button and label match apart from glyph spacing."}
+{"key": "items/ios/dark", "verdict": "ACCEPTED", "reason": "Header, items and footer text match."}
+{"key": "items/ios/light", "verdict": "ACCEPTED", "reason": "Header, items and footer text match."}
+{"key": "items_updating_scroll_mode/ios/dark", "verdict": "ACCEPTED", "reason": "Controls, status line and item list match."}
+{"key": "items_updating_scroll_mode/ios/light", "verdict": "ACCEPTED", "reason": "Controls, status line and item list match."}
+{"key": "label/ios/dark", "verdict": "DECLINED", "reason": "Formatted string wraps differently, moving 'old' to the second line."}
+{"key": "label/ios/light", "verdict": "DECLINED", "reason": "Formatted string wraps differently, moving 'old' to the second line."}
+{"key": "layout_is_enabled/ios/dark", "verdict": "ACCEPTED", "reason": "All panels, enabled/disabled states and controls match."}
+{"key": "layout_is_enabled/ios/light", "verdict": "ACCEPTED", "reason": "All panels, enabled/disabled states and controls match."}
+{"key": "line_gallery/ios/dark", "verdict": "ACCEPTED", "reason": "Labels and lines match."}
+{"key": "line_gallery/ios/light", "verdict": "ACCEPTED", "reason": "Labels and lines including the thick line match."}
+{"key": "line_join_gallery/ios/dark", "verdict": "ACCEPTED", "reason": "Miter, bevel and round joins match."}
+{"key": "line_join_gallery/ios/light", "verdict": "ACCEPTED", "reason": "Miter, bevel and round joins match."}
+{"key": "measure_first_strategy/ios/dark", "verdict": "ACCEPTED", "reason": "Grouped list, headers, footers and colours match."}
+{"key": "measure_first_strategy/ios/light", "verdict": "ACCEPTED", "reason": "Grouped list, headers, footers and colours match."}
+{"key": "menu_bar/ios/dark", "verdict": "ACCEPTED", "reason": "Label and toggle button match."}
+{"key": "menu_bar/ios/light", "verdict": "ACCEPTED", "reason": "Label and toggle button match."}
+{"key": "modal/ios/dark", "verdict": "ACCEPTED", "reason": "Buttons, disabled pop button and status text match."}
+{"key": "modal/ios/light", "verdict": "ACCEPTED", "reason": "Buttons, disabled pop button and status text match."}
+{"key": "multiple_bound_selection/ios/dark", "verdict": "ACCEPTED", "reason": "Selection highlight, labels and buttons match."}
+{"key": "multiple_bound_selection/ios/light", "verdict": "ACCEPTED", "reason": "Selection highlight, labels and buttons match."}
+{"key": "navigation_gallery/ios/dark", "verdict": "ACCEPTED", "reason": "Status text and navigation buttons match."}
+{"key": "navigation_gallery/ios/light", "verdict": "ACCEPTED", "reason": "Status text and navigation buttons match."}
+{"key": "nested_collection/ios/dark", "verdict": "ACCEPTED", "reason": "Nested source rows and item text match."}
+{"key": "nested_collection/ios/light", "verdict": "ACCEPTED", "reason": "Nested source rows and item text match."}

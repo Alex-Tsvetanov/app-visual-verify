@@ -1,0 +1,8 @@
+{"key": "vertical_stack/windows/dark", "verdict": "ACCEPTED", "reason": "Title and six coloured boxes match in order, colour and position."}
+{"key": "vertical_stack/windows/light", "verdict": "ACCEPTED", "reason": "Title and six coloured boxes match in order, colour and position."}
+{"key": "visual_states/windows/dark", "verdict": "ACCEPTED", "reason": "All labels, entries, buttons and the green entry state match."}
+{"key": "visual_states/windows/light", "verdict": "ACCEPTED", "reason": "All labels, entries, buttons and the green entry state match."}
+{"key": "web_view/windows/dark", "verdict": "ACCEPTED", "reason": "Web content, status labels and six buttons match."}
+{"key": "web_view/windows/light", "verdict": "ACCEPTED", "reason": "Web content, status labels and six buttons match."}
+{"key": "z_index/windows/dark", "verdict": "ACCEPTED", "reason": "Header controls and stacked labels match in order, colour and overlap."}
+{"key": "z_index/windows/light", "verdict": "ACCEPTED", "reason": "Header controls and stacked labels match in order, colour and overlap."}

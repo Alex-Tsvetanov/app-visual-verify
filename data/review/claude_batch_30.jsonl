@@ -1,0 +1,36 @@
+{"key": "basic_swipe/windows/dark", "verdict": "ACCEPTED", "reason": "All five swipe buttons, labels and layout match."}
+{"key": "basic_swipe/windows/light", "verdict": "ACCEPTED", "reason": "All five swipe buttons, labels and layout match."}
+{"key": "behaviors/windows/dark", "verdict": "ACCEPTED", "reason": "Heading and entry placeholder match exactly."}
+{"key": "behaviors/windows/light", "verdict": "ACCEPTED", "reason": "Heading and entry placeholder match exactly."}
+{"key": "border_alignment/windows/dark", "verdict": "DECLINED", "reason": "Candidate borders have rounded corners where the desired borders are square."}
+{"key": "border_alignment/windows/light", "verdict": "DECLINED", "reason": "Candidate borders have rounded corners and lack the inner outline of the square desired borders."}
+{"key": "border_clip_playground/windows/dark", "verdict": "DECLINED", "reason": "Border Shape picker shows RoundRectangle in candidate but is empty in desired, and the clip top-right corner differs."}
+{"key": "border_clip_playground/windows/light", "verdict": "DECLINED", "reason": "Border Shape picker shows RoundRectangle in candidate but is empty in desired, and the clip top-right corner differs."}
+{"key": "border/windows/dark", "verdict": "ACCEPTED", "reason": "Rounded red-bordered box and content match."}
+{"key": "border_layout/windows/dark", "verdict": "ACCEPTED", "reason": "Slider, label and colored bar layout match."}
+{"key": "border_layout/windows/light", "verdict": "ACCEPTED", "reason": "Slider, label and colored bar layout match."}
+{"key": "border/windows/light", "verdict": "ACCEPTED", "reason": "Rounded red-bordered box with Bordered content matches."}
+{"key": "border_playground/windows/dark", "verdict": "ACCEPTED", "reason": "Gradient border preview and all controls and values match."}
+{"key": "border_playground/windows/light", "verdict": "ACCEPTED", "reason": "Gradient border preview and all controls and values match."}
+{"key": "border_resize_content/windows/dark", "verdict": "ACCEPTED", "reason": "Shapes, images and controls match aside from minor edge rendering."}
+{"key": "border_resize_content/windows/light", "verdict": "ACCEPTED", "reason": "Shapes, images and controls match aside from minor edge rendering."}
+{"key": "border_stroke/windows/dark", "verdict": "ACCEPTED", "reason": "Stroke thickness bars, slider and labels match."}
+{"key": "border_stroke/windows/light", "verdict": "ACCEPTED", "reason": "Stroke thickness bars, slider and labels match."}
+{"key": "border_styles/windows/dark", "verdict": "DECLINED", "reason": "The StrokeShape binded to Parent border is pill-shaped in candidate instead of 10-radius corners."}
+{"key": "border_styles/windows/light", "verdict": "DECLINED", "reason": "The StrokeShape binded to Parent border is pill-shaped in candidate instead of 10-radius corners."}
+{"key": "borderless/windows/dark", "verdict": "ACCEPTED", "reason": "Pink and red halves match."}
+{"key": "borderless/windows/light", "verdict": "ACCEPTED", "reason": "Pink and red halves match."}
+{"key": "box_view/windows/dark", "verdict": "ACCEPTED", "reason": "All box views, colors, gradient and corner radius match."}
+{"key": "box_view/windows/light", "verdict": "ACCEPTED", "reason": "All box views, colors, gradient and corner radius match."}
+{"key": "button/windows/dark", "verdict": "ACCEPTED", "reason": "All buttons, colors, borders and labels match."}
+{"key": "button/windows/light", "verdict": "ACCEPTED", "reason": "All buttons, colors, borders and labels match."}
+{"key": "carousel_page/windows/dark", "verdict": "ACCEPTED", "reason": "Card 1 page with border matches."}
+{"key": "carousel_page/windows/light", "verdict": "ACCEPTED", "reason": "Card 1 page with border matches."}
+{"key": "chat_example/windows/dark", "verdict": "ACCEPTED", "reason": "Three toolbar buttons and empty list match."}
+{"key": "chat_example/windows/light", "verdict": "ACCEPTED", "reason": "Three toolbar buttons and empty list match."}
+{"key": "check_box/windows/dark", "verdict": "ACCEPTED", "reason": "All checkbox states, colors and labels match."}
+{"key": "check_box/windows/light", "verdict": "ACCEPTED", "reason": "All checkbox states, colors and labels match."}
+{"key": "chrome/windows/dark", "verdict": "ACCEPTED", "reason": "Button and Ready label match."}
+{"key": "chrome/windows/light", "verdict": "ACCEPTED", "reason": "Button and Ready label match."}
+{"key": "clip_corner_radius/windows/dark", "verdict": "ACCEPTED", "reason": "Clipped image and four corner sliders match."}
+{"key": "clip_corner_radius/windows/light", "verdict": "ACCEPTED", "reason": "Clipped image and four corner sliders match."}

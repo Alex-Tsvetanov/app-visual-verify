@@ -1,0 +1,36 @@
+{"key": "stack_layout/ios/dark", "verdict": "ACCEPTED", "reason": "Vertical and horizontal stacks match in content, colours and layout."}
+{"key": "stack_layout/ios/light", "verdict": "ACCEPTED", "reason": "Vertical and horizontal stacks match in content, colours and layout."}
+{"key": "staggered_layout/ios/dark", "verdict": "ACCEPTED", "reason": "All 24 items appear in the same three-column arrangement."}
+{"key": "staggered_layout/ios/light", "verdict": "ACCEPTED", "reason": "All 24 items appear in the same three-column arrangement."}
+{"key": "stepper/ios/dark", "verdict": "ACCEPTED", "reason": "All steppers, labels, colours and the value text match."}
+{"key": "stepper/ios/light", "verdict": "ACCEPTED", "reason": "All steppers, labels, colours and the value text match."}
+{"key": "styles/ios/dark", "verdict": "ACCEPTED", "reason": "Styled labels and button match in text, colour and layout."}
+{"key": "styles/ios/light", "verdict": "ACCEPTED", "reason": "Styled labels and button match in text, colour and layout."}
+{"key": "swipe_gesture/ios/dark", "verdict": "ACCEPTED", "reason": "Description, swipe card and status text match."}
+{"key": "swipe_gesture/ios/light", "verdict": "ACCEPTED", "reason": "Description, swipe card and status text match."}
+{"key": "swipe_item_position/ios/dark", "verdict": "ACCEPTED", "reason": "Mode picker and grey content area match."}
+{"key": "swipe_item_position/ios/light", "verdict": "ACCEPTED", "reason": "Mode picker and instruction label match."}
+{"key": "swipe_item_size/ios/dark", "verdict": "ACCEPTED", "reason": "All labels and swipe rows match in size and order."}
+{"key": "swipe_item_size/ios/light", "verdict": "ACCEPTED", "reason": "All labels and swipe rows match in size and order."}
+{"key": "swipe_refresh/ios/dark", "verdict": "ACCEPTED", "reason": "Instruction and status labels match."}
+{"key": "swipe_refresh/ios/light", "verdict": "ACCEPTED", "reason": "Instruction and status labels match."}
+{"key": "swipe_threshold/ios/dark", "verdict": "ACCEPTED", "reason": "Labels, swipe rows, sliders and status text match."}
+{"key": "swipe_threshold/ios/light", "verdict": "ACCEPTED", "reason": "Labels, swipe rows, sliders and status text match."}
+{"key": "swipe_view_margin/ios/dark", "verdict": "ACCEPTED", "reason": "Text, sliders and swipe item boxes match."}
+{"key": "swipe_view_margin/ios/light", "verdict": "ACCEPTED", "reason": "Text, sliders and swipe item boxes match."}
+{"key": "swipe_view_shadow/ios/dark", "verdict": "ACCEPTED", "reason": "Labels and content text match on the dark background."}
+{"key": "swipe_view_shadow/ios/light", "verdict": "DECLINED", "reason": "Candidate content boxes have a grey shaded fill where the desired boxes are plain white."}
+{"key": "switch/ios/dark", "verdict": "DECLINED", "reason": "ThumbColor switch has an orange thumb in the candidate but a white thumb in the desired UI."}
+{"key": "switch_grouping/ios/dark", "verdict": "ACCEPTED", "reason": "Grouped list, headers, footers and toggle match."}
+{"key": "switch_grouping/ios/light", "verdict": "ACCEPTED", "reason": "Grouped list, headers, footers and toggle match."}
+{"key": "switch/ios/light", "verdict": "DECLINED", "reason": "ThumbColor switch has an orange thumb in the candidate but a white thumb in the desired UI."}
+{"key": "tabbed_flyout/ios/dark", "verdict": "ACCEPTED", "reason": "Buttons and status labels match."}
+{"key": "tabbed_flyout/ios/light", "verdict": "ACCEPTED", "reason": "Buttons and status labels match."}
+{"key": "table_view/ios/dark", "verdict": "DECLINED", "reason": "Account title colour, cell backgrounds and Name value position differ from the desired UI."}
+{"key": "table_view/ios/light", "verdict": "DECLINED", "reason": "Account title is black instead of blue, cells are white, and the Name value is shifted right."}
+{"key": "templated_view/ios/dark", "verdict": "ACCEPTED", "reason": "Card view and compact templated cards match."}
+{"key": "templated_view/ios/light", "verdict": "ACCEPTED", "reason": "Card view and compact templated cards match."}
+{"key": "time_picker/ios/dark", "verdict": "DECLINED", "reason": "The 'Set to null' picker is empty in the candidate but shows 12:00 AM in the desired UI."}
+{"key": "time_picker/ios/light", "verdict": "DECLINED", "reason": "The 'Set to null' picker is empty in the candidate but shows 12:00 AM in the desired UI."}
+{"key": "title_bar/ios/dark", "verdict": "ACCEPTED", "reason": "Content options, colour options and status text match."}
+{"key": "title_bar/ios/light", "verdict": "ACCEPTED", "reason": "Content options, colour options and status text match."}

@@ -1,0 +1,36 @@
+{"key": "header_footer_view/ios/dark", "verdict": "ACCEPTED", "reason": "Header image and text match."}
+{"key": "header_footer_view/ios/light", "verdict": "ACCEPTED", "reason": "Header image and text match."}
+{"key": "hit_testing/ios/dark", "verdict": "ACCEPTED", "reason": "All labels, shapes and image match in content and layout."}
+{"key": "hit_testing/ios/light", "verdict": "ACCEPTED", "reason": "All labels, shapes and image match in content and layout."}
+{"key": "horizontal_stack/ios/dark", "verdict": "ACCEPTED", "reason": "Six coloured squares match in order and position."}
+{"key": "horizontal_stack_layout/ios/dark", "verdict": "DECLINED", "reason": "Candidate shows slider/stepper/switch controls instead of the coloured squares row."}
+{"key": "horizontal_stack_layout/ios/light", "verdict": "DECLINED", "reason": "Candidate shows slider/stepper/switch controls instead of the coloured squares row."}
+{"key": "horizontal_stack/ios/light", "verdict": "ACCEPTED", "reason": "Six coloured squares match in order and position."}
+{"key": "hybrid_web_view/ios/dark", "verdict": "DECLINED", "reason": "Button labels are middle-truncated with ellipses instead of clipped, changing the visible text."}
+{"key": "hybrid_web_view/ios/light", "verdict": "DECLINED", "reason": "Button labels are middle-truncated with ellipses instead of clipped, changing the visible text."}
+{"key": "image_button/ios/dark", "verdict": "ACCEPTED", "reason": "All image buttons, labels and slider match."}
+{"key": "image_button/ios/light", "verdict": "ACCEPTED", "reason": "All image buttons, labels and slider match."}
+{"key": "image/ios/dark", "verdict": "ACCEPTED", "reason": "All image sources, labels and switch match."}
+{"key": "image/ios/light", "verdict": "ACCEPTED", "reason": "All image sources, labels and switch match."}
+{"key": "indicator/ios/dark", "verdict": "DECLINED", "reason": "Candidate adds an extra 'Item 1' label and renders indicator dots smaller and tighter."}
+{"key": "indicator/ios/light", "verdict": "DECLINED", "reason": "Candidate adds an extra 'Item 1' label and renders indicator dots smaller and tighter."}
+{"key": "input_controls/ios/dark", "verdict": "ACCEPTED", "reason": "Entry, search bar and radio buttons match."}
+{"key": "input_controls/ios/light", "verdict": "ACCEPTED", "reason": "Entry, search bar and radio buttons match."}
+{"key": "input_transparent/ios/dark", "verdict": "ACCEPTED", "reason": "All labels, buttons and toggle match."}
+{"key": "input_transparent/ios/light", "verdict": "ACCEPTED", "reason": "All labels, buttons and toggle match."}
+{"key": "invalidate_brush/ios/dark", "verdict": "ACCEPTED", "reason": "Button, line and label match."}
+{"key": "invalidate_brush/ios/light", "verdict": "ACCEPTED", "reason": "Button, line and label match."}
+{"key": "invalidate_shadow_host/ios/dark", "verdict": "ACCEPTED", "reason": "Sliders, labels and host box match."}
+{"key": "invalidate_shadow_host/ios/light", "verdict": "ACCEPTED", "reason": "Sliders, labels and host box match."}
+{"key": "ios_blur_effect/ios/dark", "verdict": "ACCEPTED", "reason": "Image, buttons and status label match."}
+{"key": "ios_blur_effect/ios/light", "verdict": "ACCEPTED", "reason": "Image, buttons and status label match."}
+{"key": "ios_date_picker/ios/dark", "verdict": "ACCEPTED", "reason": "Date field and toggle button match."}
+{"key": "ios_date_picker/ios/light", "verdict": "ACCEPTED", "reason": "Date field and toggle button match."}
+{"key": "ios_entry/ios/dark", "verdict": "DECLINED", "reason": "Placeholder text is not truncated with an ellipsis as in the desired UI, so visible text differs."}
+{"key": "ios_entry/ios/light", "verdict": "DECLINED", "reason": "Placeholder text is not truncated with an ellipsis as in the desired UI, so visible text differs."}
+{"key": "ios_first_responder/ios/dark", "verdict": "ACCEPTED", "reason": "All labels, entries and buttons match."}
+{"key": "ios_first_responder/ios/light", "verdict": "ACCEPTED", "reason": "All labels, entries and buttons match."}
+{"key": "ios_pan_gesture/ios/dark", "verdict": "ACCEPTED", "reason": "All labels and button match."}
+{"key": "ios_pan_gesture/ios/light", "verdict": "ACCEPTED", "reason": "All labels and button match."}
+{"key": "ios_picker/ios/dark", "verdict": "ACCEPTED", "reason": "Picker field and toggle button match."}
+{"key": "ios_picker/ios/light", "verdict": "ACCEPTED", "reason": "Picker field and toggle button match."}

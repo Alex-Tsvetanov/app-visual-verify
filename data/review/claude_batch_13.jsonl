@@ -1,0 +1,36 @@
+{"key": "flex_layout/ios/dark", "verdict": "ACCEPTED", "reason": "Header, side columns, content and footer match in layout, text and colours."}
+{"key": "flex_layout/ios/light", "verdict": "ACCEPTED", "reason": "Header, side columns, content and footer match in layout, text and colours."}
+{"key": "focus/ios/dark", "verdict": "ACCEPTED", "reason": "Entry, focus buttons and IsFocused label match."}
+{"key": "focus/ios/light", "verdict": "ACCEPTED", "reason": "Entry, focus buttons and IsFocused label match."}
+{"key": "fonts/ios/dark", "verdict": "ACCEPTED", "reason": "All font samples match in text, size, weight and spacing."}
+{"key": "fonts/ios/light", "verdict": "ACCEPTED", "reason": "All font samples match in text, size, weight and spacing."}
+{"key": "footer_only_string/ios/dark", "verdict": "ACCEPTED", "reason": "List items and footer string match."}
+{"key": "footer_only_string/ios/light", "verdict": "ACCEPTED", "reason": "List items and footer string match."}
+{"key": "formatted_text/ios/dark", "verdict": "ACCEPTED", "reason": "Formatted spans and plain label match."}
+{"key": "formatted_text/ios/light", "verdict": "ACCEPTED", "reason": "Formatted spans and plain label match."}
+{"key": "frame/ios/dark", "verdict": "DECLINED", "reason": "Candidate shows a slider/stepper/switch page instead of the two framed labels."}
+{"key": "frame/ios/light", "verdict": "DECLINED", "reason": "Candidate shows a slider/stepper/switch page instead of the two framed labels."}
+{"key": "gestures/ios/dark", "verdict": "ACCEPTED", "reason": "Gesture target, label and status text match."}
+{"key": "gestures/ios/light", "verdict": "ACCEPTED", "reason": "Gesture target, label and status text match."}
+{"key": "gradient/ios/dark", "verdict": "ACCEPTED", "reason": "Linear and radial gradients and labels match."}
+{"key": "gradient/ios/light", "verdict": "ACCEPTED", "reason": "Linear and radial gradients and labels match."}
+{"key": "grid/ios/dark", "verdict": "ACCEPTED", "reason": "2x2 coloured grid and label match."}
+{"key": "grid_definitions/ios/dark", "verdict": "DECLINED", "reason": "Candidate shows an unrelated slider/stepper page instead of the grid definitions layout."}
+{"key": "grid_definitions/ios/light", "verdict": "DECLINED", "reason": "Candidate shows an unrelated slider/stepper page instead of the grid definitions layout."}
+{"key": "grid_grouping/ios/dark", "verdict": "ACCEPTED", "reason": "Grouped grid headers, items and footers match."}
+{"key": "grid_grouping/ios/light", "verdict": "ACCEPTED", "reason": "Grouped grid headers, items and footers match."}
+{"key": "grid_layout/ios/dark", "verdict": "DECLINED", "reason": "Candidate shows an unrelated slider/stepper page instead of the grid with spanning cell."}
+{"key": "grid_layout/ios/light", "verdict": "DECLINED", "reason": "Candidate shows an unrelated slider/stepper page instead of the grid with spanning cell."}
+{"key": "grid/ios/light", "verdict": "ACCEPTED", "reason": "2x2 coloured grid and label match."}
+{"key": "grouping_no_templates/ios/dark", "verdict": "ACCEPTED", "reason": "Flat list of names matches."}
+{"key": "grouping_no_templates/ios/light", "verdict": "ACCEPTED", "reason": "Flat list of names matches."}
+{"key": "grouping_plus_selection/ios/dark", "verdict": "ACCEPTED", "reason": "Group headers, items and footers match."}
+{"key": "grouping_plus_selection/ios/light", "verdict": "ACCEPTED", "reason": "Group headers, items and footers match."}
+{"key": "header_footer/ios/dark", "verdict": "ACCEPTED", "reason": "String header, items and footer match."}
+{"key": "header_footer_grid/ios/dark", "verdict": "DECLINED", "reason": "Rotated footer label sits higher, overlapping the footer image more than in the desired UI."}
+{"key": "header_footer_grid_horizontal/ios/dark", "verdict": "DECLINED", "reason": "Horizontal grid rows are spaced differently, showing an extra row of items."}
+{"key": "header_footer_grid_horizontal/ios/light", "verdict": "DECLINED", "reason": "Horizontal grid rows are spaced differently, showing an extra row of items."}
+{"key": "header_footer_grid/ios/light", "verdict": "DECLINED", "reason": "Rotated footer label sits higher, overlapping the footer image more than in the desired UI."}
+{"key": "header_footer/ios/light", "verdict": "ACCEPTED", "reason": "String header, items and footer match."}
+{"key": "header_footer_template/ios/dark", "verdict": "ACCEPTED", "reason": "Templated header, items and footer match."}
+{"key": "header_footer_template/ios/light", "verdict": "ACCEPTED", "reason": "Templated header, items and footer match."}

@@ -1,0 +1,36 @@
+{"key": "radio_template_from_style/ios/dark", "verdict": "ACCEPTED", "reason": "Same three templated radio cards with labels and circles; only a few-pixel inset difference."}
+{"key": "radio_template_from_style/ios/light", "verdict": "ACCEPTED", "reason": "Same three templated radio cards with labels and circles; only a few-pixel inset difference."}
+{"key": "rectangle_gallery/ios/dark", "verdict": "ACCEPTED", "reason": "All rectangles, strokes, dashes and labels match."}
+{"key": "rectangle_gallery/ios/light", "verdict": "ACCEPTED", "reason": "All rectangles, strokes, dashes and labels match."}
+{"key": "refresh_view/ios/dark", "verdict": "ACCEPTED", "reason": "Text, buttons and status labels are identical."}
+{"key": "refresh_view/ios/light", "verdict": "ACCEPTED", "reason": "Text, buttons and status labels are identical."}
+{"key": "relative_layout/ios/dark", "verdict": "ACCEPTED", "reason": "Corner squares and nested rectangles are positioned identically."}
+{"key": "relative_layout/ios/light", "verdict": "ACCEPTED", "reason": "Corner squares and nested rectangles are positioned identically."}
+{"key": "scattered_radio_button/ios/dark", "verdict": "ACCEPTED", "reason": "Same text, radio buttons and grouped container."}
+{"key": "scattered_radio_button/ios/light", "verdict": "ACCEPTED", "reason": "Same text, radio buttons and grouped container."}
+{"key": "scroll_mode_test/ios/dark", "verdict": "DECLINED", "reason": "Candidate picker shows KeepItemsInView while the desired picker is empty."}
+{"key": "scroll_mode_test/ios/light", "verdict": "DECLINED", "reason": "Candidate picker shows KeepItemsInView while the desired picker is empty."}
+{"key": "scroll_to_group/ios/dark", "verdict": "ACCEPTED", "reason": "Inputs, buttons and grouped list match."}
+{"key": "scroll_to_group/ios/light", "verdict": "ACCEPTED", "reason": "Inputs, buttons and grouped list match."}
+{"key": "scroll_view/ios/dark", "verdict": "ACCEPTED", "reason": "Same status label and row list."}
+{"key": "scroll_view/ios/light", "verdict": "ACCEPTED", "reason": "Same status label and row list."}
+{"key": "search_bar/ios/dark", "verdict": "DECLINED", "reason": "Placeholder text colour for Search and Numeric keyboard is noticeably lighter in the candidate."}
+{"key": "search_bar/ios/light", "verdict": "DECLINED", "reason": "Placeholder text colour for Search and Numeric keyboard is noticeably darker in the candidate."}
+{"key": "selection_command_param/ios/dark", "verdict": "ACCEPTED", "reason": "Header, status and item list are identical."}
+{"key": "selection_command_param/ios/light", "verdict": "ACCEPTED", "reason": "Header, status and item list are identical."}
+{"key": "selection_synchronization/ios/dark", "verdict": "ACCEPTED", "reason": "Same text and selected-item highlights in all lists."}
+{"key": "selection_synchronization/ios/light", "verdict": "ACCEPTED", "reason": "Same text and selected-item highlights in all lists."}
+{"key": "semantics/ios/dark", "verdict": "ACCEPTED", "reason": "All labels, buttons, entries and search bar match."}
+{"key": "semantics/ios/light", "verdict": "ACCEPTED", "reason": "All labels, buttons, entries and search bar match."}
+{"key": "shadow_playground/ios/dark", "verdict": "ACCEPTED", "reason": "Box, entries, sliders and values are identical."}
+{"key": "shadow_playground/ios/light", "verdict": "ACCEPTED", "reason": "Box, entries, sliders and values are identical."}
+{"key": "shape_app_theme/ios/dark", "verdict": "ACCEPTED", "reason": "Same red themed label and shape."}
+{"key": "shape_app_theme/ios/light", "verdict": "ACCEPTED", "reason": "Same green themed label and shape."}
+{"key": "shapes/ios/dark", "verdict": "ACCEPTED", "reason": "Ellipse, round rectangle, pentagram and line all match."}
+{"key": "shapes/ios/light", "verdict": "ACCEPTED", "reason": "Ellipse, round rectangle, pentagram and line all match."}
+{"key": "single_bound_selection/ios/dark", "verdict": "ACCEPTED", "reason": "Text, buttons and country list are identical."}
+{"key": "single_bound_selection/ios/light", "verdict": "ACCEPTED", "reason": "Text, buttons and country list are identical."}
+{"key": "slider/ios/dark", "verdict": "ACCEPTED", "reason": "All slider variants, colours and positions match."}
+{"key": "slider/ios/light", "verdict": "ACCEPTED", "reason": "All slider variants, colours and positions match."}
+{"key": "some_empty_groups/ios/dark", "verdict": "DECLINED", "reason": "Group header labels are bold in the desired UI but regular weight in the candidate."}
+{"key": "some_empty_groups/ios/light", "verdict": "DECLINED", "reason": "Group header labels are bold in the desired UI but regular weight in the candidate."}

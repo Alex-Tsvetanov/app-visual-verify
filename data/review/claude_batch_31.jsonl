@@ -1,0 +1,36 @@
+{"key": "clip/windows/dark", "verdict": "ACCEPTED", "reason": "Images, clips and captions match the desired UI."}
+{"key": "clip_gallery/windows/dark", "verdict": "ACCEPTED", "reason": "All clipped images and labels match the desired UI."}
+{"key": "clip_gallery/windows/light", "verdict": "ACCEPTED", "reason": "All clipped images and labels match the desired UI."}
+{"key": "clip/windows/light", "verdict": "ACCEPTED", "reason": "Images, clips and captions match the desired UI."}
+{"key": "clip_views/windows/dark", "verdict": "DECLINED", "reason": "The first red element is a plain rectangle instead of having the curved clip."}
+{"key": "clip_views/windows/light", "verdict": "DECLINED", "reason": "The first red element is a plain rectangle instead of having the curved clip."}
+{"key": "clipping/windows/dark", "verdict": "ACCEPTED", "reason": "Layout, buttons and overlapping elements match the desired UI."}
+{"key": "clipping/windows/light", "verdict": "ACCEPTED", "reason": "Layout, buttons and overlapping elements match the desired UI."}
+{"key": "collectionview/windows/dark", "verdict": "DECLINED", "reason": "The first item cover1.jpg, 0 sits lower than its row in the desired UI but is aligned with it in the candidate."}
+{"key": "collectionview/windows/light", "verdict": "DECLINED", "reason": "The first item cover1.jpg, 0 sits lower than its row in the desired UI but is aligned with it in the candidate."}
+{"key": "composition_gallery/windows/dark", "verdict": "ACCEPTED", "reason": "Both drawings match the desired UI."}
+{"key": "composition_gallery/windows/light", "verdict": "ACCEPTED", "reason": "Both drawings match the desired UI."}
+{"key": "containers/windows/dark", "verdict": "ACCEPTED", "reason": "Border, frame and content view match the desired UI."}
+{"key": "containers/windows/light", "verdict": "ACCEPTED", "reason": "Border, frame and content view match the desired UI."}
+{"key": "content_view/windows/dark", "verdict": "ACCEPTED", "reason": "Labels and the swap button match the desired UI."}
+{"key": "content_view/windows/light", "verdict": "ACCEPTED", "reason": "Labels and the swap button match the desired UI."}
+{"key": "context_flyout/windows/dark", "verdict": "ACCEPTED", "reason": "Controls, web content and labels match the desired UI."}
+{"key": "context_flyout/windows/light", "verdict": "ACCEPTED", "reason": "Controls, web content and labels match the desired UI."}
+{"key": "controls_stack/windows/dark", "verdict": "ACCEPTED", "reason": "All controls match; only the spinner animation phase differs."}
+{"key": "controls_stack/windows/light", "verdict": "ACCEPTED", "reason": "All controls match; only the spinner animation phase differs."}
+{"key": "custom_layout/windows/dark", "verdict": "ACCEPTED", "reason": "Top, bottom, left and right regions match the desired layout."}
+{"key": "custom_layout/windows/light", "verdict": "ACCEPTED", "reason": "Top, bottom, left and right regions match the desired layout."}
+{"key": "custom_size_swipe/windows/dark", "verdict": "ACCEPTED", "reason": "Swipe content, button and status text match the desired UI."}
+{"key": "custom_size_swipe/windows/light", "verdict": "ACCEPTED", "reason": "Swipe content, button and status text match the desired UI."}
+{"key": "custom_swipe_item_view/windows/dark", "verdict": "ACCEPTED", "reason": "Instruction text and the item card match the desired UI."}
+{"key": "custom_swipe_item_view/windows/light", "verdict": "ACCEPTED", "reason": "Instruction text and the item card match; any remaining difference is a faint tint."}
+{"key": "cv_visual_states/windows/dark", "verdict": "ACCEPTED", "reason": "Same lists and checkboxes; only the per-item corner rounding differs."}
+{"key": "cv_visual_states/windows/light", "verdict": "ACCEPTED", "reason": "Lists, items and checkboxes match the desired UI."}
+{"key": "data_template_selector/windows/dark", "verdict": "ACCEPTED", "reason": "Search bar and day list match the desired UI."}
+{"key": "data_template_selector/windows/light", "verdict": "ACCEPTED", "reason": "Search bar and day list match the desired UI."}
+{"key": "date_picker/windows/dark", "verdict": "DECLINED", "reason": "The Set to null picker shows 'select a date' instead of 8/24/2026."}
+{"key": "date_picker/windows/light", "verdict": "DECLINED", "reason": "The Set to null picker shows 'select a date' instead of 8/24/2026."}
+{"key": "device/windows/dark", "verdict": "DECLINED", "reason": "Platform, idiom and version text differ (iOS/Phone/17.0 vs WinUI/Desktop/10.0)."}
+{"key": "device/windows/light", "verdict": "DECLINED", "reason": "Platform, idiom and version text differ (iOS/Phone/17.0 vs WinUI/Desktop/10.0)."}
+{"key": "dispatcher/windows/dark", "verdict": "ACCEPTED", "reason": "All labels and buttons match the desired UI."}
+{"key": "dispatcher/windows/light", "verdict": "ACCEPTED", "reason": "All labels and buttons match the desired UI."}

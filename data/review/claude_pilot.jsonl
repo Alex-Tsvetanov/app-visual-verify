@@ -1,0 +1,20 @@
+{"key": "custom_swipe_item_view/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same instruction text and swipe card content, colours and layout."}
+{"key": "header_footer_view/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Header image and title render identically."}
+{"key": "date_picker/android/dark", "verdict": "DECLINED", "reason": "The Disabled date picker shows normal white text instead of the greyed-out disabled state."}
+{"key": "ios_date_picker/ios/dark", "verdict": "ACCEPTED", "reason": "Same date field and toggle button with matching layout."}
+{"key": "update_path_data/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same path shape, counter text and button."}
+{"key": "shapes/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All four shapes and labels match in colour, size and position."}
+{"key": "filter_selection/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same instructions, filter box, Reset button, selection label and item list."}
+{"key": "scattered_radio_button/ios/light", "verdict": "ACCEPTED", "reason": "Same text and radio buttons in the same unselected state and layout."}
+{"key": "scroll_mode_test/maccatalyst/dark", "verdict": "DECLINED", "reason": "The scroll-mode picker shows a white field with KeepItemsInView text where the desired UI shows an empty dark field."}
+{"key": "border_alignment/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same aligned bordered boxes; only slight corner rounding of the borders differs."}
+{"key": "gradient/windows/dark", "verdict": "ACCEPTED", "reason": "Both gradients and labels match apart from minor rendering differences."}
+{"key": "empty_view/ios/light", "verdict": "ACCEPTED", "reason": "Same filter bar and item list."}
+{"key": "templated_view/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same card view text and compact cards with matching layout."}
+{"key": "single_bound_selection/android/light", "verdict": "ACCEPTED", "reason": "Same text, disabled buttons and country list."}
+{"key": "pan_gesture_events/ios/light", "verdict": "DECLINED", "reason": "Status text reports TotalX 0 and TotalY 0 instead of TotalX 12 and TotalY -8."}
+{"key": "slider/android/dark", "verdict": "DECLINED", "reason": "The Disabled slider thumb is almost invisible instead of the hollow ring shown in the desired UI."}
+{"key": "items/android/dark", "verdict": "ACCEPTED", "reason": "Same task list and prompt text."}
+{"key": "line_gallery/windows/dark", "verdict": "ACCEPTED", "reason": "Same three lines with matching labels, colours and positions."}
+{"key": "hybrid_web_view/ios/light", "verdict": "DECLINED", "reason": "Button labels are truncated with middle ellipses and shifted instead of matching the desired text layout."}
+{"key": "border_layout/windows/light", "verdict": "ACCEPTED", "reason": "Same slider, label and bordered layout."}

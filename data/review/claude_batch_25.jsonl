@@ -1,0 +1,36 @@
+{"key": "ios_slider_update_on_tap/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Label, slider at minimum and toggle button match."}
+{"key": "ios_slider_update_on_tap/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Label, slider at minimum and toggle button match."}
+{"key": "ios_swipe_transition/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Mode buttons, swipe box and status labels match."}
+{"key": "ios_swipe_transition/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Mode buttons, swipe box and status labels match."}
+{"key": "ios_time_picker/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Time, toggle button and update mode label match."}
+{"key": "ios_time_picker/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Time, toggle button and update mode label match."}
+{"key": "items/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Header, three tasks and prompt label match."}
+{"key": "items/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Header, three tasks and prompt label match."}
+{"key": "items_updating_scroll_mode/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Mode buttons, status and all 50 items match."}
+{"key": "items_updating_scroll_mode/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Mode buttons, status and all 50 items match."}
+{"key": "label/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All label styles, alignments, formatted text and truncation match."}
+{"key": "label/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All label styles, alignments, formatted text and truncation match."}
+{"key": "layout_is_enabled/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All panels, enabled/disabled states and controls match."}
+{"key": "layout_is_enabled/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All panels, enabled/disabled states and controls match."}
+{"key": "line_gallery/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Three labelled lines with same colours and positions."}
+{"key": "line_gallery/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Three labelled lines with same colours and positions."}
+{"key": "line_join_gallery/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Miter, bevel and round joins render identically."}
+{"key": "line_join_gallery/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Miter, bevel and round joins render identically."}
+{"key": "measure_first_strategy/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Grouped list, headers, footers and toggle match."}
+{"key": "measure_first_strategy/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Grouped list, headers, footers and toggle match."}
+{"key": "menu_bar/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Label and toggle button match."}
+{"key": "menu_bar/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Label and toggle button match."}
+{"key": "modal/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Title, buttons with disabled pop and depth label match."}
+{"key": "modal/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Title, buttons with disabled pop and depth label match."}
+{"key": "multiple_bound_selection/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Selection label, highlighted items 1-2 and buttons match."}
+{"key": "multiple_bound_selection/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Selection label, highlighted items 1-2 and buttons match."}
+{"key": "navigation_gallery/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Status line and all navigation buttons match."}
+{"key": "navigation_gallery/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Status line and all navigation buttons match."}
+{"key": "nested_collection/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All ten sources and nested item rows match."}
+{"key": "nested_collection/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All ten sources and nested item rows match."}
+{"key": "pan_gesture_events/maccatalyst/dark", "verdict": "DECLINED", "reason": "Status text shows TotalX 0, TotalY 0 instead of 12 and -8."}
+{"key": "pan_gesture_events/maccatalyst/light", "verdict": "DECLINED", "reason": "Status text shows TotalX 0, TotalY 0 instead of 12 and -8."}
+{"key": "path_aspect_gallery/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Four labelled octagons match apart from minor stroke rendering."}
+{"key": "path_aspect_gallery/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Four labelled octagons match apart from minor stroke rendering."}
+{"key": "path_gallery/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All labelled paths and shapes match."}
+{"key": "path_gallery/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All labelled paths and shapes match."}

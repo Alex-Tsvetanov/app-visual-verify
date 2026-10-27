@@ -23,8 +23,11 @@ def tile_means(a, grid):
 
 
 def compare(ref_path, cand_path, grid=GRID):
-    ref = load_rgb(ref_path)
-    cand = load_rgb(cand_path)
+    return compare_arrays(load_rgb(ref_path), load_rgb(cand_path), grid)
+
+
+def compare_arrays(ref, cand, grid=GRID):
+    """Same as compare, for RGB float arrays in [0, 1]."""
     size_mismatch = ref.shape != cand.shape
     if size_mismatch:
         # Compare on the reference grid; the mismatch is reported, not hidden.

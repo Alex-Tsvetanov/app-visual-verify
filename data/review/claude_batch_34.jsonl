@@ -1,0 +1,36 @@
+{"key": "indicator/windows/dark", "verdict": "DECLINED", "reason": "All indicator dot rows are missing and the CarouselView shows 'Item 1' text instead of indicators."}
+{"key": "indicator/windows/light", "verdict": "DECLINED", "reason": "All indicator dot rows are missing and the CarouselView shows 'Item 1' text instead of indicators."}
+{"key": "input_controls/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "input_controls/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "input_transparent/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "input_transparent/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "invalidate_brush/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "invalidate_brush/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "invalidate_shadow_host/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "invalidate_shadow_host/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_blur_effect/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_blur_effect/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_date_picker/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_date_picker/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_entry/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_entry/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_first_responder/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_first_responder/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_pan_gesture/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_pan_gesture/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_picker/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_picker/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_safe_area/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_safe_area/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_scroll_view/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_scroll_view/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_search_bar/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_search_bar/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_slider_update_on_tap/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_slider_update_on_tap/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_swipe_transition/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_swipe_transition/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_time_picker/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "ios_time_picker/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "items/windows/dark", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}
+{"key": "items/windows/light", "verdict": "ACCEPTED", "reason": "Content, text, controls, states and layout match the desired UI."}

@@ -1,0 +1,36 @@
+{"key": "scroll_view/windows/dark", "verdict": "ACCEPTED", "reason": "Rows, scroll label and layout match the desired UI."}
+{"key": "scroll_view/windows/light", "verdict": "ACCEPTED", "reason": "Rows, scroll label and layout match the desired UI."}
+{"key": "search_bar/windows/dark", "verdict": "ACCEPTED", "reason": "All search bars, texts, colours and alignments match."}
+{"key": "search_bar/windows/light", "verdict": "ACCEPTED", "reason": "All search bars, texts, colours and alignments match."}
+{"key": "selection_command_param/windows/dark", "verdict": "ACCEPTED", "reason": "Status, header and item list are identical."}
+{"key": "selection_command_param/windows/light", "verdict": "ACCEPTED", "reason": "Status, header and item list are identical."}
+{"key": "selection_synchronization/windows/dark", "verdict": "ACCEPTED", "reason": "Texts and selection states of all three lists match."}
+{"key": "selection_synchronization/windows/light", "verdict": "ACCEPTED", "reason": "Texts and selection states of all three lists match."}
+{"key": "semantics/windows/dark", "verdict": "ACCEPTED", "reason": "All labels, buttons and inputs match in content and layout."}
+{"key": "semantics/windows/light", "verdict": "ACCEPTED", "reason": "All labels, buttons and inputs match in content and layout."}
+{"key": "shadow_playground/windows/dark", "verdict": "ACCEPTED", "reason": "Box, fields, slider values and button match."}
+{"key": "shadow_playground/windows/light", "verdict": "ACCEPTED", "reason": "Box, fields, slider values and button match."}
+{"key": "shape_app_theme/windows/dark", "verdict": "ACCEPTED", "reason": "Red label and rectangle on black match the desired UI."}
+{"key": "shape_app_theme/windows/light", "verdict": "ACCEPTED", "reason": "Green label and rectangle on white match the desired UI."}
+{"key": "shapes/windows/dark", "verdict": "ACCEPTED", "reason": "Ellipse, round rectangle, pentagram and line match."}
+{"key": "shapes/windows/light", "verdict": "ACCEPTED", "reason": "Ellipse, round rectangle, pentagram and line match."}
+{"key": "single_bound_selection/windows/dark", "verdict": "ACCEPTED", "reason": "Instructions, buttons and country list match."}
+{"key": "single_bound_selection/windows/light", "verdict": "ACCEPTED", "reason": "Instructions, buttons and country list match."}
+{"key": "slider/windows/dark", "verdict": "ACCEPTED", "reason": "All sliders, colours, values and labels match."}
+{"key": "slider/windows/light", "verdict": "ACCEPTED", "reason": "All sliders, colours, values and labels match."}
+{"key": "some_empty_groups/windows/dark", "verdict": "DECLINED", "reason": "Group header names are bold in the desired UI but regular weight in the candidate."}
+{"key": "some_empty_groups/windows/light", "verdict": "DECLINED", "reason": "Group header names are bold in the desired UI but regular weight in the candidate."}
+{"key": "stack_layout/windows/dark", "verdict": "ACCEPTED", "reason": "Vertical and horizontal colour stacks match."}
+{"key": "stack_layout/windows/light", "verdict": "ACCEPTED", "reason": "Vertical and horizontal colour stacks match."}
+{"key": "staggered_layout/windows/dark", "verdict": "DECLINED", "reason": "Item 0 is staggered lower than Items 1-2 in the desired UI but aligned in the candidate."}
+{"key": "staggered_layout/windows/light", "verdict": "DECLINED", "reason": "Item 0 is staggered lower than Items 1-2 in the desired UI but aligned in the candidate."}
+{"key": "stepper/windows/dark", "verdict": "DECLINED", "reason": "The Disabled stepper's plus button appears enabled in the candidate."}
+{"key": "stepper/windows/light", "verdict": "DECLINED", "reason": "The Disabled stepper's plus button appears enabled in the candidate."}
+{"key": "styles/windows/dark", "verdict": "ACCEPTED", "reason": "Styled labels and button match in text and colour."}
+{"key": "styles/windows/light", "verdict": "ACCEPTED", "reason": "Styled labels and button match in text and colour."}
+{"key": "swipe_gesture/windows/dark", "verdict": "ACCEPTED", "reason": "Instruction, card and status text match."}
+{"key": "swipe_gesture/windows/light", "verdict": "ACCEPTED", "reason": "Instruction, card and status text match."}
+{"key": "swipe_item_position/windows/dark", "verdict": "ACCEPTED", "reason": "Mode picker and swipe area match."}
+{"key": "swipe_item_position/windows/light", "verdict": "ACCEPTED", "reason": "Mode picker and swipe area match."}
+{"key": "swipe_item_size/windows/dark", "verdict": "ACCEPTED", "reason": "Labels and swipe rows match in content and size."}
+{"key": "swipe_item_size/windows/light", "verdict": "ACCEPTED", "reason": "Labels and swipe rows match in content and size."}

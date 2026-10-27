@@ -1,0 +1,36 @@
+{"key": "app_theme_binding/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same headings and theme-coloured text in dark mode."}
+{"key": "app_theme_binding/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same headings and green/orange text in light mode."}
+{"key": "application_control/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same labels and three buttons in the same layout."}
+{"key": "application_control/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same labels and three buttons in the same layout."}
+{"key": "auto_size_shapes/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Ellipse, colours and halves layout are identical."}
+{"key": "auto_size_shapes/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Ellipse, colours and halves layout are identical."}
+{"key": "basic_grouping/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All groups, items, headers and footers match."}
+{"key": "basic_grouping/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All groups, items, headers and footers match."}
+{"key": "basic_swipe/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same five swipe boxes with identical labels and layout."}
+{"key": "basic_swipe/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same five swipe boxes with identical labels and layout."}
+{"key": "behaviors/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same title and entry with placeholder."}
+{"key": "behaviors/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same title and entry with placeholder."}
+{"key": "border_alignment/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same aligned bordered boxes; only minor corner rendering differs."}
+{"key": "border_alignment/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same aligned bordered boxes; only slight corner rounding difference in borders."}
+{"key": "border_clip_playground/maccatalyst/dark", "verdict": "DECLINED", "reason": "Border Shape field shows RoundRectangle in candidate but is empty in desired."}
+{"key": "border_clip_playground/maccatalyst/light", "verdict": "DECLINED", "reason": "Border Shape field shows RoundRectangle in candidate but is empty in desired."}
+{"key": "border/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same centered bordered box with matching content."}
+{"key": "border_layout/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same slider, label and bordered layout strip."}
+{"key": "border_layout/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same slider, label and bordered layout strip."}
+{"key": "border/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same centered bordered box with Bordered content text."}
+{"key": "border_playground/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All controls, values and the preview border match."}
+{"key": "border_playground/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All controls, values and the preview border match."}
+{"key": "border_resize_content/maccatalyst/dark", "verdict": "DECLINED", "reason": "Triangle borders render differently, with content and plus sign missing or clipped."}
+{"key": "border_resize_content/maccatalyst/light", "verdict": "DECLINED", "reason": "Triangle borders render differently, with content and plus sign missing or clipped."}
+{"key": "border_stroke/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same stroke thickness rows, slider and labels."}
+{"key": "border_stroke/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same stroke thickness rows, slider and labels."}
+{"key": "border_styles/maccatalyst/dark", "verdict": "DECLINED", "reason": "StrokeShape bound to parent box has a much larger corner radius than desired."}
+{"key": "border_styles/maccatalyst/light", "verdict": "DECLINED", "reason": "StrokeShape bound to parent box has a much larger corner radius than desired."}
+{"key": "borderless/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same yellow title bar and pink/red halves."}
+{"key": "borderless/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same yellow title bar and pink/red halves."}
+{"key": "box_view/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same labelled boxes with matching colours and corner radii."}
+{"key": "box_view/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same labelled boxes with matching colours and corner radii."}
+{"key": "button/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All buttons, styles and labels match."}
+{"key": "button/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All buttons, styles and labels match."}
+{"key": "carousel_page/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same Card 1 page with purple frame."}
+{"key": "carousel_page/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same Card 1 page with purple frame."}

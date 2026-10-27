@@ -1,0 +1,36 @@
+{"key": "drag_drop/windows/dark", "verdict": "ACCEPTED", "reason": "Swatches, labels and layout match the desired UI."}
+{"key": "drag_drop/windows/light", "verdict": "ACCEPTED", "reason": "Swatches, labels and layout match the desired UI."}
+{"key": "editor/windows/dark", "verdict": "ACCEPTED", "reason": "All editor fields, text and layout match."}
+{"key": "editor/windows/light", "verdict": "ACCEPTED", "reason": "All editor fields, text and layout match."}
+{"key": "effects/windows/dark", "verdict": "ACCEPTED", "reason": "Labels, entries, buttons and status text match."}
+{"key": "effects/windows/light", "verdict": "ACCEPTED", "reason": "Labels, entries, buttons and status text match."}
+{"key": "ellipse_gallery/windows/dark", "verdict": "DECLINED", "reason": "The last ellipse lacks the visible red dashed stroke shown in the desired UI."}
+{"key": "ellipse_gallery/windows/light", "verdict": "DECLINED", "reason": "The last ellipse lacks the visible red dashed stroke shown in the desired UI."}
+{"key": "empty_view/windows/dark", "verdict": "ACCEPTED", "reason": "Filter box and item list match."}
+{"key": "empty_view/windows/light", "verdict": "ACCEPTED", "reason": "Filter box and item list match."}
+{"key": "empty_view_load_simulate/windows/dark", "verdict": "DECLINED", "reason": "Loading message sits top-left instead of centered in the window."}
+{"key": "empty_view_load_simulate/windows/light", "verdict": "DECLINED", "reason": "Loading message sits top-left instead of centered in the window."}
+{"key": "empty_view_null/windows/dark", "verdict": "DECLINED", "reason": "Empty-view text is top-left instead of centered in the window."}
+{"key": "empty_view_null/windows/light", "verdict": "DECLINED", "reason": "Empty-view text is top-left instead of centered in the window."}
+{"key": "empty_view_rtl/windows/dark", "verdict": "DECLINED", "reason": "FlowDirection picker shows 'Left to Right' while the desired picker is empty."}
+{"key": "empty_view_rtl/windows/light", "verdict": "DECLINED", "reason": "FlowDirection picker shows 'Left to Right' while the desired picker is empty."}
+{"key": "empty_view_selector/windows/dark", "verdict": "ACCEPTED", "reason": "Instructions, filter and single item match."}
+{"key": "empty_view_selector/windows/light", "verdict": "ACCEPTED", "reason": "Instructions, filter and single item match."}
+{"key": "empty_view_swap/windows/dark", "verdict": "ACCEPTED", "reason": "Filter, toggle, buttons and grid items match."}
+{"key": "empty_view_swap/windows/light", "verdict": "ACCEPTED", "reason": "Filter, toggle, buttons and grid items match."}
+{"key": "empty_view_template/windows/dark", "verdict": "ACCEPTED", "reason": "Filter and grid items match aside from a tiny offset on the first cell."}
+{"key": "empty_view_template/windows/light", "verdict": "ACCEPTED", "reason": "Filter and grid items match aside from a tiny offset on the first cell."}
+{"key": "empty_view_view/windows/dark", "verdict": "ACCEPTED", "reason": "Filter and grid items match aside from a tiny offset on the first cell."}
+{"key": "empty_view_view/windows/light", "verdict": "ACCEPTED", "reason": "Filter and grid items match aside from a tiny offset on the first cell."}
+{"key": "entry/windows/dark", "verdict": "ACCEPTED", "reason": "All entries, checkbox, slider and labels match."}
+{"key": "entry/windows/light", "verdict": "ACCEPTED", "reason": "All entries, checkbox, slider and labels match."}
+{"key": "filter_collection/windows/dark", "verdict": "DECLINED", "reason": "The 'Use EmptyView' label is shifted up and no longer aligned with its switch."}
+{"key": "filter_collection/windows/light", "verdict": "DECLINED", "reason": "The 'Use EmptyView' label is shifted up and no longer aligned with its switch."}
+{"key": "filter_selection/windows/dark", "verdict": "ACCEPTED", "reason": "Instructions, filter, Reset button, status and list match."}
+{"key": "filter_selection/windows/light", "verdict": "ACCEPTED", "reason": "Instructions, filter, Reset button, status and list match."}
+{"key": "flex_layout/windows/dark", "verdict": "ACCEPTED", "reason": "Header, side bars, content and footer regions match."}
+{"key": "flex_layout/windows/light", "verdict": "ACCEPTED", "reason": "Header, side bars, content and footer regions match."}
+{"key": "focus/windows/dark", "verdict": "ACCEPTED", "reason": "Entry, buttons and focus status match."}
+{"key": "focus/windows/light", "verdict": "ACCEPTED", "reason": "Entry, buttons and focus status match."}
+{"key": "fonts/windows/dark", "verdict": "ACCEPTED", "reason": "All font samples, sizes and styles match."}
+{"key": "fonts/windows/light", "verdict": "ACCEPTED", "reason": "All font samples, sizes and styles match."}

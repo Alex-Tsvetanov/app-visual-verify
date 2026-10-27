@@ -1,0 +1,36 @@
+{"key": "toolbar/ios/dark", "verdict": "ACCEPTED", "reason": "Same label and toolbar action buttons with identical text and layout."}
+{"key": "toolbar/ios/light", "verdict": "ACCEPTED", "reason": "Same label and toolbar action buttons with identical text and layout."}
+{"key": "transform_playground/ios/dark", "verdict": "DECLINED", "reason": "The red transformed square is visibly larger in the candidate."}
+{"key": "transform_playground/ios/light", "verdict": "DECLINED", "reason": "The red transformed square is visibly larger in the candidate."}
+{"key": "transformations/ios/dark", "verdict": "ACCEPTED", "reason": "All labels, sliders and steppers match in content and position."}
+{"key": "transformations/ios/light", "verdict": "ACCEPTED", "reason": "All labels, sliders and steppers match in content and position."}
+{"key": "triggers/ios/dark", "verdict": "ACCEPTED", "reason": "Title, description, entry, label and button match."}
+{"key": "triggers/ios/light", "verdict": "ACCEPTED", "reason": "Title, description, entry, label and button match."}
+{"key": "update_path_data/ios/dark", "verdict": "ACCEPTED", "reason": "Same counter text and button; path rendering identical."}
+{"key": "update_path_data/ios/light", "verdict": "ACCEPTED", "reason": "Path shape, counter text and button match."}
+{"key": "value_controls/ios/dark", "verdict": "ACCEPTED", "reason": "Slider, stepper, progress bar, switch and indicator match."}
+{"key": "value_controls/ios/light", "verdict": "ACCEPTED", "reason": "Slider, stepper, progress bar, switch and indicator match."}
+{"key": "varied_size_selector/ios/dark", "verdict": "ACCEPTED", "reason": "Item list, buttons and inputs match."}
+{"key": "varied_size_selector/ios/light", "verdict": "ACCEPTED", "reason": "Item list, buttons and inputs match."}
+{"key": "vertical_stack/ios/dark", "verdict": "ACCEPTED", "reason": "Label and colored boxes match in order and position."}
+{"key": "vertical_stack_layout/ios/dark", "verdict": "DECLINED", "reason": "Candidate shows a value-controls page instead of the vertical stack layout."}
+{"key": "vertical_stack_layout/ios/light", "verdict": "DECLINED", "reason": "Candidate shows a value-controls page instead of the vertical stack layout."}
+{"key": "vertical_stack/ios/light", "verdict": "ACCEPTED", "reason": "Label and colored boxes match in order and position."}
+{"key": "visual_states/ios/dark", "verdict": "ACCEPTED", "reason": "All entries, labels and buttons match in text and state."}
+{"key": "visual_states/ios/light", "verdict": "ACCEPTED", "reason": "All entries, labels and buttons match in text and state."}
+{"key": "web_view/ios/dark", "verdict": "DECLINED", "reason": "Navigation status text differs: 'No navigation yet' vs 'new_page -> https://demo.test/welcome'."}
+{"key": "web_view/ios/light", "verdict": "DECLINED", "reason": "Navigation status text differs: 'No navigation yet' vs 'new_page -> https://demo.test/welcome'."}
+{"key": "z_index/ios/dark", "verdict": "ACCEPTED", "reason": "Stacked labels, z-order and stepper match."}
+{"key": "z_index/ios/light", "verdict": "ACCEPTED", "reason": "Stacked labels, z-order and stepper match."}
+{"key": "absolute_layout/maccatalyst/dark", "verdict": "DECLINED", "reason": "The AutoSized box is smaller and positioned differently in the candidate."}
+{"key": "absolute_layout/maccatalyst/light", "verdict": "DECLINED", "reason": "The AutoSized box is smaller and positioned differently in the candidate."}
+{"key": "activity_indicator/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All labels and activity indicators match."}
+{"key": "activity_indicator/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All labels and activity indicators match."}
+{"key": "adaptive_collection/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Items 1-8 match in text and layout."}
+{"key": "adaptive_collection/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Items 1-8 match in text and layout."}
+{"key": "alerts/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Headings and buttons match in text and layout."}
+{"key": "alerts/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Headings and buttons match in text and layout."}
+{"key": "alignment/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All aligned buttons and labels match."}
+{"key": "alignment/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All aligned buttons and labels match."}
+{"key": "animation/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Image and animation buttons match including disabled Cancel state."}
+{"key": "animation/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Image and animation buttons match including disabled Cancel state."}

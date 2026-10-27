@@ -1,0 +1,274 @@
+[
+ {
+  "id": "ios/button_light",
+  "y": 0,
+  "dtw": 9.261203940402751e-07,
+  "pixel_frame0": 0.6556591987609863,
+  "set_chamfer": 9.261203940402751e-07,
+  "cnn_set": 0.9990351796150208
+ },
+ {
+  "id": "android/semantics_light",
+  "y": 0,
+  "dtw": 0.01764587866408357,
+  "pixel_frame0": 0.22644144296646118,
+  "set_chamfer": 0.01740588844773336,
+  "cnn_set": 0.9999499320983887
+ },
+ {
+  "id": "android/picker_dark",
+  "y": 0,
+  "dtw": 0.009656022936117198,
+  "pixel_frame0": 0.5577572584152222,
+  "set_chamfer": 0.009656022936117198,
+  "cnn_set": 0.9986791610717773
+ },
+ {
+  "id": "android/selection_synchronization_light",
+  "y": 0,
+  "dtw": 0.17562441397309528,
+  "pixel_frame0": 0.9090766310691833,
+  "set_chamfer": 0.17562441397309528,
+  "cnn_set": 0.999996542930603
+ },
+ {
+  "id": "android/picker_light",
+  "y": 0,
+  "dtw": 0.0034686287219482803,
+  "pixel_frame0": 0.17690671980381012,
+  "set_chamfer": 0.0034686287219482803,
+  "cnn_set": 0.820537805557251
+ },
+ {
+  "id": "ios/empty_view_rtl_dark",
+  "y": 1,
+  "dtw": 0.005030042448869121,
+  "pixel_frame0": 0.3227442800998688,
+  "set_chamfer": 0.005030042448869121,
+  "cnn_set": 0.9999405741691589
+ },
+ {
+  "id": "android/carousel_page_dark",
+  "y": 0,
+  "dtw": 0.00868730580717291,
+  "pixel_frame0": 0.5580673217773438,
+  "set_chamfer": 0.007357040282910288,
+  "cnn_set": 0.9999924898147583
+ },
+ {
+  "id": "ios/carousel_page_light",
+  "y": 0,
+  "dtw": 0.020621402306890073,
+  "pixel_frame0": 0.0008351400028914213,
+  "set_chamfer": 0.023210746447440603,
+  "cnn_set": 0.9975651502609253
+ },
+ {
+  "id": "android/stepper_dark",
+  "y": 0,
+  "dtw": 0.0007387425155803151,
+  "pixel_frame0": 0.5582782030105591,
+  "set_chamfer": 0.00039739013365271597,
+  "cnn_set": 0.9999059438705444
+ },
+ {
+  "id": "android/entry_light",
+  "y": 0,
+  "dtw": 0.014556952728098408,
+  "pixel_frame0": 0.16889122128486633,
+  "set_chamfer": 0.014372058011399416,
+  "cnn_set": 0.998136043548584
+ },
+ {
+  "id": "android/selection_synchronization_dark",
+  "y": 0,
+  "dtw": 0.17753221230291785,
+  "pixel_frame0": 0.5578332543373108,
+  "set_chamfer": 0.17210902601309916,
+  "cnn_set": 0.9999973773956299
+ },
+ {
+  "id": "android/activity_indicator_dark",
+  "y": 0,
+  "dtw": 0.09402625905885124,
+  "pixel_frame0": 0.5584579706192017,
+  "set_chamfer": 0.04667506729820575,
+  "cnn_set": 0.9999958872795105
+ },
+ {
+  "id": "android/activity_indicator_light",
+  "y": 0,
+  "dtw": 0.05962475266175337,
+  "pixel_frame0": 0.09768783301115036,
+  "set_chamfer": 0.0291822521864681,
+  "cnn_set": 0.9999125599861145
+ },
+ {
+  "id": "ios/radio_button_content_dark",
+  "y": 0,
+  "dtw": 8.552076195822433e-06,
+  "pixel_frame0": 0.06366414576768875,
+  "set_chamfer": 8.552076195822433e-06,
+  "cnn_set": 0.5075465440750122
+ },
+ {
+  "id": "android/controls_stack_light",
+  "y": 0,
+  "dtw": 0.052755148007180584,
+  "pixel_frame0": 0.2134820520877838,
+  "set_chamfer": 0.02402886261647882,
+  "cnn_set": 0.9935517311096191
+ },
+ {
+  "id": "ios/selection_synchronization_light",
+  "y": 0,
+  "dtw": 0.14080191934668912,
+  "pixel_frame0": 9.376044909004122e-05,
+  "set_chamfer": 0.14080191934668912,
+  "cnn_set": 0.9999940991401672
+ },
+ {
+  "id": "android/swipe_refresh_dark",
+  "y": 1,
+  "dtw": 0.11500997602853426,
+  "pixel_frame0": 0.5582088828086853,
+  "set_chamfer": 0.06313849557964979,
+  "cnn_set": 0.9999956488609314
+ },
+ {
+  "id": "maccatalyst/activity_indicator_light",
+  "y": 0,
+  "dtw": 0.0013639433357195863,
+  "pixel_frame0": 0.25962579250335693,
+  "set_chamfer": 0.00013672020962921896,
+  "cnn_set": 0.8802632093429565
+ },
+ {
+  "id": "ios/switch_light",
+  "y": 1,
+  "dtw": 9.27512638667638e-05,
+  "pixel_frame0": 0.19172239303588867,
+  "set_chamfer": 9.27512638667638e-05,
+  "cnn_set": 0.9999332427978516
+ },
+ {
+  "id": "ios/selection_synchronization_dark",
+  "y": 0,
+  "dtw": 0.13268899865723072,
+  "pixel_frame0": 0.000136877570184879,
+  "set_chamfer": 0.13268899865723072,
+  "cnn_set": 0.9999777674674988
+ },
+ {
+  "id": "android/search_bar_light",
+  "y": 0,
+  "dtw": 0.012815449866509851,
+  "pixel_frame0": 0.2949645221233368,
+  "set_chamfer": 0.012808565842812366,
+  "cnn_set": 0.9999326467514038
+ },
+ {
+  "id": "maccatalyst/picker_dark",
+  "y": 0,
+  "dtw": 0.0014470035540535275,
+  "pixel_frame0": 0.2665541172027588,
+  "set_chamfer": 0.0014470035540535275,
+  "cnn_set": 0.9659422039985657
+ },
+ {
+  "id": "android/carousel_page_light",
+  "y": 0,
+  "dtw": 0.01916832544655999,
+  "pixel_frame0": 0.6199938654899597,
+  "set_chamfer": 0.014981500490854102,
+  "cnn_set": 0.9999730587005615
+ },
+ {
+  "id": "windows/chrome_dark",
+  "y": 0,
+  "dtw": 0.0,
+  "pixel_frame0": 0.0002279934851685539,
+  "set_chamfer": 0.0,
+  "cnn_set": 0.021337511017918587
+ },
+ {
+  "id": "maccatalyst/button_light",
+  "y": 0,
+  "dtw": 7.82310962677002e-07,
+  "pixel_frame0": 0.362095445394516,
+  "set_chamfer": 7.82310962677002e-07,
+  "cnn_set": 0.9994555115699768
+ },
+ {
+  "id": "windows/controls_stack_dark",
+  "y": 0,
+  "dtw": 0.01433348444086563,
+  "pixel_frame0": 0.12575124204158783,
+  "set_chamfer": 0.01433348444086563,
+  "cnn_set": 0.9935964941978455
+ },
+ {
+  "id": "android/swipe_refresh_light",
+  "y": 1,
+  "dtw": 0.09700802147815685,
+  "pixel_frame0": 0.0,
+  "set_chamfer": 0.05115990076922712,
+  "cnn_set": 0.9998952150344849
+ },
+ {
+  "id": "ios/carousel_page_dark",
+  "y": 0,
+  "dtw": 0.022922273396223956,
+  "pixel_frame0": 0.0015739059308543801,
+  "set_chamfer": 0.02494336039819483,
+  "cnn_set": 0.99748694896698
+ },
+ {
+  "id": "windows/switch_light",
+  "y": 0,
+  "dtw": 0.0,
+  "pixel_frame0": 0.0,
+  "set_chamfer": 0.0,
+  "cnn_set": 0.017186053097248077
+ },
+ {
+  "id": "android/clip_views_light",
+  "y": 0,
+  "dtw": 0.014957995244427999,
+  "pixel_frame0": 0.4018000364303589,
+  "set_chamfer": 0.014613679448072505,
+  "cnn_set": 0.9998865723609924
+ },
+ {
+  "id": "android/editor_light",
+  "y": 0,
+  "dtw": 0.012900369591860639,
+  "pixel_frame0": 0.06772928684949875,
+  "set_chamfer": 0.012895989014740691,
+  "cnn_set": 0.9999462962150574
+ },
+ {
+  "id": "maccatalyst/controls_stack_dark",
+  "y": 0,
+  "dtw": 0.0001279862498390627,
+  "pixel_frame0": 0.3501982092857361,
+  "set_chamfer": 0.0001279862498390627,
+  "cnn_set": 0.9626296162605286
+ },
+ {
+  "id": "android/search_bar_dark",
+  "y": 0,
+  "dtw": 0.013028160306952816,
+  "pixel_frame0": 0.5592369437217712,
+  "set_chamfer": 0.012514217144439566,
+  "cnn_set": 0.9992648959159851
+ },
+ {
+  "id": "android/clip_views_dark",
+  "y": 0,
+  "dtw": 0.02066274499836358,
+  "pixel_frame0": 0.5592472553253174,
+  "set_chamfer": 0.019858722196765023,
+  "cnn_set": 0.9987695813179016
+ }
+]

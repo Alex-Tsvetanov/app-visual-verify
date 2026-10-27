@@ -1,0 +1,36 @@
+{"key": "filter_selection/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Instruction text, filter field, Reset button and item list match the desired UI."}
+{"key": "filter_selection/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Instruction text, filter field, Reset button and item list match the desired UI."}
+{"key": "flex_layout/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Header, side bars, content and footer regions match in layout and colour."}
+{"key": "flex_layout/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Header, side bars, content and footer regions match in layout and colour."}
+{"key": "focus/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Entry, focus buttons and IsFocused label match the desired UI."}
+{"key": "focus/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Entry, focus buttons and IsFocused label match the desired UI."}
+{"key": "fonts/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All font size, weight, style and spacing samples match."}
+{"key": "fonts/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All font size, weight, style and spacing samples match."}
+{"key": "footer_only_string/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Item list and footer string match in content and position."}
+{"key": "footer_only_string/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Item list and footer string match in content and position."}
+{"key": "formatted_text/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Formatted spans and plain label match in text, colour and styling."}
+{"key": "formatted_text/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Formatted spans and plain label match in text, colour and styling."}
+{"key": "gestures/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Gesture target, label and last-gesture status match."}
+{"key": "gestures/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Gesture target, label and last-gesture status match."}
+{"key": "gradient/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Linear and radial gradient bars and labels match."}
+{"key": "gradient/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Linear and radial gradient bars and labels match."}
+{"key": "grid/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Two-by-two coloured grid and label match."}
+{"key": "grid_grouping/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Group headers, two-column items and footers match."}
+{"key": "grid_grouping/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Group headers, two-column items and footers match."}
+{"key": "grid/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Two-by-two coloured grid and label match."}
+{"key": "grouping_no_templates/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Flat list of names matches in content and order."}
+{"key": "grouping_no_templates/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Flat list of names matches in content and order."}
+{"key": "grouping_plus_selection/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Group headers, members and footers match."}
+{"key": "grouping_plus_selection/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Group headers, members and footers match."}
+{"key": "header_footer/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Header string, items and footer string match."}
+{"key": "header_footer_grid/maccatalyst/dark", "verdict": "DECLINED", "reason": "The rotated footer label sits at the top of the footer image instead of below it, moved relative to other elements."}
+{"key": "header_footer_grid_horizontal/maccatalyst/dark", "verdict": "DECLINED", "reason": "Grid rows are spaced differently, so the second row moves up and an extra third row becomes visible."}
+{"key": "header_footer_grid_horizontal/maccatalyst/light", "verdict": "DECLINED", "reason": "Grid rows are spaced differently, so the second row moves up and an extra third row becomes visible."}
+{"key": "header_footer_grid/maccatalyst/light", "verdict": "DECLINED", "reason": "The rotated footer label sits at the top of the footer image instead of below it, moved relative to other elements."}
+{"key": "header_footer/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Header string, items and footer string match."}
+{"key": "header_footer_template/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Templated header, items with images and footer match."}
+{"key": "header_footer_template/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Templated header, items with images and footer match."}
+{"key": "header_footer_view/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Header view image and title match."}
+{"key": "header_footer_view/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Header view image and title match."}
+{"key": "hit_testing/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Labels, transformed texts, shapes and image match."}
+{"key": "hit_testing/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Labels, transformed texts, shapes and image match."}

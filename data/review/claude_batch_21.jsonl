@@ -1,0 +1,36 @@
+{"key": "chat_example/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same three toolbar buttons and empty chat area in dark theme."}
+{"key": "chat_example/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same three toolbar buttons and empty chat area in light theme."}
+{"key": "check_box/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Labels, checkbox colours and checked states match."}
+{"key": "check_box/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Labels, checkbox colours and checked states match."}
+{"key": "chrome/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Button and Ready label match in text and position."}
+{"key": "chrome/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Button and Ready label match in text and position."}
+{"key": "clip_corner_radius/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Clipped image, labels and four sliders match."}
+{"key": "clip_corner_radius/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Clipped image, labels and four sliders match."}
+{"key": "clip/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All clipped images and captions match in shape and order."}
+{"key": "clip_gallery/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Image gallery with all clip geometries and captions matches."}
+{"key": "clip_gallery/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Image gallery with all clip geometries and captions matches."}
+{"key": "clip/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All clipped images and captions match in shape and order."}
+{"key": "clip_views/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Clipped red controls with same text and shapes."}
+{"key": "clip_views/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Clipped red controls with same text and shapes."}
+{"key": "clipping/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Orange layout, square, numbers, Hey buttons and cups match."}
+{"key": "clipping/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Orange layout, square, numbers, Hey buttons and cups match."}
+{"key": "collectionview/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Header and three-column item grid match exactly."}
+{"key": "collectionview/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Header and three-column item grid match exactly."}
+{"key": "composition_gallery/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Both composed shape panels match."}
+{"key": "composition_gallery/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Both composed shape panels match."}
+{"key": "containers/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Border, frame and content view labels match."}
+{"key": "containers/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Border, frame and content view labels match."}
+{"key": "content_view/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Labels and Swap content button match."}
+{"key": "content_view/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Labels and Swap content button match."}
+{"key": "context_flyout/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Button, switch, entry, image, web view and labels match."}
+{"key": "context_flyout/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Button, switch, entry, image, web view and labels match."}
+{"key": "controls_stack/maccatalyst/dark", "verdict": "DECLINED", "reason": "The Editor placeholder sits noticeably lower inside the editor than in the reference."}
+{"key": "controls_stack/maccatalyst/light", "verdict": "DECLINED", "reason": "The Editor placeholder sits noticeably lower inside the editor than in the reference."}
+{"key": "custom_layout/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Top, Left, Right and Bottom buttons in the same positions."}
+{"key": "custom_layout/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Top, Left, Right and Bottom buttons in the same positions."}
+{"key": "custom_size_swipe/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Green swipe content, button and status text match."}
+{"key": "custom_size_swipe/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Green swipe content, button and status text match."}
+{"key": "custom_swipe_item_view/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Instruction text and purple row with date match."}
+{"key": "custom_swipe_item_view/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Instruction text and purple row with date match."}
+{"key": "cv_visual_states/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Both show the same headers and white list areas."}
+{"key": "cv_visual_states/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Single and multi selection lists match."}

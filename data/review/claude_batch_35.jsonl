@@ -1,0 +1,36 @@
+{"key": "items_updating_scroll_mode/windows/dark", "verdict": "ACCEPTED", "reason": "Buttons, mode label and item list match the desired UI."}
+{"key": "items_updating_scroll_mode/windows/light", "verdict": "ACCEPTED", "reason": "Buttons, mode label and item list match the desired UI."}
+{"key": "label/windows/dark", "verdict": "ACCEPTED", "reason": "All label samples, alignments, colours and formatted text match."}
+{"key": "label/windows/light", "verdict": "ACCEPTED", "reason": "All label samples, alignments, colours and formatted text match."}
+{"key": "layout_is_enabled/windows/dark", "verdict": "ACCEPTED", "reason": "Enabled/disabled states, colours and controls match in both columns."}
+{"key": "layout_is_enabled/windows/light", "verdict": "ACCEPTED", "reason": "Enabled/disabled states, colours and controls match in both columns."}
+{"key": "line_gallery/windows/dark", "verdict": "ACCEPTED", "reason": "Labels and the three lines match in position, colour and style."}
+{"key": "line_gallery/windows/light", "verdict": "ACCEPTED", "reason": "Labels and the three lines match in position, colour and style."}
+{"key": "line_join_gallery/windows/dark", "verdict": "ACCEPTED", "reason": "Miter, bevel and round joins render identically."}
+{"key": "line_join_gallery/windows/light", "verdict": "ACCEPTED", "reason": "Miter, bevel and round joins render identically."}
+{"key": "measure_first_strategy/windows/dark", "verdict": "ACCEPTED", "reason": "Header, toggle button and grouped lists match."}
+{"key": "measure_first_strategy/windows/light", "verdict": "ACCEPTED", "reason": "Header, toggle button and grouped lists match."}
+{"key": "menu_bar/windows/dark", "verdict": "ACCEPTED", "reason": "Label and toggle button match the desired UI."}
+{"key": "menu_bar/windows/light", "verdict": "ACCEPTED", "reason": "Label and toggle button match the desired UI."}
+{"key": "modal/windows/dark", "verdict": "ACCEPTED", "reason": "Buttons, disabled Pop button and depth label match."}
+{"key": "modal/windows/light", "verdict": "ACCEPTED", "reason": "Buttons, disabled Pop button and depth label match."}
+{"key": "multiple_bound_selection/windows/dark", "verdict": "ACCEPTED", "reason": "Selection label, checked items and buttons match."}
+{"key": "multiple_bound_selection/windows/light", "verdict": "ACCEPTED", "reason": "Selection label, checked items and buttons match."}
+{"key": "navigation_gallery/windows/dark", "verdict": "ACCEPTED", "reason": "Status line and all navigation buttons match."}
+{"key": "navigation_gallery/windows/light", "verdict": "ACCEPTED", "reason": "Status line and all navigation buttons match."}
+{"key": "nested_collection/windows/dark", "verdict": "ACCEPTED", "reason": "All nested source rows and their contents match."}
+{"key": "nested_collection/windows/light", "verdict": "ACCEPTED", "reason": "All nested source rows and their contents match."}
+{"key": "pan_gesture_events/windows/dark", "verdict": "DECLINED", "reason": "Status text reports TotalX 0, TotalY 0 instead of TotalX 12, TotalY -8."}
+{"key": "pan_gesture_events/windows/light", "verdict": "DECLINED", "reason": "Status text reports TotalX 0, TotalY 0 instead of TotalX 12, TotalY -8."}
+{"key": "path_aspect_gallery/windows/dark", "verdict": "ACCEPTED", "reason": "All four aspect samples and labels match."}
+{"key": "path_aspect_gallery/windows/light", "verdict": "ACCEPTED", "reason": "All four aspect samples and labels match."}
+{"key": "path_gallery/windows/dark", "verdict": "ACCEPTED", "reason": "All path samples and labels match."}
+{"key": "path_gallery/windows/light", "verdict": "ACCEPTED", "reason": "All path samples and labels match."}
+{"key": "path_transform_string/windows/dark", "verdict": "ACCEPTED", "reason": "Both shapes match apart from a negligible couple-pixel offset."}
+{"key": "path_transform_string/windows/light", "verdict": "ACCEPTED", "reason": "Both shapes match apart from a negligible couple-pixel offset."}
+{"key": "picker/windows/dark", "verdict": "ACCEPTED", "reason": "All picker sections, colours and buttons match."}
+{"key": "picker/windows/light", "verdict": "ACCEPTED", "reason": "All picker sections, colours and buttons match."}
+{"key": "pickers/windows/dark", "verdict": "DECLINED", "reason": "Summary text shows the date and time instead of (no date) at (no time)."}
+{"key": "pickers/windows/light", "verdict": "DECLINED", "reason": "Summary text shows the date and time instead of (no date) at (no time)."}
+{"key": "pointer_gesture/windows/dark", "verdict": "ACCEPTED", "reason": "All headings and hint labels match."}
+{"key": "pointer_gesture/windows/light", "verdict": "ACCEPTED", "reason": "All headings and hint labels match."}

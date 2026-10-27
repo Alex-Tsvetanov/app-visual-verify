@@ -1,0 +1,36 @@
+{"key": "footer_only_string/windows/dark", "verdict": "ACCEPTED", "reason": "List items and footer text match the desired layout."}
+{"key": "footer_only_string/windows/light", "verdict": "ACCEPTED", "reason": "List items and footer text match the desired layout."}
+{"key": "formatted_text/windows/dark", "verdict": "ACCEPTED", "reason": "Formatted spans and plain label render identically."}
+{"key": "formatted_text/windows/light", "verdict": "ACCEPTED", "reason": "Formatted spans and plain label render identically."}
+{"key": "gestures/windows/dark", "verdict": "ACCEPTED", "reason": "Label, gesture target box and status text match."}
+{"key": "gestures/windows/light", "verdict": "ACCEPTED", "reason": "Label, gesture target box and status text match."}
+{"key": "gradient/windows/dark", "verdict": "ACCEPTED", "reason": "Both gradient bars and labels match the desired UI."}
+{"key": "gradient/windows/light", "verdict": "ACCEPTED", "reason": "Both gradient bars and labels match the desired UI."}
+{"key": "grid/windows/dark", "verdict": "ACCEPTED", "reason": "Grid title and four coloured cells match."}
+{"key": "grid_grouping/windows/dark", "verdict": "DECLINED", "reason": "Thor is aligned with Captain America in the candidate instead of sitting lower as in the desired UI."}
+{"key": "grid_grouping/windows/light", "verdict": "DECLINED", "reason": "Thor is aligned with Captain America in the candidate instead of sitting lower as in the desired UI."}
+{"key": "grid/windows/light", "verdict": "ACCEPTED", "reason": "Grid title and four coloured cells match."}
+{"key": "grouping_no_templates/windows/dark", "verdict": "ACCEPTED", "reason": "All grouped rows and spacing match."}
+{"key": "grouping_no_templates/windows/light", "verdict": "ACCEPTED", "reason": "All grouped rows and spacing match."}
+{"key": "grouping_plus_selection/windows/dark", "verdict": "ACCEPTED", "reason": "Group headers, items and footers match apart from minor corner rendering."}
+{"key": "grouping_plus_selection/windows/light", "verdict": "ACCEPTED", "reason": "Group headers, items and footers match apart from minor corner rendering."}
+{"key": "header_footer/windows/dark", "verdict": "ACCEPTED", "reason": "Header string, items and footer string match."}
+{"key": "header_footer_grid/windows/dark", "verdict": "DECLINED", "reason": "Footer text is not rotated and the footer Add Content button is missing."}
+{"key": "header_footer_grid_horizontal/windows/dark", "verdict": "DECLINED", "reason": "Footer text is straight instead of rotated as in the desired UI."}
+{"key": "header_footer_grid_horizontal/windows/light", "verdict": "DECLINED", "reason": "Footer text is straight instead of rotated as in the desired UI."}
+{"key": "header_footer_grid/windows/light", "verdict": "DECLINED", "reason": "Footer text is not rotated and the footer Add Content button is missing."}
+{"key": "header_footer/windows/light", "verdict": "ACCEPTED", "reason": "Header string, items and footer string match."}
+{"key": "header_footer_template/windows/dark", "verdict": "DECLINED", "reason": "Item thumbnail images above each blue box are missing."}
+{"key": "header_footer_template/windows/light", "verdict": "DECLINED", "reason": "Item thumbnail images above each blue box are missing."}
+{"key": "header_footer_view/windows/dark", "verdict": "DECLINED", "reason": "Footer text is straight instead of rotated as in the desired UI."}
+{"key": "header_footer_view/windows/light", "verdict": "DECLINED", "reason": "Footer text is straight instead of rotated as in the desired UI."}
+{"key": "hit_testing/windows/dark", "verdict": "DECLINED", "reason": "Scale = 2 button is not enlarged and Rotation = 20 button is not rotated."}
+{"key": "hit_testing/windows/light", "verdict": "DECLINED", "reason": "Scale = 2 button is not enlarged and Rotation = 20 button is not rotated."}
+{"key": "horizontal_stack/windows/dark", "verdict": "ACCEPTED", "reason": "Six coloured squares match in order and position."}
+{"key": "horizontal_stack/windows/light", "verdict": "ACCEPTED", "reason": "Six coloured squares match in order and position."}
+{"key": "hybrid_web_view/windows/dark", "verdict": "ACCEPTED", "reason": "Buttons, editor and web content match."}
+{"key": "hybrid_web_view/windows/light", "verdict": "ACCEPTED", "reason": "Buttons, editor and web content match."}
+{"key": "image_button/windows/dark", "verdict": "ACCEPTED", "reason": "All image buttons, labels and slider match."}
+{"key": "image_button/windows/light", "verdict": "ACCEPTED", "reason": "All image buttons, labels and slider match."}
+{"key": "image/windows/dark", "verdict": "ACCEPTED", "reason": "Both images and labels match."}
+{"key": "image/windows/light", "verdict": "ACCEPTED", "reason": "Both images and labels match."}

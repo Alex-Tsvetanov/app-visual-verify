@@ -1,0 +1,36 @@
+{"key": "empty_view_template/android/dark", "verdict": "ACCEPTED", "reason": "Same grid, filter field and keyboard; only a blinking text cursor differs."}
+{"key": "empty_view_template/android/light", "verdict": "ACCEPTED", "reason": "Content, layout and colours match."}
+{"key": "empty_view_view/android/dark", "verdict": "ACCEPTED", "reason": "Content, layout and keyboard state match."}
+{"key": "empty_view_view/android/light", "verdict": "ACCEPTED", "reason": "Content, layout and colours match."}
+{"key": "entry/android/dark", "verdict": "ACCEPTED", "reason": "All entries, checkbox and slider match; password dots differ only in glyph rendering."}
+{"key": "entry/android/light", "verdict": "ACCEPTED", "reason": "All entries, checkbox and slider match; password dots differ only in glyph rendering."}
+{"key": "filter_collection/android/dark", "verdict": "DECLINED", "reason": "Use EmptyView label is shifted up relative to the switch and the switch shows a square highlight instead of a round ripple."}
+{"key": "filter_collection/android/light", "verdict": "DECLINED", "reason": "Use EmptyView label is misaligned vertically relative to the switch."}
+{"key": "filter_selection/android/dark", "verdict": "ACCEPTED", "reason": "Same text, button, list and keyboard; only a text cursor differs."}
+{"key": "filter_selection/android/light", "verdict": "ACCEPTED", "reason": "Content, disabled button state and list match."}
+{"key": "flex_layout/android/dark", "verdict": "ACCEPTED", "reason": "Header, footer and three columns match."}
+{"key": "flex_layout/android/light", "verdict": "ACCEPTED", "reason": "Header, footer and three columns match."}
+{"key": "focus/android/dark", "verdict": "ACCEPTED", "reason": "Entry, buttons and focus status match."}
+{"key": "focus/android/light", "verdict": "ACCEPTED", "reason": "Entry, disabled-looking buttons and focus status match."}
+{"key": "fonts/android/dark", "verdict": "ACCEPTED", "reason": "All font styles and spacing match."}
+{"key": "fonts/android/light", "verdict": "ACCEPTED", "reason": "All font styles and spacing match."}
+{"key": "footer_only_string/android/dark", "verdict": "ACCEPTED", "reason": "List items and footer match."}
+{"key": "footer_only_string/android/light", "verdict": "ACCEPTED", "reason": "List items and footer match."}
+{"key": "formatted_text/android/dark", "verdict": "DECLINED", "reason": "The kerned span has much tighter character spacing than desired."}
+{"key": "formatted_text/android/light", "verdict": "DECLINED", "reason": "The kerned span has much tighter character spacing than desired."}
+{"key": "gestures/android/dark", "verdict": "ACCEPTED", "reason": "Label, target box and status text match."}
+{"key": "gestures/android/light", "verdict": "ACCEPTED", "reason": "Label, target box and status text match."}
+{"key": "gradient/android/dark", "verdict": "ACCEPTED", "reason": "Both gradients and labels match."}
+{"key": "gradient/android/light", "verdict": "ACCEPTED", "reason": "Both gradients and labels match."}
+{"key": "grid/android/dark", "verdict": "ACCEPTED", "reason": "Grid cells, colours and label match."}
+{"key": "grid_grouping/android/dark", "verdict": "ACCEPTED", "reason": "Groups, headers, footers and two-column items match."}
+{"key": "grid_grouping/android/light", "verdict": "ACCEPTED", "reason": "Groups, headers, footers and two-column items match."}
+{"key": "grid/android/light", "verdict": "ACCEPTED", "reason": "Grid cells, colours and label match."}
+{"key": "grouping_no_templates/android/dark", "verdict": "ACCEPTED", "reason": "Flat list of names matches."}
+{"key": "grouping_no_templates/android/light", "verdict": "ACCEPTED", "reason": "Flat list of names matches."}
+{"key": "grouping_plus_selection/android/dark", "verdict": "ACCEPTED", "reason": "Group headers, items and footers match."}
+{"key": "grouping_plus_selection/android/light", "verdict": "ACCEPTED", "reason": "Group headers, items and footers match."}
+{"key": "header_footer/android/dark", "verdict": "ACCEPTED", "reason": "Header, items and footer strings match."}
+{"key": "header_footer_grid/android/dark", "verdict": "ACCEPTED", "reason": "Buttons, header image, grid items and rotated footer match."}
+{"key": "header_footer_grid_horizontal/android/dark", "verdict": "ACCEPTED", "reason": "Buttons, header, horizontal grid and footer match."}
+{"key": "header_footer_grid_horizontal/android/light", "verdict": "ACCEPTED", "reason": "Buttons, header, horizontal grid and footer match."}

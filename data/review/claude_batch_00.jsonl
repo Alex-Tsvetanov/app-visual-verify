@@ -1,0 +1,36 @@
+{"key": "absolute_layout/android/dark", "verdict": "DECLINED", "reason": "The AutoSized label box is smaller and positioned differently than in the desired UI."}
+{"key": "absolute_layout/android/light", "verdict": "DECLINED", "reason": "The AutoSized label box is smaller and positioned differently than in the desired UI."}
+{"key": "activity_indicator/android/dark", "verdict": "ACCEPTED", "reason": "All labels and indicators match in content, size and layout."}
+{"key": "activity_indicator/android/light", "verdict": "ACCEPTED", "reason": "All labels and indicators match in content, size and layout."}
+{"key": "adaptive_collection/android/dark", "verdict": "ACCEPTED", "reason": "Same eight items in the same layout."}
+{"key": "adaptive_collection/android/light", "verdict": "ACCEPTED", "reason": "Same eight items in the same layout."}
+{"key": "alerts/android/dark", "verdict": "DECLINED", "reason": "Button background shades differ, with the first button's highlighted state not matching the desired UI."}
+{"key": "alerts/android/light", "verdict": "ACCEPTED", "reason": "Headings and buttons match in text, colour and layout."}
+{"key": "alignment/android/dark", "verdict": "ACCEPTED", "reason": "All four aligned buttons match in position, colour and text."}
+{"key": "alignment/android/light", "verdict": "ACCEPTED", "reason": "All four aligned buttons match in position, colour and text."}
+{"key": "animation/android/dark", "verdict": "DECLINED", "reason": "Start Animation and Start Custom Animation button shades are swapped compared to the desired UI."}
+{"key": "animation/android/light", "verdict": "ACCEPTED", "reason": "Image and buttons match in content, state and layout."}
+{"key": "app_theme_binding/android/dark", "verdict": "ACCEPTED", "reason": "Text content and theme colours match."}
+{"key": "app_theme_binding/android/light", "verdict": "ACCEPTED", "reason": "Text content and theme colours match."}
+{"key": "application_control/android/dark", "verdict": "DECLINED", "reason": "Button background shades differ from the desired UI, with the first button's highlight state inverted."}
+{"key": "application_control/android/light", "verdict": "ACCEPTED", "reason": "Text, buttons and layout match."}
+{"key": "auto_size_shapes/android/dark", "verdict": "ACCEPTED", "reason": "Ellipse, backgrounds and caption match."}
+{"key": "auto_size_shapes/android/light", "verdict": "ACCEPTED", "reason": "Ellipse, backgrounds and caption match."}
+{"key": "basic_grouping/android/dark", "verdict": "ACCEPTED", "reason": "Group headers, items and footers match in text, colour and layout."}
+{"key": "basic_grouping/android/light", "verdict": "ACCEPTED", "reason": "Group headers, items and footers match in text, colour and layout."}
+{"key": "basic_swipe/android/dark", "verdict": "ACCEPTED", "reason": "All five swipe items match in text and layout."}
+{"key": "basic_swipe/android/light", "verdict": "ACCEPTED", "reason": "All five swipe items match in text and layout."}
+{"key": "behaviors/android/dark", "verdict": "ACCEPTED", "reason": "Title and entry with placeholder match."}
+{"key": "behaviors/android/light", "verdict": "ACCEPTED", "reason": "Title and entry with placeholder match."}
+{"key": "border_clip_playground/android/dark", "verdict": "DECLINED", "reason": "The Border Shape picker shows RoundRectangle in the candidate but is empty in the desired UI."}
+{"key": "border_clip_playground/android/light", "verdict": "DECLINED", "reason": "The Border Shape picker shows RoundRectangle in the candidate but is empty in the desired UI."}
+{"key": "border/android/dark", "verdict": "ACCEPTED", "reason": "Bordered box matches in shape, colour and content."}
+{"key": "border_layout/android/dark", "verdict": "ACCEPTED", "reason": "Slider, label and bordered layout match."}
+{"key": "border_layout/android/light", "verdict": "ACCEPTED", "reason": "Slider, label and bordered layout match."}
+{"key": "border/android/light", "verdict": "ACCEPTED", "reason": "Bordered box matches in shape, colour and text."}
+{"key": "border_playground/android/dark", "verdict": "ACCEPTED", "reason": "All controls and the preview match; only clipping at the bottom screen edge differs."}
+{"key": "border_playground/android/light", "verdict": "ACCEPTED", "reason": "All controls and the preview match; only clipping at the bottom screen edge differs."}
+{"key": "border_resize_content/android/dark", "verdict": "DECLINED", "reason": "The triangle shapes render with a different border thickness and content clipping than the desired UI."}
+{"key": "border_resize_content/android/light", "verdict": "DECLINED", "reason": "The triangle shapes render with a different border thickness and content clipping than the desired UI."}
+{"key": "border_stroke/android/dark", "verdict": "ACCEPTED", "reason": "Stroke thickness examples, slider and labels match."}
+{"key": "border_stroke/android/light", "verdict": "ACCEPTED", "reason": "Stroke thickness examples, slider and labels match."}

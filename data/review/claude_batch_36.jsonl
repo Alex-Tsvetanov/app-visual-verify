@@ -1,0 +1,36 @@
+{"key": "polygon_gallery/windows/dark", "verdict": "DECLINED", "reason": "The dash polygon's dashed green stroke is rendered as a thin solid outline instead of a dashed border."}
+{"key": "polygon_gallery/windows/light", "verdict": "DECLINED", "reason": "The dash polygon's stroke is a thin hatched line rather than the thick dotted dash pattern."}
+{"key": "polyline_gallery/windows/dark", "verdict": "DECLINED", "reason": "Labels lose their left margin and the dash polyline is drawn mostly solid instead of dashed."}
+{"key": "polyline_gallery/windows/light", "verdict": "DECLINED", "reason": "Labels lose their left margin and the dash polyline's dash pattern differs from the desired one."}
+{"key": "preselected_item/windows/dark", "verdict": "ACCEPTED", "reason": "Same list content and the same preselected item highlighted."}
+{"key": "preselected_item/windows/light", "verdict": "ACCEPTED", "reason": "Same list content and the same preselected item highlighted."}
+{"key": "preselected_items/windows/dark", "verdict": "ACCEPTED", "reason": "Same grid, text and three preselected items with checkmarks."}
+{"key": "preselected_items/windows/light", "verdict": "ACCEPTED", "reason": "Same grid, text and three preselected items with checkmarks."}
+{"key": "progress_bar/windows/dark", "verdict": "ACCEPTED", "reason": "All progress bars, labels, colours and the button match."}
+{"key": "progress_bar/windows/light", "verdict": "ACCEPTED", "reason": "All progress bars, labels, colours and the button match."}
+{"key": "radio_button_border/windows/dark", "verdict": "ACCEPTED", "reason": "Bordered radio buttons, colours and selected state match."}
+{"key": "radio_button_border/windows/light", "verdict": "ACCEPTED", "reason": "Bordered radio buttons, colours and selected state match."}
+{"key": "radio_button_content/windows/dark", "verdict": "ACCEPTED", "reason": "All texts, radio buttons and custom-template coffee cups match."}
+{"key": "radio_button_content/windows/light", "verdict": "ACCEPTED", "reason": "All texts, radio buttons and custom-template coffee cups match."}
+{"key": "radio_button_group_binding/windows/dark", "verdict": "ACCEPTED", "reason": "Labels, four radio options and both buttons match."}
+{"key": "radio_button_group_binding/windows/light", "verdict": "ACCEPTED", "reason": "Labels, four radio options and both buttons match."}
+{"key": "radio_button_group/windows/dark", "verdict": "ACCEPTED", "reason": "Text, options A-D and layout match."}
+{"key": "radio_button_group_gallery/windows/dark", "verdict": "ACCEPTED", "reason": "All section texts and radio buttons match."}
+{"key": "radio_button_group_gallery/windows/light", "verdict": "ACCEPTED", "reason": "All section texts and radio buttons match."}
+{"key": "radio_button_group/windows/light", "verdict": "ACCEPTED", "reason": "Text, options A-D and layout match."}
+{"key": "radio_content_properties/windows/dark", "verdict": "ACCEPTED", "reason": "All text styling and radio buttons match."}
+{"key": "radio_content_properties/windows/light", "verdict": "ACCEPTED", "reason": "All text styling and radio buttons match."}
+{"key": "radio_template_from_style/windows/dark", "verdict": "DECLINED", "reason": "Radio circles and labels sit at different positions in the tiles, and the circles are no longer clipped at the tile edge."}
+{"key": "radio_template_from_style/windows/light", "verdict": "DECLINED", "reason": "Radio circles and labels sit at different positions in the tiles, and the circles are no longer clipped at the tile edge."}
+{"key": "rectangle_gallery/windows/dark", "verdict": "DECLINED", "reason": "The stroke-dash rectangle shows a thin faint border instead of the visible red dashed stroke."}
+{"key": "rectangle_gallery/windows/light", "verdict": "DECLINED", "reason": "The stroke-dash rectangle shows a thin faint border instead of the visible red dashed stroke."}
+{"key": "refresh_view/windows/dark", "verdict": "DECLINED", "reason": "The text '50 items loaded. Pull to add more.' is missing."}
+{"key": "refresh_view/windows/light", "verdict": "DECLINED", "reason": "The text '50 items loaded. Pull to add more.' is missing."}
+{"key": "relative_layout/windows/dark", "verdict": "ACCEPTED", "reason": "Corner squares and nested rectangles match."}
+{"key": "relative_layout/windows/light", "verdict": "ACCEPTED", "reason": "Corner squares and nested rectangles match."}
+{"key": "scattered_radio_button/windows/dark", "verdict": "ACCEPTED", "reason": "Text, nested radio row and option D match."}
+{"key": "scattered_radio_button/windows/light", "verdict": "ACCEPTED", "reason": "Text, nested radio row and option D match."}
+{"key": "scroll_mode_test/windows/dark", "verdict": "DECLINED", "reason": "The picker shows 'KeepItemsInView' where the desired UI shows an empty picker."}
+{"key": "scroll_mode_test/windows/light", "verdict": "DECLINED", "reason": "The picker shows 'KeepItemsInView' where the desired UI shows an empty picker."}
+{"key": "scroll_to_group/windows/dark", "verdict": "ACCEPTED", "reason": "Inputs, buttons and grouped list match."}
+{"key": "scroll_to_group/windows/light", "verdict": "ACCEPTED", "reason": "Inputs, buttons and grouped list match."}

@@ -1,0 +1,2654 @@
+[
+ {
+  "key": "absolute_layout/maccatalyst/dark",
+  "id": "absolute_layout__maccatalyst__dark",
+  "img": "img/absolute_layout__maccatalyst__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in absolute layout positioned colored blocks and centered text."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The AutoSized box is smaller and positioned differently in the candidate."
+  }
+ },
+ {
+  "key": "absolute_layout/maccatalyst/light",
+  "id": "absolute_layout__maccatalyst__light",
+  "img": "img/absolute_layout__maccatalyst__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in absolute layout positioned colored blocks and centered text."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The AutoSized box is smaller and positioned differently in the candidate."
+  }
+ },
+ {
+  "key": "absolute_layout/windows/dark",
+  "id": "absolute_layout__windows__dark",
+  "img": "img/absolute_layout__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in absolute layout positioned color bars, centered text, and auto-sized element."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "AutoSized box is smaller and positioned differently than desired."
+  }
+ },
+ {
+  "key": "absolute_layout/windows/light",
+  "id": "absolute_layout__windows__light",
+  "img": "img/absolute_layout__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in absolute layout positioned color bars, centered text, and auto-sized element."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "AutoSized box is smaller and positioned differently than desired."
+  }
+ },
+ {
+  "key": "activity_indicator/windows/dark",
+  "id": "activity_indicator__windows__dark",
+  "img": "img/activity_indicator__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in activity indicator spinners, yellow background bar, and sizing options."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Smaller indicator is barely visible and the lower labels shift up."
+  }
+ },
+ {
+  "key": "activity_indicator/windows/light",
+  "id": "activity_indicator__windows__light",
+  "img": "img/activity_indicator__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in activity indicator spinners, yellow background bar, and sizing options."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Smaller indicator is barely visible and the lower labels shift up."
+  }
+ },
+ {
+  "key": "alerts/android/dark",
+  "id": "alerts__android__dark",
+  "img": "img/alerts__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in alert, action sheet, and prompt button layouts and typography."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Button background shades differ, with the first button's highlighted state not matching the desired UI."
+  }
+ },
+ {
+  "key": "animation/android/dark",
+  "id": "animation__android__dark",
+  "img": "img/animation__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in purple submarine placement, orientation, and action button controls."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Start Animation and Start Custom Animation button shades are swapped compared to the desired UI."
+  }
+ },
+ {
+  "key": "animation/android/light",
+  "id": "animation__android__light",
+  "img": "img/animation__android__light.jpg",
+  "gemini": {
+   "verdict": "DECLINED",
+   "reason": "The purple submarine element in the candidate UI is visibly shifted horizontally to the right compared to the desired UI."
+  },
+  "claude": {
+   "verdict": "ACCEPTED",
+   "reason": "Image and buttons match in content, state and layout."
+  }
+ },
+ {
+  "key": "application_control/android/dark",
+  "id": "application_control__android__dark",
+  "img": "img/application_control__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in application control action buttons, labels, and hosting status."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Button background shades differ from the desired UI, with the first button's highlight state inverted."
+  }
+ },
+ {
+  "key": "border_alignment/ios/dark",
+  "id": "border_alignment__ios__dark",
+  "img": "img/border_alignment__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in border alignment boxes, red outlines, and fill dimensions."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Candidate borders have rounded corners while desired borders are square."
+  }
+ },
+ {
+  "key": "border_alignment/ios/light",
+  "id": "border_alignment__ios__light",
+  "img": "img/border_alignment__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in border alignment boxes, red outlines, and fill dimensions."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Candidate borders have rounded corners while desired borders are square."
+  }
+ },
+ {
+  "key": "border_alignment/windows/dark",
+  "id": "border_alignment__windows__dark",
+  "img": "img/border_alignment__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in border alignment layouts, red borders, and blue fill boxes."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Candidate borders have rounded corners where the desired borders are square."
+  }
+ },
+ {
+  "key": "border_alignment/windows/light",
+  "id": "border_alignment__windows__light",
+  "img": "img/border_alignment__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in border alignment layouts, red borders, and blue fill boxes."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Candidate borders have rounded corners and lack the inner outline of the square desired borders."
+  }
+ },
+ {
+  "key": "border_clip_playground/maccatalyst/dark",
+  "id": "border_clip_playground__maccatalyst__dark",
+  "img": "img/border_clip_playground__maccatalyst__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in border clipping shape on image and corner radius sliders."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Border Shape field shows RoundRectangle in candidate but is empty in desired."
+  }
+ },
+ {
+  "key": "border_clip_playground/maccatalyst/light",
+  "id": "border_clip_playground__maccatalyst__light",
+  "img": "img/border_clip_playground__maccatalyst__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in border clipping shape on image and corner radius sliders."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Border Shape field shows RoundRectangle in candidate but is empty in desired."
+  }
+ },
+ {
+  "key": "border_clip_playground/windows/dark",
+  "id": "border_clip_playground__windows__dark",
+  "img": "img/border_clip_playground__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in border clipping shape preview, dog image crop, and corner radius sliders."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Border Shape picker shows RoundRectangle in candidate but is empty in desired, and the clip top-right corner differs."
+  }
+ },
+ {
+  "key": "border_clip_playground/windows/light",
+  "id": "border_clip_playground__windows__light",
+  "img": "img/border_clip_playground__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in border clipping shape preview, dog image crop, and corner radius sliders."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Border Shape picker shows RoundRectangle in candidate but is empty in desired, and the clip top-right corner differs."
+  }
+ },
+ {
+  "key": "border_styles/ios/dark",
+  "id": "border_styles__ios__dark",
+  "img": "img/border_styles__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in border styles, rounded rectangle shapes, yellow box, and corner radius links."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Parent-bound StrokeShape box has a much larger corner radius in the candidate."
+  }
+ },
+ {
+  "key": "border_styles/ios/light",
+  "id": "border_styles__ios__light",
+  "img": "img/border_styles__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in border styles, rounded rectangle shapes, yellow box, and corner radius links."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Parent-bound StrokeShape box has a much larger corner radius in the candidate."
+  }
+ },
+ {
+  "key": "border_styles/maccatalyst/dark",
+  "id": "border_styles__maccatalyst__dark",
+  "img": "img/border_styles__maccatalyst__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in border style shapes, stroke colors, and corner radius buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "StrokeShape bound to parent box has a much larger corner radius than desired."
+  }
+ },
+ {
+  "key": "border_styles/maccatalyst/light",
+  "id": "border_styles__maccatalyst__light",
+  "img": "img/border_styles__maccatalyst__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in border style shapes, stroke colors, and corner radius buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "StrokeShape bound to parent box has a much larger corner radius than desired."
+  }
+ },
+ {
+  "key": "border_styles/windows/dark",
+  "id": "border_styles__windows__dark",
+  "img": "img/border_styles__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in round rectangle stroke shape containers, yellow card with red border, and corner radius buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The StrokeShape binded to Parent border is pill-shaped in candidate instead of 10-radius corners."
+  }
+ },
+ {
+  "key": "border_styles/windows/light",
+  "id": "border_styles__windows__light",
+  "img": "img/border_styles__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in round rectangle stroke shape containers, yellow card with red border, and corner radius buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The StrokeShape binded to Parent border is pill-shaped in candidate instead of 10-radius corners."
+  }
+ },
+ {
+  "key": "button/android/dark",
+  "id": "button__android__dark",
+  "img": "img/button__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in controls, text, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "BorderColor button lost its red border and Clicked/Command buttons have a darker fill."
+  }
+ },
+ {
+  "key": "button/android/light",
+  "id": "button__android__light",
+  "img": "img/button__android__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in controls, text, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "BorderColor button is missing its red border."
+  }
+ },
+ {
+  "key": "carousel_page/android/dark",
+  "id": "carousel_page__android__dark",
+  "img": "img/carousel_page__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in content and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Card border and Card 1 label are positioned differently; card extends to the bottom."
+  }
+ },
+ {
+  "key": "carousel_page/android/light",
+  "id": "carousel_page__android__light",
+  "img": "img/carousel_page__android__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in content and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Card border and Card 1 label are positioned differently; card extends to the bottom."
+  }
+ },
+ {
+  "key": "clip_views/android/dark",
+  "id": "clip_views__android__dark",
+  "img": "img/clip_views__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in shapes, text, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Editor text colour changed to a dim placeholder-like shade."
+  }
+ },
+ {
+  "key": "clip_views/android/light",
+  "id": "clip_views__android__light",
+  "img": "img/clip_views__android__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in shapes, text, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Page background is white instead of grey and red fills and text colours differ."
+  }
+ },
+ {
+  "key": "clipping/ios/light",
+  "id": "clipping__ios__light",
+  "img": "img/clipping__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in clipping layout, orange canvas, coffee cup icons, and purple text box."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar icons and text are black instead of white on the orange background."
+  }
+ },
+ {
+  "key": "collectionview/windows/dark",
+  "id": "collectionview__windows__dark",
+  "img": "img/collectionview__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in header text and 3-column collection view item list with indexed image names."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The first item cover1.jpg, 0 sits lower than its row in the desired UI but is aligned with it in the candidate."
+  }
+ },
+ {
+  "key": "collectionview/windows/light",
+  "id": "collectionview__windows__light",
+  "img": "img/collectionview__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in header text and 3-column collection view item list with indexed image names."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The first item cover1.jpg, 0 sits lower than its row in the desired UI but is aligned with it in the candidate."
+  }
+ },
+ {
+  "key": "containers/ios/dark",
+  "id": "containers__ios__dark",
+  "img": "img/containers__ios__dark.jpg",
+  "gemini": {
+   "verdict": "DECLINED",
+   "reason": "The candidate UI shows an unexpected vertical scroll offset of -62 instead of 0 / 0."
+  },
+  "claude": {
+   "verdict": "ACCEPTED",
+   "reason": "Containers match; only the dynamic scroll offset readout differs."
+  }
+ },
+ {
+  "key": "containers/ios/light",
+  "id": "containers__ios__light",
+  "img": "img/containers__ios__light.jpg",
+  "gemini": {
+   "verdict": "DECLINED",
+   "reason": "The candidate UI shows an unexpected vertical scroll offset of -62 instead of 0 / 0."
+  },
+  "claude": {
+   "verdict": "ACCEPTED",
+   "reason": "Containers match; only the dynamic scroll offset readout differs."
+  }
+ },
+ {
+  "key": "controls_stack/android/dark",
+  "id": "controls_stack__android__dark",
+  "img": "img/controls_stack__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in controls, states, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Editor text is rendered in a dim placeholder colour instead of normal text colour."
+  }
+ },
+ {
+  "key": "controls_stack/ios/dark",
+  "id": "controls_stack__ios__dark",
+  "img": "img/controls_stack__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in control stack entries, search bar, switch, sliders, and stepper."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Editor placeholder is moved down within the editor and searchbar placeholder colour differs."
+  }
+ },
+ {
+  "key": "controls_stack/ios/light",
+  "id": "controls_stack__ios__light",
+  "img": "img/controls_stack__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in control stack entries, search bar, switch, sliders, and stepper."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Editor placeholder is moved down within the editor and searchbar placeholder colour differs."
+  }
+ },
+ {
+  "key": "controls_stack/maccatalyst/dark",
+  "id": "controls_stack__maccatalyst__dark",
+  "img": "img/controls_stack__maccatalyst__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in control elements stack including switch, slider, and stepper."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The Editor placeholder sits noticeably lower inside the editor than in the reference."
+  }
+ },
+ {
+  "key": "controls_stack/maccatalyst/light",
+  "id": "controls_stack__maccatalyst__light",
+  "img": "img/controls_stack__maccatalyst__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in control elements stack including switch, slider, and stepper."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The Editor placeholder sits noticeably lower inside the editor than in the reference."
+  }
+ },
+ {
+  "key": "custom_layout/android/dark",
+  "id": "custom_layout__android__dark",
+  "img": "img/custom_layout__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in layout, text, and structure."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Side panels and top/bottom bars render in a visibly different grey shade than the desired UI."
+  }
+ },
+ {
+  "key": "data_template_selector/ios/dark",
+  "id": "data_template_selector__ios__dark",
+  "img": "img/data_template_selector__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in search bar filter and list of days of the week."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Searchbar placeholder text colour is noticeably brighter than desired."
+  }
+ },
+ {
+  "key": "data_template_selector/ios/light",
+  "id": "data_template_selector__ios__light",
+  "img": "img/data_template_selector__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in search bar filter and list of days of the week."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Searchbar placeholder text colour is noticeably darker than desired."
+  }
+ },
+ {
+  "key": "date_picker/android/dark",
+  "id": "date_picker__android__dark",
+  "img": "img/date_picker__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in controls, layout, and styling."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Disabled picker appears enabled and the buttons use a darker grey than desired."
+  }
+ },
+ {
+  "key": "date_picker/ios/dark",
+  "id": "date_picker__ios__dark",
+  "img": "img/date_picker__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI properly supports nullable DatePicker displaying an empty field when set to null."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The 'Set to null' picker is empty instead of showing the date, and gradient-background date text lost its left padding."
+  }
+ },
+ {
+  "key": "date_picker/ios/light",
+  "id": "date_picker__ios__light",
+  "img": "img/date_picker__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI properly supports nullable DatePicker displaying an empty field when set to null."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The 'Set to null' picker is empty instead of showing the date, and gradient-background date text lost its left padding."
+  }
+ },
+ {
+  "key": "date_picker/windows/dark",
+  "id": "date_picker__windows__dark",
+  "img": "img/date_picker__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in extensive date picker variations including colored backgrounds, format strings, and interactive states."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The Set to null picker shows 'select a date' instead of 8/24/2026."
+  }
+ },
+ {
+  "key": "date_picker/windows/light",
+  "id": "date_picker__windows__light",
+  "img": "img/date_picker__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in extensive date picker variations including colored backgrounds, format strings, and interactive states."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The Set to null picker shows 'select a date' instead of 8/24/2026."
+  }
+ },
+ {
+  "key": "device/ios/dark",
+  "id": "device__ios__dark",
+  "img": "img/device__ios__dark.jpg",
+  "gemini": {
+   "verdict": "DECLINED",
+   "reason": "The candidate UI displays version 26.5 instead of the expected iOS version 17.0."
+  },
+  "claude": {
+   "verdict": "ACCEPTED",
+   "reason": "Same content and layout; only the OS version value differs, which is environment-dependent."
+  }
+ },
+ {
+  "key": "device/ios/light",
+  "id": "device__ios__light",
+  "img": "img/device__ios__light.jpg",
+  "gemini": {
+   "verdict": "DECLINED",
+   "reason": "The candidate UI displays version 26.5 instead of the expected iOS version 17.0."
+  },
+  "claude": {
+   "verdict": "ACCEPTED",
+   "reason": "Same content and layout; only the OS version value differs, which is environment-dependent."
+  }
+ },
+ {
+  "key": "dispatcher/android/dark",
+  "id": "dispatcher__android__dark",
+  "img": "img/dispatcher__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in controls, text, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Buttons render in a noticeably darker grey than the desired UI."
+  }
+ },
+ {
+  "key": "editor/android/dark",
+  "id": "editor__android__dark",
+  "img": "img/editor__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in content, inputs, and typography."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "First editor lacks the focused state and placeholder text is dimmer than desired."
+  }
+ },
+ {
+  "key": "effects/android/dark",
+  "id": "effects__android__dark",
+  "img": "img/effects__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in controls, text, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Buttons render in a darker grey and focus moved to the first entry."
+  }
+ },
+ {
+  "key": "ellipse_gallery/windows/dark",
+  "id": "ellipse_gallery__windows__dark",
+  "img": "img/ellipse_gallery__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in ellipse and circle shapes with various fill colors, solid strokes, and dashed strokes."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The last ellipse lacks the visible red dashed stroke shown in the desired UI."
+  }
+ },
+ {
+  "key": "ellipse_gallery/windows/light",
+  "id": "ellipse_gallery__windows__light",
+  "img": "img/ellipse_gallery__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in ellipse and circle shapes with various fill colors, solid strokes, and dashed strokes."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The last ellipse lacks the visible red dashed stroke shown in the desired UI."
+  }
+ },
+ {
+  "key": "empty_view_rtl/ios/dark",
+  "id": "empty_view_rtl__ios__dark",
+  "img": "img/empty_view_rtl__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI displays the active 'Left to Right' flow direction and matches the list content and search bar."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The picker shows 'Left to Right' selected instead of the 'FlowDirection' placeholder."
+  }
+ },
+ {
+  "key": "empty_view_rtl/ios/light",
+  "id": "empty_view_rtl__ios__light",
+  "img": "img/empty_view_rtl__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI displays the active 'Left to Right' flow direction and matches the list content and search bar."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The picker shows 'Left to Right' selected instead of the 'FlowDirection' placeholder."
+  }
+ },
+ {
+  "key": "empty_view_rtl/maccatalyst/dark",
+  "id": "empty_view_rtl__maccatalyst__dark",
+  "img": "img/empty_view_rtl__maccatalyst__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI displays the active \"Left to Right\" flow direction and matches the list content and search bar."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "FlowDirection picker shows 'Left to Right' instead of the 'FlowDirection' placeholder."
+  }
+ },
+ {
+  "key": "empty_view_rtl/maccatalyst/light",
+  "id": "empty_view_rtl__maccatalyst__light",
+  "img": "img/empty_view_rtl__maccatalyst__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI displays the active \"Left to Right\" flow direction and matches the list content and search bar."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "FlowDirection picker shows 'Left to Right' instead of the 'FlowDirection' placeholder."
+  }
+ },
+ {
+  "key": "empty_view_rtl/windows/dark",
+  "id": "empty_view_rtl__windows__dark",
+  "img": "img/empty_view_rtl__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI displays the active Left to Right flow direction and matches the list content and search bar."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "FlowDirection picker shows 'Left to Right' while the desired picker is empty."
+  }
+ },
+ {
+  "key": "empty_view_rtl/windows/light",
+  "id": "empty_view_rtl__windows__light",
+  "img": "img/empty_view_rtl__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI displays the active Left to Right flow direction and matches the list content and search bar."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "FlowDirection picker shows 'Left to Right' while the desired picker is empty."
+  }
+ },
+ {
+  "key": "empty_view_swap/android/dark",
+  "id": "empty_view_swap__android__dark",
+  "img": "img/empty_view_swap__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in controls, content, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Clear and Fill buttons render in a darker grey than the desired UI."
+  }
+ },
+ {
+  "key": "filter_collection/android/light",
+  "id": "filter_collection__android__light",
+  "img": "img/filter_collection__android__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in controls, list content, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Use EmptyView label is misaligned vertically relative to the switch."
+  }
+ },
+ {
+  "key": "filter_collection/ios/dark",
+  "id": "filter_collection__ios__dark",
+  "img": "img/filter_collection__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in EmptyView switch state, filter bar, and collection items."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The 'Use EmptyView' label sits higher and is no longer vertically aligned with its switch."
+  }
+ },
+ {
+  "key": "filter_collection/ios/light",
+  "id": "filter_collection__ios__light",
+  "img": "img/filter_collection__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in EmptyView switch state, filter bar, and collection items."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The 'Use EmptyView' label sits higher and is no longer vertically aligned with its switch."
+  }
+ },
+ {
+  "key": "filter_collection/windows/dark",
+  "id": "filter_collection__windows__dark",
+  "img": "img/filter_collection__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in empty view toggle switch, filter search bar, and collection items."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The 'Use EmptyView' label is shifted up and no longer aligned with its switch."
+  }
+ },
+ {
+  "key": "filter_collection/windows/light",
+  "id": "filter_collection__windows__light",
+  "img": "img/filter_collection__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in empty view toggle switch, filter search bar, and collection items."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The 'Use EmptyView' label is shifted up and no longer aligned with its switch."
+  }
+ },
+ {
+  "key": "formatted_text/android/dark",
+  "id": "formatted_text__android__dark",
+  "img": "img/formatted_text__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in formatted text, styling, and spans."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The kerned span has much tighter character spacing than desired."
+  }
+ },
+ {
+  "key": "formatted_text/android/light",
+  "id": "formatted_text__android__light",
+  "img": "img/formatted_text__android__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in formatted text, styling, and spans."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The kerned span has much tighter character spacing than desired."
+  }
+ },
+ {
+  "key": "grid_grouping/windows/dark",
+  "id": "grid_grouping__windows__dark",
+  "img": "img/grid_grouping__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in grouped two-column collection layout, group headers, and member total footers."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Thor is aligned with Captain America in the candidate instead of sitting lower as in the desired UI."
+  }
+ },
+ {
+  "key": "grid_grouping/windows/light",
+  "id": "grid_grouping__windows__light",
+  "img": "img/grid_grouping__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in grouped two-column collection layout, group headers, and member total footers."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Thor is aligned with Captain America in the candidate instead of sitting lower as in the desired UI."
+  }
+ },
+ {
+  "key": "header_footer_grid/android/light",
+  "id": "header_footer_grid__android__light",
+  "img": "img/header_footer_grid__android__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in header, footer, controls, and content."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The Toggle Header button appears in a dimmed, disabled-looking state unlike the desired UI."
+  }
+ },
+ {
+  "key": "header_footer_grid/ios/dark",
+  "id": "header_footer_grid__ios__dark",
+  "img": "img/header_footer_grid__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in header and footer dog banners, action buttons, and grid items."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Rotated footer label sits higher, overlapping the footer image more than in the desired UI."
+  }
+ },
+ {
+  "key": "header_footer_grid/ios/light",
+  "id": "header_footer_grid__ios__light",
+  "img": "img/header_footer_grid__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in header and footer dog banners, action buttons, and grid items."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Rotated footer label sits higher, overlapping the footer image more than in the desired UI."
+  }
+ },
+ {
+  "key": "header_footer_grid/maccatalyst/dark",
+  "id": "header_footer_grid__maccatalyst__dark",
+  "img": "img/header_footer_grid__maccatalyst__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in grid header banner, item columns, and angled footer text."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The rotated footer label sits at the top of the footer image instead of below it, moved relative to other elements."
+  }
+ },
+ {
+  "key": "header_footer_grid/maccatalyst/light",
+  "id": "header_footer_grid__maccatalyst__light",
+  "img": "img/header_footer_grid__maccatalyst__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in grid header banner, item columns, and angled footer text."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The rotated footer label sits at the top of the footer image instead of below it, moved relative to other elements."
+  }
+ },
+ {
+  "key": "header_footer_grid_horizontal/ios/dark",
+  "id": "header_footer_grid_horizontal__ios__dark",
+  "img": "img/header_footer_grid_horizontal__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in header banner, toggle buttons, and horizontal grid item arrangement."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Horizontal grid rows are spaced differently, showing an extra row of items."
+  }
+ },
+ {
+  "key": "header_footer_grid_horizontal/ios/light",
+  "id": "header_footer_grid_horizontal__ios__light",
+  "img": "img/header_footer_grid_horizontal__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in header banner, toggle buttons, and horizontal grid item arrangement."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Horizontal grid rows are spaced differently, showing an extra row of items."
+  }
+ },
+ {
+  "key": "header_footer_grid_horizontal/maccatalyst/dark",
+  "id": "header_footer_grid_horizontal__maccatalyst__dark",
+  "img": "img/header_footer_grid_horizontal__maccatalyst__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in horizontal grid layout, header banner, and items."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Grid rows are spaced differently, so the second row moves up and an extra third row becomes visible."
+  }
+ },
+ {
+  "key": "header_footer_grid_horizontal/maccatalyst/light",
+  "id": "header_footer_grid_horizontal__maccatalyst__light",
+  "img": "img/header_footer_grid_horizontal__maccatalyst__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in horizontal grid layout, header banner, and items."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Grid rows are spaced differently, so the second row moves up and an extra third row becomes visible."
+  }
+ },
+ {
+  "key": "header_footer_view/android/dark",
+  "id": "header_footer_view__android__dark",
+  "img": "img/header_footer_view__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in header, footer, buttons, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The Clear All Items button has a darker background, a different visual state than desired."
+  }
+ },
+ {
+  "key": "hit_testing/android/dark",
+  "id": "hit_testing__android__dark",
+  "img": "img/hit_testing__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in geometric elements, text, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The Scale and Rotation buttons render with a noticeably darker grey background."
+  }
+ },
+ {
+  "key": "hybrid_web_view/ios/dark",
+  "id": "hybrid_web_view__ios__dark",
+  "img": "img/hybrid_web_view__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in HybridWebView container, test buttons, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Button labels are middle-truncated with ellipses instead of clipped, changing the visible text."
+  }
+ },
+ {
+  "key": "hybrid_web_view/ios/light",
+  "id": "hybrid_web_view__ios__light",
+  "img": "img/hybrid_web_view__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in HybridWebView container, test buttons, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Button labels are middle-truncated with ellipses instead of clipped, changing the visible text."
+  }
+ },
+ {
+  "key": "image_button/android/light",
+  "id": "image_button__android__light",
+  "img": "img/image_button__android__light.jpg",
+  "gemini": {
+   "verdict": "DECLINED",
+   "reason": "The candidate UI fails to clip the image to the button bounds, causing the gear icon to overflow the green container."
+  },
+  "claude": {
+   "verdict": "ACCEPTED",
+   "reason": "All image buttons match apart from negligible corner rounding."
+  }
+ },
+ {
+  "key": "indicator/ios/dark",
+  "id": "indicator__ios__dark",
+  "img": "img/indicator__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches indicator styles and renders the bound CarouselView item content."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Candidate adds an extra 'Item 1' label and renders indicator dots smaller and tighter."
+  }
+ },
+ {
+  "key": "indicator/ios/light",
+  "id": "indicator__ios__light",
+  "img": "img/indicator__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches indicator styles and renders the bound CarouselView item content."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Candidate adds an extra 'Item 1' label and renders indicator dots smaller and tighter."
+  }
+ },
+ {
+  "key": "indicator/maccatalyst/dark",
+  "id": "indicator__maccatalyst__dark",
+  "img": "img/indicator__maccatalyst__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI across all indicator variations including basic, colored, shape, sizing, and carousel view indicators."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Candidate shows an extra 'Item 1' label and different indicator spacing."
+  }
+ },
+ {
+  "key": "indicator/maccatalyst/light",
+  "id": "indicator__maccatalyst__light",
+  "img": "img/indicator__maccatalyst__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI across all indicator variations including basic, colored, shape, sizing, and carousel view indicators."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Candidate shows an extra 'Item 1' label and different indicator spacing."
+  }
+ },
+ {
+  "key": "input_controls/android/dark",
+  "id": "input_controls__android__dark",
+  "img": "img/input_controls__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in input controls, radio buttons, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The entry shows a focused cursor state and the small markers below the radios are missing."
+  }
+ },
+ {
+  "key": "input_controls/android/light",
+  "id": "input_controls__android__light",
+  "img": "img/input_controls__android__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in input controls, radio buttons, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The small arrow markers below the radio buttons are missing."
+  }
+ },
+ {
+  "key": "input_transparent/android/dark",
+  "id": "input_transparent__android__dark",
+  "img": "img/input_transparent__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in buttons, toggle switch, and instructions."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The button backgrounds are darker and the Clickable button shows a different state."
+  }
+ },
+ {
+  "key": "ios_blur_effect/android/dark",
+  "id": "ios_blur_effect__android__dark",
+  "img": "img/ios_blur_effect__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in image, blur buttons, and status label."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The button background shades differ, with No Blur lighter and the others darker than desired."
+  }
+ },
+ {
+  "key": "ios_date_picker/android/dark",
+  "id": "ios_date_picker__android__dark",
+  "img": "img/ios_date_picker__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in date display, button, and dark theme."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The date underline is dimmer and the button background is darker than desired."
+  }
+ },
+ {
+  "key": "ios_entry/android/dark",
+  "id": "ios_entry__android__dark",
+  "img": "img/ios_entry__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in entry text, button, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The entry shows a focus cursor and the button background is darker."
+  }
+ },
+ {
+  "key": "ios_entry/ios/dark",
+  "id": "ios_entry__ios__dark",
+  "img": "img/ios_entry__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI properly displays the full placeholder text and matches the toggle button layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Placeholder text is not truncated with an ellipsis as in the desired UI, so visible text differs."
+  }
+ },
+ {
+  "key": "ios_entry/ios/light",
+  "id": "ios_entry__ios__light",
+  "img": "img/ios_entry__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI properly displays the full placeholder text and matches the toggle button layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Placeholder text is not truncated with an ellipsis as in the desired UI, so visible text differs."
+  }
+ },
+ {
+  "key": "ios_first_responder/android/dark",
+  "id": "ios_first_responder__android__dark",
+  "img": "img/ios_first_responder__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in instructions, entries, buttons, and state labels."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The first entry shows a focus cursor and the buttons have darker backgrounds."
+  }
+ },
+ {
+  "key": "ios_picker/android/dark",
+  "id": "ios_picker__android__dark",
+  "img": "img/ios_picker__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in picker label, toggle button, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar time and icons are dark instead of light on the dark theme."
+  }
+ },
+ {
+  "key": "ios_safe_area/android/dark",
+  "id": "ios_safe_area__android__dark",
+  "img": "img/ios_safe_area__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in text content, button, and safe area layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar time and icons are dark instead of light on the dark theme."
+  }
+ },
+ {
+  "key": "ios_scroll_view/android/dark",
+  "id": "ios_scroll_view__android__dark",
+  "img": "img/ios_scroll_view__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in slider, buttons, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar content is dark instead of light and buttons are a darker grey."
+  }
+ },
+ {
+  "key": "ios_search_bar/android/dark",
+  "id": "ios_search_bar__android__dark",
+  "img": "img/ios_search_bar__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in search input, toggle buttons, and keyboard presentation."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar content is dark instead of light and buttons are a darker grey."
+  }
+ },
+ {
+  "key": "ios_search_bar/ios/dark",
+  "id": "ios_search_bar__ios__dark",
+  "img": "img/ios_search_bar__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in search bar layout and toggle buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Search bar placeholder text is noticeably brighter than in the desired UI."
+  }
+ },
+ {
+  "key": "ios_search_bar/ios/light",
+  "id": "ios_search_bar__ios__light",
+  "img": "img/ios_search_bar__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in search bar layout and toggle buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Search bar placeholder text is noticeably darker than in the desired UI."
+  }
+ },
+ {
+  "key": "ios_slider_update_on_tap/android/dark",
+  "id": "ios_slider_update_on_tap__android__dark",
+  "img": "img/ios_slider_update_on_tap__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in slider position, instruction, and toggle button."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar time and icons are dark instead of light on the dark theme."
+  }
+ },
+ {
+  "key": "ios_swipe_transition/android/dark",
+  "id": "ios_swipe_transition__android__dark",
+  "img": "img/ios_swipe_transition__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in swipe controls, text, buttons, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar time and icons are dark instead of light on the dark theme."
+  }
+ },
+ {
+  "key": "ios_time_picker/android/dark",
+  "id": "ios_time_picker__android__dark",
+  "img": "img/ios_time_picker__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in time display, toggle button, and status text."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar content is dark instead of light and the button is a darker grey."
+  }
+ },
+ {
+  "key": "items/android/dark",
+  "id": "items__android__dark",
+  "img": "img/items__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in list items and typography."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar time and icons are dark instead of light on the dark theme."
+  }
+ },
+ {
+  "key": "items_updating_scroll_mode/android/dark",
+  "id": "items_updating_scroll_mode__android__dark",
+  "img": "img/items_updating_scroll_mode__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in controls, item count, and list content."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar time and icons are dark instead of light on the dark theme."
+  }
+ },
+ {
+  "key": "label/android/dark",
+  "id": "label__android__dark",
+  "img": "img/label__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in formatted text, alignments, and colors."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "A truncated Lorem line shows an extra clipped character and the status bar is dark instead of light."
+  }
+ },
+ {
+  "key": "label/android/light",
+  "id": "label__android__light",
+  "img": "img/label__android__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in formatted text, alignments, and colors."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The third single-line Lorem label is clipped differently and shows an extra partial character."
+  }
+ },
+ {
+  "key": "label/ios/dark",
+  "id": "label__ios__dark",
+  "img": "img/label__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in text colors, alignments, formatted spans, and multiline labels."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Formatted string wraps differently, moving 'old' to the second line."
+  }
+ },
+ {
+  "key": "label/ios/light",
+  "id": "label__ios__light",
+  "img": "img/label__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in text colors, alignments, formatted spans, and multiline labels."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Formatted string wraps differently, moving 'old' to the second line."
+  }
+ },
+ {
+  "key": "layout_is_enabled/android/dark",
+  "id": "layout_is_enabled__android__dark",
+  "img": "img/layout_is_enabled__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in enabled/disabled states, layout styling, and text."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Enabled buttons are a noticeably darker grey and the status bar is dark instead of light."
+  }
+ },
+ {
+  "key": "line_gallery/android/dark",
+  "id": "line_gallery__android__dark",
+  "img": "img/line_gallery__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in lines, dashing, stroke thickness, and labels."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar time and icons are dark instead of light on the dark theme."
+  }
+ },
+ {
+  "key": "line_join_gallery/android/dark",
+  "id": "line_join_gallery__android__dark",
+  "img": "img/line_join_gallery__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in line join styles (miter, bevel, round)."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar time and icons are dark instead of light on the dark theme."
+  }
+ },
+ {
+  "key": "measure_first_strategy/android/dark",
+  "id": "measure_first_strategy__android__dark",
+  "img": "img/measure_first_strategy__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in grouped list data, headers, and colors."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar time and icons are dark instead of light on the dark theme."
+  }
+ },
+ {
+  "key": "menu_bar/android/dark",
+  "id": "menu_bar__android__dark",
+  "img": "img/menu_bar__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in menu bar item toggle and label."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar content is dark instead of light and the button is a darker grey."
+  }
+ },
+ {
+  "key": "modal/android/dark",
+  "id": "modal__android__dark",
+  "img": "img/modal__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in modal buttons and depth status text."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar content is dark instead of light and button shades differ."
+  }
+ },
+ {
+  "key": "multiple_bound_selection/android/dark",
+  "id": "multiple_bound_selection__android__dark",
+  "img": "img/multiple_bound_selection__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in selected items, header, buttons, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar time and icons are dark instead of light on the dark theme."
+  }
+ },
+ {
+  "key": "navigation_gallery/android/dark",
+  "id": "navigation_gallery__android__dark",
+  "img": "img/navigation_gallery__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in navigation buttons and stack depth status."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status bar content is dark instead of light and button shades differ."
+  }
+ },
+ {
+  "key": "pan_gesture_events/maccatalyst/dark",
+  "id": "pan_gesture_events__maccatalyst__dark",
+  "img": "img/pan_gesture_events__maccatalyst__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in green and red split touch zones and completed gesture status."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status text shows TotalX 0, TotalY 0 instead of 12 and -8."
+  }
+ },
+ {
+  "key": "pan_gesture_events/maccatalyst/light",
+  "id": "pan_gesture_events__maccatalyst__light",
+  "img": "img/pan_gesture_events__maccatalyst__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in green and red split touch zones and completed gesture status."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Status text shows TotalX 0, TotalY 0 instead of 12 and -8."
+  }
+ },
+ {
+  "key": "picker/android/dark",
+  "id": "picker__android__dark",
+  "img": "img/picker__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in picker styles, colored selections, and action buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Underlines are missing on the yellow and green pickers and the italic placeholder colour differs."
+  }
+ },
+ {
+  "key": "picker/android/light",
+  "id": "picker__android__light",
+  "img": "img/picker__android__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in picker styles, colored selections, and action buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Underlines are missing on the yellow and green background pickers."
+  }
+ },
+ {
+  "key": "pickers/maccatalyst/dark",
+  "id": "pickers__maccatalyst__dark",
+  "img": "img/pickers__maccatalyst__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in room picker, date picker, time picker controls, and dynamically updated selection summary."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Summary text shows '8/23/2026 at 09:00' instead of '(no date) at (no time)'."
+  }
+ },
+ {
+  "key": "pickers/maccatalyst/light",
+  "id": "pickers__maccatalyst__light",
+  "img": "img/pickers__maccatalyst__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in room picker, date picker, time picker controls, and dynamically updated selection summary."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Summary text shows '8/23/2026 at 09:00' instead of '(no date) at (no time)'."
+  }
+ },
+ {
+  "key": "pointer_gesture/maccatalyst/dark",
+  "id": "pointer_gesture__maccatalyst__dark",
+  "img": "img/pointer_gesture__maccatalyst__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in pointer gesture hover, press, and release interactive labels."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "First label is in hovered state with green background and changed text."
+  }
+ },
+ {
+  "key": "polygon_gallery/windows/dark",
+  "id": "polygon_gallery__windows__dark",
+  "img": "img/polygon_gallery__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in polygon shapes, fill rules (EvenOdd, NonZero), and stroke dash patterns."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The dash polygon's dashed green stroke is rendered as a thin solid outline instead of a dashed border."
+  }
+ },
+ {
+  "key": "polygon_gallery/windows/light",
+  "id": "polygon_gallery__windows__light",
+  "img": "img/polygon_gallery__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in polygon shapes, fill rules (EvenOdd, NonZero), and stroke dash patterns."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The dash polygon's stroke is a thin hatched line rather than the thick dotted dash pattern."
+  }
+ },
+ {
+  "key": "polyline_gallery/android/dark",
+  "id": "polyline_gallery__android__dark",
+  "img": "img/polyline_gallery__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in polylines, dash styling, and colors."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Page padding is missing, so labels moved left and up relative to the polylines."
+  }
+ },
+ {
+  "key": "polyline_gallery/android/light",
+  "id": "polyline_gallery__android__light",
+  "img": "img/polyline_gallery__android__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in polylines, dash styling, and colors."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Page padding is missing, so labels moved left and up relative to the polylines."
+  }
+ },
+ {
+  "key": "polyline_gallery/ios/dark",
+  "id": "polyline_gallery__ios__dark",
+  "img": "img/polyline_gallery__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in polyline stroke, dashing, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Labels lost their left padding and content moved up relative to the desired layout."
+  }
+ },
+ {
+  "key": "polyline_gallery/ios/light",
+  "id": "polyline_gallery__ios__light",
+  "img": "img/polyline_gallery__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in polyline stroke, dashing, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Labels lost their left padding and content moved up relative to the desired layout."
+  }
+ },
+ {
+  "key": "polyline_gallery/windows/dark",
+  "id": "polyline_gallery__windows__dark",
+  "img": "img/polyline_gallery__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in polyline stroke paths and dashed styles."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Labels lose their left margin and the dash polyline is drawn mostly solid instead of dashed."
+  }
+ },
+ {
+  "key": "polyline_gallery/windows/light",
+  "id": "polyline_gallery__windows__light",
+  "img": "img/polyline_gallery__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in polyline stroke paths and dashed styles."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Labels lose their left margin and the dash polyline's dash pattern differs from the desired one."
+  }
+ },
+ {
+  "key": "radio_button_border/android/dark",
+  "id": "radio_button_border__android__dark",
+  "img": "img/radio_button_border__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in radio button borders, colors, and selection state."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Radio button outlines are dark grey instead of the light grey of the desired dark theme."
+  }
+ },
+ {
+  "key": "radio_button_content/android/dark",
+  "id": "radio_button_content__android__dark",
+  "img": "img/radio_button_content__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in radio button content, text, and custom templates."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Radio button outlines are dark grey instead of the light grey of the desired dark theme."
+  }
+ },
+ {
+  "key": "radio_button_content/android/light",
+  "id": "radio_button_content__android__light",
+  "img": "img/radio_button_content__android__light.jpg",
+  "gemini": {
+   "verdict": "DECLINED",
+   "reason": "The border container around the radio button under ControlTemplates is missing in the candidate UI."
+  },
+  "claude": {
+   "verdict": "ACCEPTED",
+   "reason": "Content matches; only the card shadow around the text item is not rendered."
+  }
+ },
+ {
+  "key": "radio_button_group/android/dark",
+  "id": "radio_button_group__android__dark",
+  "img": "img/radio_button_group__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in radio button grouping and options."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Radio button outlines are dark grey instead of the light grey of the desired dark theme."
+  }
+ },
+ {
+  "key": "radio_button_group_binding/android/dark",
+  "id": "radio_button_group_binding__android__dark",
+  "img": "img/radio_button_group_binding__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in radio button grid binding, labels, and buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Radio button outlines are dark grey instead of the light grey of the desired dark theme."
+  }
+ },
+ {
+  "key": "radio_button_group_gallery/android/dark",
+  "id": "radio_button_group_gallery__android__dark",
+  "img": "img/radio_button_group_gallery__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in radio button groups, options, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Radio button outlines are dark grey instead of the light grey of the desired dark theme."
+  }
+ },
+ {
+  "key": "radio_template_from_style/windows/dark",
+  "id": "radio_template_from_style__windows__dark",
+  "img": "img/radio_template_from_style__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in radio button control templates defined from styles."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Radio circles and labels sit at different positions in the tiles, and the circles are no longer clipped at the tile edge."
+  }
+ },
+ {
+  "key": "radio_template_from_style/windows/light",
+  "id": "radio_template_from_style__windows__light",
+  "img": "img/radio_template_from_style__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in radio button control templates defined from styles."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Radio circles and labels sit at different positions in the tiles, and the circles are no longer clipped at the tile edge."
+  }
+ },
+ {
+  "key": "rectangle_gallery/windows/dark",
+  "id": "rectangle_gallery__windows__dark",
+  "img": "img/rectangle_gallery__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in rectangle shapes, stroke colors, dashed strokes, and corner radiuses."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The stroke-dash rectangle shows a thin faint border instead of the visible red dashed stroke."
+  }
+ },
+ {
+  "key": "rectangle_gallery/windows/light",
+  "id": "rectangle_gallery__windows__light",
+  "img": "img/rectangle_gallery__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in rectangle shapes, stroke colors, dashed strokes, and corner radiuses."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The stroke-dash rectangle shows a thin faint border instead of the visible red dashed stroke."
+  }
+ },
+ {
+  "key": "refresh_view/android/dark",
+  "id": "refresh_view__android__dark",
+  "img": "img/refresh_view__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in refresh controls, status text, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Button backgrounds are a noticeably darker grey than desired."
+  }
+ },
+ {
+  "key": "refresh_view/windows/dark",
+  "id": "refresh_view__windows__dark",
+  "img": "img/refresh_view__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in refresh view control buttons, status indicators, and item count labels."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The text '50 items loaded. Pull to add more.' is missing."
+  }
+ },
+ {
+  "key": "refresh_view/windows/light",
+  "id": "refresh_view__windows__light",
+  "img": "img/refresh_view__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in refresh view control buttons, status indicators, and item count labels."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The text '50 items loaded. Pull to add more.' is missing."
+  }
+ },
+ {
+  "key": "scattered_radio_button/android/dark",
+  "id": "scattered_radio_button__android__dark",
+  "img": "img/scattered_radio_button__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in scattered radio buttons, grouping, and container layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Radio buttons A/B/C are crammed together and C's label is clipped by the box."
+  }
+ },
+ {
+  "key": "scattered_radio_button/android/light",
+  "id": "scattered_radio_button__android__light",
+  "img": "img/scattered_radio_button__android__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in scattered radio buttons, grouping, and container layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Radio buttons A/B/C are crammed together and C's label is clipped by the box."
+  }
+ },
+ {
+  "key": "scroll_mode_test/maccatalyst/dark",
+  "id": "scroll_mode_test__maccatalyst__dark",
+  "img": "img/scroll_mode_test__maccatalyst__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in items updating scroll mode test layout, buttons, and numbered items list."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The scroll mode picker is empty in the desired UI but shows KeepItemsInView in the candidate."
+  }
+ },
+ {
+  "key": "scroll_mode_test/maccatalyst/light",
+  "id": "scroll_mode_test__maccatalyst__light",
+  "img": "img/scroll_mode_test__maccatalyst__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in items updating scroll mode test layout, buttons, and numbered items list."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The scroll mode picker is empty in the desired UI but shows KeepItemsInView in the candidate."
+  }
+ },
+ {
+  "key": "search_bar/ios/dark",
+  "id": "search_bar__ios__dark",
+  "img": "img/search_bar__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in search bar variants, text styles, icons, and cancel buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Placeholder text colour for Search and Numeric keyboard is noticeably lighter in the candidate."
+  }
+ },
+ {
+  "key": "search_bar/ios/light",
+  "id": "search_bar__ios__light",
+  "img": "img/search_bar__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in search bar variants, text styles, icons, and cancel buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Placeholder text colour for Search and Numeric keyboard is noticeably darker in the candidate."
+  }
+ },
+ {
+  "key": "semantics/android/dark",
+  "id": "semantics__android__dark",
+  "img": "img/semantics__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in semantics controls, text entries, and heading levels."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Button backgrounds are a noticeably darker grey than desired."
+  }
+ },
+ {
+  "key": "slider/android/dark",
+  "id": "slider__android__dark",
+  "img": "img/slider__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in slider tracks, thumb colors, and toggle button."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Disabled slider thumb is nearly invisible instead of a visible ring."
+  }
+ },
+ {
+  "key": "slider/android/light",
+  "id": "slider__android__light",
+  "img": "img/slider__android__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in slider tracks, thumb colors, and toggle button."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Disabled slider thumb is nearly invisible instead of a visible ring."
+  }
+ },
+ {
+  "key": "some_empty_groups/android/dark",
+  "id": "some_empty_groups__android__dark",
+  "img": "img/some_empty_groups__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in grouped list content, headers, and zero-member counts."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Group header names lost their bold weight in the candidate."
+  }
+ },
+ {
+  "key": "some_empty_groups/android/light",
+  "id": "some_empty_groups__android__light",
+  "img": "img/some_empty_groups__android__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in grouped list content, headers, and zero-member counts."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Group header names lost their bold weight in the candidate."
+  }
+ },
+ {
+  "key": "some_empty_groups/ios/dark",
+  "id": "some_empty_groups__ios__dark",
+  "img": "img/some_empty_groups__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in grouped collection view headers, footers, and empty group handling."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Group header labels are bold in the desired UI but regular weight in the candidate."
+  }
+ },
+ {
+  "key": "some_empty_groups/ios/light",
+  "id": "some_empty_groups__ios__light",
+  "img": "img/some_empty_groups__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in grouped collection view headers, footers, and empty group handling."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Group header labels are bold in the desired UI but regular weight in the candidate."
+  }
+ },
+ {
+  "key": "some_empty_groups/maccatalyst/dark",
+  "id": "some_empty_groups__maccatalyst__dark",
+  "img": "img/some_empty_groups__maccatalyst__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in grouped collection view with empty and populated groups, headers, and footers."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Group header names are bold in the desired UI but regular weight in the candidate."
+  }
+ },
+ {
+  "key": "some_empty_groups/maccatalyst/light",
+  "id": "some_empty_groups__maccatalyst__light",
+  "img": "img/some_empty_groups__maccatalyst__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in grouped collection view with empty and populated groups, headers, and footers."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Group header names are bold in the desired UI but regular weight in the candidate."
+  }
+ },
+ {
+  "key": "some_empty_groups/windows/dark",
+  "id": "some_empty_groups__windows__dark",
+  "img": "img/some_empty_groups__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in grouped CollectionView layout, headers, footers, member counts, and empty group representations."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Group header names are bold in the desired UI but regular weight in the candidate."
+  }
+ },
+ {
+  "key": "some_empty_groups/windows/light",
+  "id": "some_empty_groups__windows__light",
+  "img": "img/some_empty_groups__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in grouped CollectionView layout, headers, footers, member counts, and empty group representations."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Group header names are bold in the desired UI but regular weight in the candidate."
+  }
+ },
+ {
+  "key": "staggered_layout/windows/dark",
+  "id": "staggered_layout__windows__dark",
+  "img": "img/staggered_layout__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in staggered grid layout columns, item positions, and labels."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Item 0 is staggered lower than Items 1-2 in the desired UI but aligned in the candidate."
+  }
+ },
+ {
+  "key": "staggered_layout/windows/light",
+  "id": "staggered_layout__windows__light",
+  "img": "img/staggered_layout__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in staggered grid layout columns, item positions, and labels."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Item 0 is staggered lower than Items 1-2 in the desired UI but aligned in the candidate."
+  }
+ },
+ {
+  "key": "stepper/android/dark",
+  "id": "stepper__android__dark",
+  "img": "img/stepper__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in stepper buttons, red background bar, labels, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Minus buttons and the disabled stepper appear enabled in the candidate, a wrong state."
+  }
+ },
+ {
+  "key": "stepper/windows/dark",
+  "id": "stepper__windows__dark",
+  "img": "img/stepper__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in stepper controls, increment/decrement buttons, red background color styling, and ValueChanged labels."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The Disabled stepper's plus button appears enabled in the candidate."
+  }
+ },
+ {
+  "key": "stepper/windows/light",
+  "id": "stepper__windows__light",
+  "img": "img/stepper__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in stepper controls, increment/decrement buttons, red background color styling, and ValueChanged labels."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The Disabled stepper's plus button appears enabled in the candidate."
+  }
+ },
+ {
+  "key": "swipe_item_position/android/dark",
+  "id": "swipe_item_position__android__dark",
+  "img": "img/swipe_item_position__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in mode selection header, subtitle, and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The 'Swipe in any direction' label is missing or invisible in the candidate."
+  }
+ },
+ {
+  "key": "swipe_refresh/windows/dark",
+  "id": "swipe_refresh__windows__dark",
+  "img": "img/swipe_refresh__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in swipe refresh instructions and Ready status label."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Candidate is blank; the instruction text and 'Ready' status label are missing."
+  }
+ },
+ {
+  "key": "swipe_refresh/windows/light",
+  "id": "swipe_refresh__windows__light",
+  "img": "img/swipe_refresh__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in swipe refresh instructions and Ready status label."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Candidate is blank; the instruction text and 'Ready' status label are missing."
+  }
+ },
+ {
+  "key": "swipe_view_shadow/ios/light",
+  "id": "swipe_view_shadow__ios__light",
+  "img": "img/swipe_view_shadow__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI properly renders shadows in the SwipeView content containers while preserving labels and layout."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Candidate content boxes have a grey shaded fill where the desired boxes are plain white."
+  }
+ },
+ {
+  "key": "switch/ios/dark",
+  "id": "switch__ios__dark",
+  "img": "img/switch__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI properly applies the orange thumb color to the ThumbColor switch while matching all other switch states."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "ThumbColor switch has an orange thumb in the candidate but a white thumb in the desired UI."
+  }
+ },
+ {
+  "key": "switch/ios/light",
+  "id": "switch__ios__light",
+  "img": "img/switch__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI properly applies the orange thumb color to the ThumbColor switch while matching all other switch states."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "ThumbColor switch has an orange thumb in the candidate but a white thumb in the desired UI."
+  }
+ },
+ {
+  "key": "switch/maccatalyst/dark",
+  "id": "switch__maccatalyst__dark",
+  "img": "img/switch__maccatalyst__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in switch toggle states, background highlights, and colored thumb indicators."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "ThumbColor switch thumb is orange in the candidate but white in the desired UI."
+  }
+ },
+ {
+  "key": "switch/maccatalyst/light",
+  "id": "switch__maccatalyst__light",
+  "img": "img/switch__maccatalyst__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in switch toggle states, background highlights, and colored thumb indicators."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "ThumbColor switch thumb is orange in the candidate but white in the desired UI."
+  }
+ },
+ {
+  "key": "tabbed_flyout/android/dark",
+  "id": "tabbed_flyout__android__dark",
+  "img": "img/tabbed_flyout__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in flyout tabs, buttons, and status labels."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Button shading differs, losing the Home tab's distinct appearance from the other buttons."
+  }
+ },
+ {
+  "key": "table_view/ios/dark",
+  "id": "table_view__ios__dark",
+  "img": "img/table_view__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in table view sections, text fields, toggles, and status text."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Account title colour, cell backgrounds and Name value position differ from the desired UI."
+  }
+ },
+ {
+  "key": "table_view/ios/light",
+  "id": "table_view__ios__light",
+  "img": "img/table_view__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in table view sections, text fields, toggles, and status text."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Account title is black instead of blue, cells are white, and the Name value is shifted right."
+  }
+ },
+ {
+  "key": "table_view/maccatalyst/dark",
+  "id": "table_view__maccatalyst__dark",
+  "img": "img/table_view__maccatalyst__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in table view profile, account, preference switches, and custom status section."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Name value moved to far right, Account text colour differs and cell backgrounds differ."
+  }
+ },
+ {
+  "key": "table_view/maccatalyst/light",
+  "id": "table_view__maccatalyst__light",
+  "img": "img/table_view__maccatalyst__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in table view profile, account, preference switches, and custom status section."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Name value moved to far right, Account text colour differs and cell backgrounds are white instead of grey."
+  }
+ },
+ {
+  "key": "time_picker/android/dark",
+  "id": "time_picker__android__dark",
+  "img": "img/time_picker__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in time picker controls, color bars, formats, and action buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The Disabled time picker appears enabled in the candidate."
+  }
+ },
+ {
+  "key": "time_picker/ios/dark",
+  "id": "time_picker__ios__dark",
+  "img": "img/time_picker__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI properly displays an empty field when TimePicker is set to null instead of defaulting to 12:00 AM."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The 'Set to null' picker is empty in the candidate but shows 12:00 AM in the desired UI."
+  }
+ },
+ {
+  "key": "time_picker/ios/light",
+  "id": "time_picker__ios__light",
+  "img": "img/time_picker__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI properly displays an empty field when TimePicker is set to null instead of defaulting to 12:00 AM."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The 'Set to null' picker is empty in the candidate but shows 12:00 AM in the desired UI."
+  }
+ },
+ {
+  "key": "time_picker/windows/dark",
+  "id": "time_picker__windows__dark",
+  "img": "img/time_picker__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI properly displays placeholder prompts (hour / minute / AM) when TimePicker is set to null instead of defaulting to 12:00 AM."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "'Set to null' picker shows hour/minute placeholders instead of 12:00."
+  }
+ },
+ {
+  "key": "time_picker/windows/light",
+  "id": "time_picker__windows__light",
+  "img": "img/time_picker__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI properly displays placeholder prompts (hour / minute / AM) when TimePicker is set to null instead of defaulting to 12:00 AM."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "'Set to null' picker shows hour/minute placeholders instead of 12:00."
+  }
+ },
+ {
+  "key": "toolbar/android/dark",
+  "id": "toolbar__android__dark",
+  "img": "img/toolbar__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in toolbar item click label and test action buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The first button's state and shading differ from the desired UI, with greyed text and inverted shade relative to the other buttons."
+  }
+ },
+ {
+  "key": "transform_playground/android/dark",
+  "id": "transform_playground__android__dark",
+  "img": "img/transform_playground__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in transform canvas, red square, sliders, and parameter values."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The red square is visibly larger with a thicker border than in the desired UI."
+  }
+ },
+ {
+  "key": "transform_playground/android/light",
+  "id": "transform_playground__android__light",
+  "img": "img/transform_playground__android__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in transform canvas, red square, sliders, and parameter values."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The red square is visibly larger with a thicker border than in the desired UI."
+  }
+ },
+ {
+  "key": "transform_playground/ios/dark",
+  "id": "transform_playground__ios__dark",
+  "img": "img/transform_playground__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in transform playground preview shape, transform sliders, and values."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The red transformed square is visibly larger in the candidate."
+  }
+ },
+ {
+  "key": "transform_playground/ios/light",
+  "id": "transform_playground__ios__light",
+  "img": "img/transform_playground__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in transform playground preview shape, transform sliders, and values."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The red transformed square is visibly larger in the candidate."
+  }
+ },
+ {
+  "key": "transform_playground/windows/dark",
+  "id": "transform_playground__windows__dark",
+  "img": "img/transform_playground__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in transform playground preview box, transform sliders, handles, and labels."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The red transformed square is visibly larger in the candidate."
+  }
+ },
+ {
+  "key": "transform_playground/windows/light",
+  "id": "transform_playground__windows__light",
+  "img": "img/transform_playground__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in transform playground preview box, transform sliders, handles, and labels."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The red transformed square is visibly larger in the candidate."
+  }
+ },
+ {
+  "key": "value_controls/windows/dark",
+  "id": "value_controls__windows__dark",
+  "img": "img/value_controls__windows__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in value label, slider, stepper, progress bar, switch, and checkbox."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The -/+ stepper control is missing in the candidate."
+  }
+ },
+ {
+  "key": "value_controls/windows/light",
+  "id": "value_controls__windows__light",
+  "img": "img/value_controls__windows__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in value label, slider, stepper, progress bar, switch, and checkbox."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The -/+ stepper control is missing in the candidate."
+  }
+ },
+ {
+  "key": "visual_states/android/dark",
+  "id": "visual_states__android__dark",
+  "img": "img/visual_states__android__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in visual state entry field, bright green banner, and state buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The green entry is missing its underline."
+  }
+ },
+ {
+  "key": "visual_states/android/light",
+  "id": "visual_states__android__light",
+  "img": "img/visual_states__android__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in visual state entry field, bright green banner, and state buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "The green entry is missing its underline."
+  }
+ },
+ {
+  "key": "web_view/ios/dark",
+  "id": "web_view__ios__dark",
+  "img": "img/web_view__ios__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in web view welcome content, navigation URL readout, and action buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Navigation status text differs: 'No navigation yet' vs 'new_page -> https://demo.test/welcome'."
+  }
+ },
+ {
+  "key": "web_view/ios/light",
+  "id": "web_view__ios__light",
+  "img": "img/web_view__ios__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in web view welcome content, navigation URL readout, and action buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Navigation status text differs: 'No navigation yet' vs 'new_page -> https://demo.test/welcome'."
+  }
+ },
+ {
+  "key": "web_view/maccatalyst/dark",
+  "id": "web_view__maccatalyst__dark",
+  "img": "img/web_view__maccatalyst__dark.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in web view welcome content, navigation URL readout, and action buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Navigation status text reads 'new_page -> https://demo.test/welcome' instead of 'No navigation yet'."
+  }
+ },
+ {
+  "key": "web_view/maccatalyst/light",
+  "id": "web_view__maccatalyst__light",
+  "img": "img/web_view__maccatalyst__light.jpg",
+  "gemini": {
+   "verdict": "ACCEPTED",
+   "reason": "The candidate UI matches the desired UI in web view welcome content, navigation URL readout, and action buttons."
+  },
+  "claude": {
+   "verdict": "DECLINED",
+   "reason": "Navigation status text reads 'new_page -> https://demo.test/welcome' instead of 'No navigation yet'."
+  }
+ }
+]

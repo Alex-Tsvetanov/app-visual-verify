@@ -1,0 +1,36 @@
+{"key": "check_box/ios/dark", "verdict": "ACCEPTED", "reason": "All checkboxes, labels, colours and states match."}
+{"key": "check_box/ios/light", "verdict": "ACCEPTED", "reason": "All checkboxes, labels, colours and states match."}
+{"key": "chrome/ios/dark", "verdict": "ACCEPTED", "reason": "Button and status label match in text and position."}
+{"key": "chrome/ios/light", "verdict": "ACCEPTED", "reason": "Button and status label match in text and position."}
+{"key": "clip_corner_radius/ios/dark", "verdict": "ACCEPTED", "reason": "Clipped image, labels and sliders match."}
+{"key": "clip_corner_radius/ios/light", "verdict": "ACCEPTED", "reason": "Clipped image, labels and sliders match."}
+{"key": "clip/ios/dark", "verdict": "ACCEPTED", "reason": "All clipped images and captions match."}
+{"key": "clip_gallery/ios/dark", "verdict": "ACCEPTED", "reason": "All clipped images and captions match."}
+{"key": "clip_gallery/ios/light", "verdict": "ACCEPTED", "reason": "All clipped images and captions match."}
+{"key": "clip/ios/light", "verdict": "ACCEPTED", "reason": "All clipped images and captions match."}
+{"key": "clip_views/ios/dark", "verdict": "ACCEPTED", "reason": "Clipped controls, text and shapes match."}
+{"key": "clip_views/ios/light", "verdict": "ACCEPTED", "reason": "Clipped controls, text and shapes match."}
+{"key": "clipping/ios/dark", "verdict": "ACCEPTED", "reason": "Layout, colours and clipping behaviour match."}
+{"key": "clipping/ios/light", "verdict": "DECLINED", "reason": "Status bar icons and text are black instead of white on the orange background."}
+{"key": "collectionview/ios/dark", "verdict": "ACCEPTED", "reason": "Header and grid items match."}
+{"key": "collectionview/ios/light", "verdict": "ACCEPTED", "reason": "Header and grid items match."}
+{"key": "composition_gallery/ios/dark", "verdict": "ACCEPTED", "reason": "Both drawing panels match."}
+{"key": "composition_gallery/ios/light", "verdict": "ACCEPTED", "reason": "Both drawing panels match."}
+{"key": "containers/ios/dark", "verdict": "ACCEPTED", "reason": "Containers match; only the dynamic scroll offset readout differs."}
+{"key": "containers/ios/light", "verdict": "ACCEPTED", "reason": "Containers match; only the dynamic scroll offset readout differs."}
+{"key": "content_view/ios/dark", "verdict": "ACCEPTED", "reason": "Labels and button match."}
+{"key": "content_view/ios/light", "verdict": "ACCEPTED", "reason": "Labels and button match."}
+{"key": "context_flyout/ios/dark", "verdict": "ACCEPTED", "reason": "All controls, web content and labels match."}
+{"key": "context_flyout/ios/light", "verdict": "ACCEPTED", "reason": "All controls, web content and labels match."}
+{"key": "controls_stack/ios/dark", "verdict": "DECLINED", "reason": "Editor placeholder is moved down within the editor and searchbar placeholder colour differs."}
+{"key": "controls_stack/ios/light", "verdict": "DECLINED", "reason": "Editor placeholder is moved down within the editor and searchbar placeholder colour differs."}
+{"key": "custom_layout/ios/dark", "verdict": "ACCEPTED", "reason": "All edge buttons match in position."}
+{"key": "custom_layout/ios/light", "verdict": "ACCEPTED", "reason": "All edge buttons match in position."}
+{"key": "custom_size_swipe/ios/dark", "verdict": "ACCEPTED", "reason": "Swipe content, button and status label match."}
+{"key": "custom_size_swipe/ios/light", "verdict": "ACCEPTED", "reason": "Swipe content, button and status label match."}
+{"key": "custom_swipe_item_view/ios/dark", "verdict": "ACCEPTED", "reason": "Instruction and card content match."}
+{"key": "custom_swipe_item_view/ios/light", "verdict": "ACCEPTED", "reason": "Instruction and card content match."}
+{"key": "cv_visual_states/ios/dark", "verdict": "ACCEPTED", "reason": "Headers and list areas match."}
+{"key": "cv_visual_states/ios/light", "verdict": "ACCEPTED", "reason": "Headers and items match."}
+{"key": "data_template_selector/ios/dark", "verdict": "DECLINED", "reason": "Searchbar placeholder text colour is noticeably brighter than desired."}
+{"key": "data_template_selector/ios/light", "verdict": "DECLINED", "reason": "Searchbar placeholder text colour is noticeably darker than desired."}

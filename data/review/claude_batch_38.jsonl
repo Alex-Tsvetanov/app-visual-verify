@@ -1,0 +1,36 @@
+{"key": "swipe_refresh/windows/dark", "verdict": "DECLINED", "reason": "Candidate is blank; the instruction text and 'Ready' status label are missing."}
+{"key": "swipe_refresh/windows/light", "verdict": "DECLINED", "reason": "Candidate is blank; the instruction text and 'Ready' status label are missing."}
+{"key": "swipe_threshold/windows/dark", "verdict": "ACCEPTED", "reason": "Labels, swipe rows, sliders and status text match."}
+{"key": "swipe_threshold/windows/light", "verdict": "ACCEPTED", "reason": "Labels, swipe rows, sliders and status text match."}
+{"key": "swipe_view_margin/windows/dark", "verdict": "ACCEPTED", "reason": "Text, sliders and SwipeItems rows match."}
+{"key": "swipe_view_margin/windows/light", "verdict": "ACCEPTED", "reason": "Text, sliders and SwipeItems rows match."}
+{"key": "swipe_view_shadow/windows/dark", "verdict": "ACCEPTED", "reason": "Labels and bordered content cards match."}
+{"key": "swipe_view_shadow/windows/light", "verdict": "ACCEPTED", "reason": "Labels and bordered content cards match."}
+{"key": "switch/windows/dark", "verdict": "ACCEPTED", "reason": "All switch variants, colours and labels match."}
+{"key": "switch_grouping/windows/dark", "verdict": "ACCEPTED", "reason": "Grouped list, headers, footers and toggle match."}
+{"key": "switch_grouping/windows/light", "verdict": "ACCEPTED", "reason": "Grouped list, headers, footers and toggle match."}
+{"key": "switch/windows/light", "verdict": "ACCEPTED", "reason": "All switch variants, colours and labels match."}
+{"key": "tabbed_flyout/windows/dark", "verdict": "ACCEPTED", "reason": "Buttons and status text match."}
+{"key": "tabbed_flyout/windows/light", "verdict": "ACCEPTED", "reason": "Buttons and status text match."}
+{"key": "table_view/windows/dark", "verdict": "DECLINED", "reason": "Candidate is blank; the entire table view content is missing."}
+{"key": "table_view/windows/light", "verdict": "DECLINED", "reason": "Candidate is blank; the entire table view content is missing."}
+{"key": "templated_view/windows/dark", "verdict": "ACCEPTED", "reason": "Card text, images and layout match."}
+{"key": "templated_view/windows/light", "verdict": "ACCEPTED", "reason": "Card text, images and layout match."}
+{"key": "time_picker/windows/dark", "verdict": "DECLINED", "reason": "'Set to null' picker shows hour/minute placeholders instead of 12:00."}
+{"key": "time_picker/windows/light", "verdict": "DECLINED", "reason": "'Set to null' picker shows hour/minute placeholders instead of 12:00."}
+{"key": "title_bar/windows/dark", "verdict": "ACCEPTED", "reason": "All options, buttons and status text match."}
+{"key": "title_bar/windows/light", "verdict": "ACCEPTED", "reason": "All options, buttons and status text match."}
+{"key": "toolbar/windows/dark", "verdict": "ACCEPTED", "reason": "Status text and all buttons match."}
+{"key": "toolbar/windows/light", "verdict": "ACCEPTED", "reason": "Status text and all buttons match."}
+{"key": "transform_playground/windows/dark", "verdict": "DECLINED", "reason": "The red transformed square is visibly larger in the candidate."}
+{"key": "transform_playground/windows/light", "verdict": "DECLINED", "reason": "The red transformed square is visibly larger in the candidate."}
+{"key": "transformations/windows/dark", "verdict": "ACCEPTED", "reason": "Header, labels, sliders and steppers match."}
+{"key": "transformations/windows/light", "verdict": "ACCEPTED", "reason": "Header, labels, sliders and steppers match."}
+{"key": "triggers/windows/dark", "verdict": "ACCEPTED", "reason": "Title, entry, label and button match."}
+{"key": "triggers/windows/light", "verdict": "ACCEPTED", "reason": "Title, entry, label and button match."}
+{"key": "update_path_data/windows/dark", "verdict": "ACCEPTED", "reason": "Path shape, data label and button match."}
+{"key": "update_path_data/windows/light", "verdict": "ACCEPTED", "reason": "Path shape, data label and button match."}
+{"key": "value_controls/windows/dark", "verdict": "DECLINED", "reason": "The -/+ stepper control is missing in the candidate."}
+{"key": "value_controls/windows/light", "verdict": "DECLINED", "reason": "The -/+ stepper control is missing in the candidate."}
+{"key": "varied_size_selector/windows/dark", "verdict": "ACCEPTED", "reason": "List items, buttons, entry and picker match."}
+{"key": "varied_size_selector/windows/light", "verdict": "ACCEPTED", "reason": "List items, buttons, entry and picker match."}

@@ -1,0 +1,36 @@
+{"key": "toolbar/android/dark", "verdict": "DECLINED", "reason": "The first button's state and shading differ from the desired UI, with greyed text and inverted shade relative to the other buttons."}
+{"key": "toolbar/android/light", "verdict": "ACCEPTED", "reason": "Same text, buttons and layout."}
+{"key": "transform_playground/android/dark", "verdict": "DECLINED", "reason": "The red square is visibly larger with a thicker border than in the desired UI."}
+{"key": "transform_playground/android/light", "verdict": "DECLINED", "reason": "The red square is visibly larger with a thicker border than in the desired UI."}
+{"key": "transformations/android/dark", "verdict": "ACCEPTED", "reason": "Same labels, sliders and buttons; only a slight button shade difference."}
+{"key": "transformations/android/light", "verdict": "ACCEPTED", "reason": "Same labels, sliders and buttons in the same layout."}
+{"key": "triggers/android/dark", "verdict": "ACCEPTED", "reason": "Same content and layout; only a text caret and slight button shade differ."}
+{"key": "triggers/android/light", "verdict": "ACCEPTED", "reason": "Same title, entry, label and button."}
+{"key": "update_path_data/android/dark", "verdict": "ACCEPTED", "reason": "Same path, data text and button; only a slight button shade difference."}
+{"key": "update_path_data/android/light", "verdict": "ACCEPTED", "reason": "Same path, data text and button."}
+{"key": "varied_size_selector/android/dark", "verdict": "ACCEPTED", "reason": "Same list items, buttons and entries."}
+{"key": "varied_size_selector/android/light", "verdict": "ACCEPTED", "reason": "Same list items, buttons and entries."}
+{"key": "vertical_stack/android/dark", "verdict": "ACCEPTED", "reason": "Identical label and coloured stack."}
+{"key": "vertical_stack/android/light", "verdict": "ACCEPTED", "reason": "Identical label and coloured stack."}
+{"key": "visual_states/android/dark", "verdict": "DECLINED", "reason": "The green entry is missing its underline."}
+{"key": "visual_states/android/light", "verdict": "DECLINED", "reason": "The green entry is missing its underline."}
+{"key": "web_view/android/dark", "verdict": "ACCEPTED", "reason": "Same web content, labels and buttons; only a slight button shade difference."}
+{"key": "web_view/android/light", "verdict": "ACCEPTED", "reason": "Same web content, labels and buttons."}
+{"key": "z_index/android/dark", "verdict": "ACCEPTED", "reason": "Same stacked labels, z-order and controls."}
+{"key": "z_index/android/light", "verdict": "ACCEPTED", "reason": "Same stacked labels, z-order and controls."}
+{"key": "absolute_layout/ios/dark", "verdict": "DECLINED", "reason": "The AutoSized label is smaller and in a different position."}
+{"key": "absolute_layout/ios/light", "verdict": "DECLINED", "reason": "The AutoSized label is smaller and in a different position."}
+{"key": "activity_indicator/ios/dark", "verdict": "ACCEPTED", "reason": "Same labels and indicators; only the spinner animation frame differs."}
+{"key": "activity_indicator/ios/light", "verdict": "ACCEPTED", "reason": "Same labels and indicators; only the spinner animation frame differs."}
+{"key": "adaptive_collection/ios/dark", "verdict": "ACCEPTED", "reason": "Same eight items in the same layout."}
+{"key": "adaptive_collection/ios/light", "verdict": "ACCEPTED", "reason": "Same eight items in the same layout."}
+{"key": "alerts/ios/dark", "verdict": "ACCEPTED", "reason": "Same headings and buttons."}
+{"key": "alerts/ios/light", "verdict": "ACCEPTED", "reason": "Same headings and buttons."}
+{"key": "alignment/ios/dark", "verdict": "ACCEPTED", "reason": "Same labels and button alignments."}
+{"key": "alignment/ios/light", "verdict": "ACCEPTED", "reason": "Same labels and button alignments."}
+{"key": "animation/ios/dark", "verdict": "ACCEPTED", "reason": "Same image and buttons in the same states."}
+{"key": "animation/ios/light", "verdict": "ACCEPTED", "reason": "Same image and buttons in the same states."}
+{"key": "app_theme_binding/ios/dark", "verdict": "ACCEPTED", "reason": "Same text and theme colours."}
+{"key": "app_theme_binding/ios/light", "verdict": "ACCEPTED", "reason": "Same text and theme colours."}
+{"key": "application_control/ios/dark", "verdict": "ACCEPTED", "reason": "Same labels and buttons."}
+{"key": "application_control/ios/light", "verdict": "ACCEPTED", "reason": "Same labels and buttons."}

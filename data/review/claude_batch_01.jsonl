@@ -1,0 +1,36 @@
+{"key": "borderless/android/dark", "verdict": "ACCEPTED", "reason": "Pink and red regions match exactly."}
+{"key": "borderless/android/light", "verdict": "ACCEPTED", "reason": "Pink and red regions match exactly."}
+{"key": "box_view/android/dark", "verdict": "ACCEPTED", "reason": "All four box views and labels match."}
+{"key": "box_view/android/light", "verdict": "ACCEPTED", "reason": "All four box views and labels match."}
+{"key": "button/android/dark", "verdict": "DECLINED", "reason": "BorderColor button lost its red border and Clicked/Command buttons have a darker fill."}
+{"key": "button/android/light", "verdict": "DECLINED", "reason": "BorderColor button is missing its red border."}
+{"key": "carousel_page/android/dark", "verdict": "DECLINED", "reason": "Card border and Card 1 label are positioned differently; card extends to the bottom."}
+{"key": "carousel_page/android/light", "verdict": "DECLINED", "reason": "Card border and Card 1 label are positioned differently; card extends to the bottom."}
+{"key": "chat_example/android/dark", "verdict": "ACCEPTED", "reason": "Toolbar buttons and empty list match."}
+{"key": "chat_example/android/light", "verdict": "ACCEPTED", "reason": "Toolbar buttons and empty list match."}
+{"key": "check_box/android/dark", "verdict": "DECLINED", "reason": "Default checkbox lost its full-width grey background bar."}
+{"key": "check_box/android/light", "verdict": "ACCEPTED", "reason": "All checkboxes, labels and states match."}
+{"key": "chrome/android/dark", "verdict": "ACCEPTED", "reason": "Same button and status label; only a slight button shade difference."}
+{"key": "chrome/android/light", "verdict": "ACCEPTED", "reason": "Button and status label match."}
+{"key": "clip_corner_radius/android/dark", "verdict": "ACCEPTED", "reason": "Clipped image, labels and sliders match."}
+{"key": "clip_corner_radius/android/light", "verdict": "ACCEPTED", "reason": "Clipped image, labels and sliders match."}
+{"key": "clip/android/dark", "verdict": "ACCEPTED", "reason": "All clipped images and captions match."}
+{"key": "clip_gallery/android/dark", "verdict": "ACCEPTED", "reason": "All clipped images and captions match."}
+{"key": "clip_gallery/android/light", "verdict": "ACCEPTED", "reason": "All clipped images and captions match."}
+{"key": "clip/android/light", "verdict": "ACCEPTED", "reason": "All clipped images and captions match."}
+{"key": "clip_views/android/dark", "verdict": "DECLINED", "reason": "Editor text colour changed to a dim placeholder-like shade."}
+{"key": "clip_views/android/light", "verdict": "DECLINED", "reason": "Page background is white instead of grey and red fills and text colours differ."}
+{"key": "clipping/android/dark", "verdict": "ACCEPTED", "reason": "Layout and clipping match; only a slight button shade difference."}
+{"key": "clipping/android/light", "verdict": "ACCEPTED", "reason": "Layout and clipping behaviour match."}
+{"key": "collectionview/android/dark", "verdict": "ACCEPTED", "reason": "Header and all grid items match."}
+{"key": "collectionview/android/light", "verdict": "ACCEPTED", "reason": "Header and all grid items match."}
+{"key": "composition_gallery/android/dark", "verdict": "ACCEPTED", "reason": "Both composed drawings match."}
+{"key": "composition_gallery/android/light", "verdict": "ACCEPTED", "reason": "Both composed drawings match."}
+{"key": "containers/android/dark", "verdict": "ACCEPTED", "reason": "Border, frame and content view match."}
+{"key": "containers/android/light", "verdict": "ACCEPTED", "reason": "Border, frame and content view match."}
+{"key": "content_view/android/dark", "verdict": "ACCEPTED", "reason": "Same labels and button; only a slight button shade difference."}
+{"key": "content_view/android/light", "verdict": "ACCEPTED", "reason": "Labels and button match."}
+{"key": "context_flyout/android/dark", "verdict": "ACCEPTED", "reason": "All controls, web view and labels match."}
+{"key": "context_flyout/android/light", "verdict": "ACCEPTED", "reason": "All controls, web view and labels match."}
+{"key": "controls_stack/android/dark", "verdict": "DECLINED", "reason": "Editor text is rendered in a dim placeholder colour instead of normal text colour."}
+{"key": "controls_stack/android/light", "verdict": "ACCEPTED", "reason": "All controls and states match."}

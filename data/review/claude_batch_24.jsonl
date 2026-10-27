@@ -1,0 +1,36 @@
+{"key": "horizontal_stack/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same six coloured boxes in the same row position."}
+{"key": "horizontal_stack/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same six coloured boxes in the same row position."}
+{"key": "hybrid_web_view/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Label, five buttons and white web view area match."}
+{"key": "hybrid_web_view/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Label and five buttons match in text and placement."}
+{"key": "image_button/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All image buttons, labels, border and slider match."}
+{"key": "image_button/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All image buttons, labels, border and slider match."}
+{"key": "image/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Both images and labels render identically."}
+{"key": "image/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Both images and labels render identically."}
+{"key": "indicator/maccatalyst/dark", "verdict": "DECLINED", "reason": "Candidate shows an extra 'Item 1' label and different indicator spacing."}
+{"key": "indicator/maccatalyst/light", "verdict": "DECLINED", "reason": "Candidate shows an extra 'Item 1' label and different indicator spacing."}
+{"key": "input_controls/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same fields, search bar and radio buttons with UPPER selected."}
+{"key": "input_controls/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same fields, search bar and radio buttons with UPPER selected."}
+{"key": "input_transparent/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All labels, buttons and switch match."}
+{"key": "input_transparent/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All labels, buttons and switch match."}
+{"key": "invalidate_brush/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Button, label and green line match."}
+{"key": "invalidate_brush/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Button, label and green line match."}
+{"key": "invalidate_shadow_host/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Sliders, labels and bordered host box match."}
+{"key": "invalidate_shadow_host/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Sliders, labels and bordered host box match."}
+{"key": "ios_blur_effect/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Image, four buttons and status label match."}
+{"key": "ios_blur_effect/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Image, four buttons and status label match."}
+{"key": "ios_date_picker/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Date and toggle button match."}
+{"key": "ios_date_picker/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Date and toggle button match."}
+{"key": "ios_entry/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Entry placeholder and toggle button match."}
+{"key": "ios_entry/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Entry placeholder and toggle button match."}
+{"key": "ios_first_responder/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All entries, buttons and status text match."}
+{"key": "ios_first_responder/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All entries, buttons and status text match."}
+{"key": "ios_pan_gesture/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Labels and toggle button match."}
+{"key": "ios_pan_gesture/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Labels and toggle button match."}
+{"key": "ios_picker/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Picker placeholder and toggle button match."}
+{"key": "ios_picker/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Picker placeholder and toggle button match."}
+{"key": "ios_safe_area/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Paragraph text and button match."}
+{"key": "ios_safe_area/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Paragraph text and button match."}
+{"key": "ios_scroll_view/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Slider and two buttons match."}
+{"key": "ios_scroll_view/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Slider and two buttons match."}
+{"key": "ios_search_bar/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Search bar and two buttons match."}
+{"key": "ios_search_bar/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Search bar and two buttons match."}

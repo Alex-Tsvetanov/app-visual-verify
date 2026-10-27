@@ -1,0 +1,36 @@
+{"key": "header_footer_grid/android/light", "verdict": "DECLINED", "reason": "The Toggle Header button appears in a dimmed, disabled-looking state unlike the desired UI."}
+{"key": "header_footer/android/light", "verdict": "ACCEPTED", "reason": "Header, items and footer text and layout match."}
+{"key": "header_footer_template/android/dark", "verdict": "ACCEPTED", "reason": "Header, templated items and footer match."}
+{"key": "header_footer_template/android/light", "verdict": "ACCEPTED", "reason": "Header, templated items and footer match."}
+{"key": "header_footer_view/android/dark", "verdict": "DECLINED", "reason": "The Clear All Items button has a darker background, a different visual state than desired."}
+{"key": "header_footer_view/android/light", "verdict": "ACCEPTED", "reason": "Header, footer and both buttons match."}
+{"key": "hit_testing/android/dark", "verdict": "DECLINED", "reason": "The Scale and Rotation buttons render with a noticeably darker grey background."}
+{"key": "hit_testing/android/light", "verdict": "ACCEPTED", "reason": "All labels, buttons and shapes match."}
+{"key": "horizontal_stack/android/dark", "verdict": "ACCEPTED", "reason": "The six coloured squares match in order, size and position."}
+{"key": "horizontal_stack/android/light", "verdict": "ACCEPTED", "reason": "The six coloured squares match in order, size and position."}
+{"key": "hybrid_web_view/android/dark", "verdict": "DECLINED", "reason": "The web view error text differs (ERR_ADDRESS_UNREACHABLE instead of ERR_INVALID_RESPONSE) and the buttons are darker."}
+{"key": "hybrid_web_view/android/light", "verdict": "DECLINED", "reason": "The web view error text differs (ERR_ADDRESS_UNREACHABLE instead of ERR_INVALID_RESPONSE)."}
+{"key": "image_button/android/dark", "verdict": "DECLINED", "reason": "The AspectFill gear overflows its button bounds instead of being clipped."}
+{"key": "image_button/android/light", "verdict": "ACCEPTED", "reason": "All image buttons match apart from negligible corner rounding."}
+{"key": "image/android/dark", "verdict": "ACCEPTED", "reason": "All images, labels and the switch match."}
+{"key": "image/android/light", "verdict": "ACCEPTED", "reason": "All images, labels and the switch match."}
+{"key": "indicator/android/dark", "verdict": "DECLINED", "reason": "An extra 'Item 1' label appears and the indicator dots are spaced differently."}
+{"key": "indicator/android/light", "verdict": "DECLINED", "reason": "An extra 'Item 1' label appears and the indicator dots are spaced differently."}
+{"key": "input_controls/android/dark", "verdict": "DECLINED", "reason": "The entry shows a focused cursor state and the small markers below the radios are missing."}
+{"key": "input_controls/android/light", "verdict": "DECLINED", "reason": "The small arrow markers below the radio buttons are missing."}
+{"key": "input_transparent/android/dark", "verdict": "DECLINED", "reason": "The button backgrounds are darker and the Clickable button shows a different state."}
+{"key": "input_transparent/android/light", "verdict": "ACCEPTED", "reason": "All labels, buttons and the switch match."}
+{"key": "invalidate_brush/android/dark", "verdict": "ACCEPTED", "reason": "The button, line and label match."}
+{"key": "invalidate_brush/android/light", "verdict": "ACCEPTED", "reason": "The button, line and label match."}
+{"key": "invalidate_shadow_host/android/dark", "verdict": "ACCEPTED", "reason": "The button, sliders, labels and host box match."}
+{"key": "invalidate_shadow_host/android/light", "verdict": "ACCEPTED", "reason": "The button, sliders, labels and host box match."}
+{"key": "ios_blur_effect/android/dark", "verdict": "DECLINED", "reason": "The button background shades differ, with No Blur lighter and the others darker than desired."}
+{"key": "ios_blur_effect/android/light", "verdict": "ACCEPTED", "reason": "The image, buttons and label match."}
+{"key": "ios_date_picker/android/dark", "verdict": "DECLINED", "reason": "The date underline is dimmer and the button background is darker than desired."}
+{"key": "ios_date_picker/android/light", "verdict": "ACCEPTED", "reason": "The date field and button match."}
+{"key": "ios_entry/android/dark", "verdict": "DECLINED", "reason": "The entry shows a focus cursor and the button background is darker."}
+{"key": "ios_entry/android/light", "verdict": "ACCEPTED", "reason": "The entry and button match."}
+{"key": "ios_first_responder/android/dark", "verdict": "DECLINED", "reason": "The first entry shows a focus cursor and the buttons have darker backgrounds."}
+{"key": "ios_first_responder/android/light", "verdict": "ACCEPTED", "reason": "All entries, buttons and status labels match."}
+{"key": "ios_pan_gesture/android/dark", "verdict": "ACCEPTED", "reason": "The labels and button match apart from negligible shading."}
+{"key": "ios_pan_gesture/android/light", "verdict": "ACCEPTED", "reason": "The labels and button match."}

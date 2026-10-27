@@ -18,6 +18,7 @@ THRESHOLDS = REPO_ROOT / "config/thresholds.json"
 RESULTS = REPO_ROOT / "data/results"
 
 ENV_CAPTURES = "VERIFY_CAPTURES"
+HUB_CACHE = Path.home() / ".cache/torch/hub"  # pretrained ResNet-18 and DINOv2 weights
 
 
 def captures_root(override=None):

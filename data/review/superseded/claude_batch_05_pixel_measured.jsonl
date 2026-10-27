@@ -1,0 +1,36 @@
+{"key": "ios_picker/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme."}
+{"key": "ios_picker/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}
+{"key": "ios_safe_area/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme."}
+{"key": "ios_safe_area/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}
+{"key": "ios_scroll_view/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme and buttons are a darker grey."}
+{"key": "ios_scroll_view/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}
+{"key": "ios_search_bar/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme and buttons are a darker grey."}
+{"key": "ios_search_bar/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}
+{"key": "ios_slider_update_on_tap/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme."}
+{"key": "ios_slider_update_on_tap/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}
+{"key": "ios_swipe_transition/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme."}
+{"key": "ios_swipe_transition/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}
+{"key": "ios_time_picker/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme and the button is a darker grey."}
+{"key": "ios_time_picker/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}
+{"key": "items/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme."}
+{"key": "items/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}
+{"key": "items_updating_scroll_mode/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme and buttons are a darker grey."}
+{"key": "items_updating_scroll_mode/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}
+{"key": "label/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme and a truncated line shows a clipped extra glyph."}
+{"key": "label/android/light", "verdict": "DECLINED", "reason": "A truncated Lorem ipsum line shows a clipped extra glyph after sed that the desired UI does not show."}
+{"key": "layout_is_enabled/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme and enabled buttons are a darker grey."}
+{"key": "layout_is_enabled/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}
+{"key": "line_gallery/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme."}
+{"key": "line_gallery/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}
+{"key": "line_join_gallery/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme."}
+{"key": "line_join_gallery/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}
+{"key": "measure_first_strategy/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme and the button is a darker grey."}
+{"key": "measure_first_strategy/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}
+{"key": "menu_bar/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme and the button is a darker grey."}
+{"key": "menu_bar/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}
+{"key": "modal/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme and button background shades differ."}
+{"key": "modal/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}
+{"key": "multiple_bound_selection/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme."}
+{"key": "multiple_bound_selection/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}
+{"key": "navigation_gallery/android/dark", "verdict": "DECLINED", "reason": "Status bar icons and clock render dark instead of light for the dark theme and button background shades differ."}
+{"key": "navigation_gallery/android/light", "verdict": "ACCEPTED", "reason": "Same content, controls, state and layout; only rasterization-level differences."}

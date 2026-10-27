@@ -1,0 +1,36 @@
+{"key": "path_transform_string/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Labels and both path shapes match in content and placement."}
+{"key": "path_transform_string/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same labels and paths; only minor stroke rendering differences."}
+{"key": "picker/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All pickers, labels, colors and buttons match."}
+{"key": "picker/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All pickers, labels, colors and buttons match."}
+{"key": "pickers/maccatalyst/dark", "verdict": "DECLINED", "reason": "Summary text shows '8/23/2026 at 09:00' instead of '(no date) at (no time)'."}
+{"key": "pickers/maccatalyst/light", "verdict": "DECLINED", "reason": "Summary text shows '8/23/2026 at 09:00' instead of '(no date) at (no time)'."}
+{"key": "pointer_gesture/maccatalyst/dark", "verdict": "DECLINED", "reason": "First label is in hovered state with green background and changed text."}
+{"key": "pointer_gesture/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All labels and text match."}
+{"key": "polygon_gallery/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All polygons, fills and labels match."}
+{"key": "polygon_gallery/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All polygons, fills and labels match."}
+{"key": "polyline_gallery/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same polylines and labels; whole content shifted by a few pixels."}
+{"key": "polyline_gallery/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same polylines and labels; whole content shifted by a few pixels."}
+{"key": "preselected_item/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "List items and preselected row match."}
+{"key": "preselected_item/maccatalyst/light", "verdict": "ACCEPTED", "reason": "List items and preselected row match."}
+{"key": "preselected_items/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Grid items and the three selected cells match."}
+{"key": "preselected_items/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Grid items and the three selected cells match."}
+{"key": "progress_bar/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Progress bars, colors, labels and button match."}
+{"key": "progress_bar/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Progress bars, colors, labels and button match."}
+{"key": "radio_button_border/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Borders, backgrounds, options and selected state match."}
+{"key": "radio_button_border/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Borders, backgrounds, options and selected state match; dot shade differs slightly."}
+{"key": "radio_button_content/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All text, radio buttons and custom templates match."}
+{"key": "radio_button_content/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All text, radio buttons and custom templates match."}
+{"key": "radio_button_group_binding/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Text, options and buttons match."}
+{"key": "radio_button_group_binding/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Text, options and buttons match."}
+{"key": "radio_button_group/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Text and all four options match."}
+{"key": "radio_button_group_gallery/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All groups, labels and radio buttons match."}
+{"key": "radio_button_group_gallery/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All groups, labels and radio buttons match."}
+{"key": "radio_button_group/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Text and all four options match."}
+{"key": "radio_content_properties/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All descriptions and styled radio contents match."}
+{"key": "radio_content_properties/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All descriptions and styled radio contents match."}
+{"key": "radio_template_from_style/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Three templated cards match; contents offset only slightly."}
+{"key": "radio_template_from_style/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Three templated cards with labels match; contents offset only slightly."}
+{"key": "rectangle_gallery/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All rectangles, strokes and labels match."}
+{"key": "rectangle_gallery/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All rectangles, strokes and labels match."}
+{"key": "refresh_view/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Labels, buttons and status text match."}
+{"key": "refresh_view/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Labels, buttons, status text and theme match the desired image."}

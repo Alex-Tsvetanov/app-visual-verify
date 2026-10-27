@@ -1,0 +1,36 @@
+{"key": "radio_content_properties/android/dark", "verdict": "ACCEPTED", "reason": "Same text, radio buttons, colours and layout."}
+{"key": "radio_content_properties/android/light", "verdict": "ACCEPTED", "reason": "Same text, radio buttons, colours and layout."}
+{"key": "radio_template_from_style/android/dark", "verdict": "ACCEPTED", "reason": "Same three templated tiles; only a tiny label offset."}
+{"key": "radio_template_from_style/android/light", "verdict": "ACCEPTED", "reason": "Same three templated tiles; only a tiny label offset."}
+{"key": "rectangle_gallery/android/dark", "verdict": "ACCEPTED", "reason": "All rectangles and labels match."}
+{"key": "rectangle_gallery/android/light", "verdict": "ACCEPTED", "reason": "All rectangles and labels match."}
+{"key": "refresh_view/android/dark", "verdict": "DECLINED", "reason": "Button backgrounds are a noticeably darker grey than desired."}
+{"key": "refresh_view/android/light", "verdict": "ACCEPTED", "reason": "Same text, buttons and layout."}
+{"key": "relative_layout/android/dark", "verdict": "ACCEPTED", "reason": "Corner squares and nested boxes are identical."}
+{"key": "relative_layout/android/light", "verdict": "ACCEPTED", "reason": "Corner squares and nested boxes are identical."}
+{"key": "scattered_radio_button/android/dark", "verdict": "DECLINED", "reason": "Radio buttons A/B/C are crammed together and C's label is clipped by the box."}
+{"key": "scattered_radio_button/android/light", "verdict": "DECLINED", "reason": "Radio buttons A/B/C are crammed together and C's label is clipped by the box."}
+{"key": "scroll_mode_test/android/dark", "verdict": "DECLINED", "reason": "Picker shows KeepItemsInView where desired is empty, and buttons are darker."}
+{"key": "scroll_mode_test/android/light", "verdict": "DECLINED", "reason": "Picker shows KeepItemsInView where desired is empty."}
+{"key": "scroll_to_group/android/dark", "verdict": "DECLINED", "reason": "Soft keyboard is open and covers the list in the candidate."}
+{"key": "scroll_to_group/android/light", "verdict": "ACCEPTED", "reason": "Same fields, buttons and grouped list."}
+{"key": "scroll_view/android/dark", "verdict": "ACCEPTED", "reason": "Same rows and label."}
+{"key": "scroll_view/android/light", "verdict": "ACCEPTED", "reason": "Same rows and label."}
+{"key": "search_bar/android/dark", "verdict": "ACCEPTED", "reason": "Same search bars and keyboard; clear icons only slightly smaller."}
+{"key": "search_bar/android/light", "verdict": "ACCEPTED", "reason": "Same search bars; clear icons only slightly smaller."}
+{"key": "selection_command_param/android/dark", "verdict": "ACCEPTED", "reason": "Same header and items."}
+{"key": "selection_command_param/android/light", "verdict": "ACCEPTED", "reason": "Same header and items."}
+{"key": "selection_synchronization/android/dark", "verdict": "ACCEPTED", "reason": "Same text and selected items highlighted."}
+{"key": "selection_synchronization/android/light", "verdict": "ACCEPTED", "reason": "Same text and selected items highlighted."}
+{"key": "semantics/android/dark", "verdict": "DECLINED", "reason": "Button backgrounds are a noticeably darker grey than desired."}
+{"key": "semantics/android/light", "verdict": "ACCEPTED", "reason": "Same labels, buttons, entries and search bar."}
+{"key": "shadow_playground/android/dark", "verdict": "ACCEPTED", "reason": "Same box, fields, sliders and button."}
+{"key": "shadow_playground/android/light", "verdict": "ACCEPTED", "reason": "Same box, fields, sliders and button."}
+{"key": "shape_app_theme/android/dark", "verdict": "ACCEPTED", "reason": "Same red shape and label."}
+{"key": "shape_app_theme/android/light", "verdict": "ACCEPTED", "reason": "Same green shape and label."}
+{"key": "shapes/android/dark", "verdict": "ACCEPTED", "reason": "All shapes and labels match."}
+{"key": "shapes/android/light", "verdict": "ACCEPTED", "reason": "All shapes and labels match."}
+{"key": "single_bound_selection/android/dark", "verdict": "ACCEPTED", "reason": "Same text, buttons and list."}
+{"key": "single_bound_selection/android/light", "verdict": "ACCEPTED", "reason": "Same text, buttons and list."}
+{"key": "slider/android/dark", "verdict": "DECLINED", "reason": "Disabled slider thumb is nearly invisible instead of a visible ring."}
+{"key": "slider/android/light", "verdict": "DECLINED", "reason": "Disabled slider thumb is nearly invisible instead of a visible ring."}

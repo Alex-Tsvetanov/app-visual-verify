@@ -1,0 +1,20 @@
+{"key": "custom_swipe_item_view/maccatalyst/dark", "verdict": "DECLINED", "reason": "The window title has changed from 'MauiReference' to 'MAUI C++ — gallery'."}
+{"key": "header_footer_view/maccatalyst/light", "verdict": "ACCEPTED", "reason": "The difference in the window title is expected and does not affect the UI content."}
+{"key": "date_picker/android/dark", "verdict": "ACCEPTED", "reason": "The candidate UI matches the desired UI perfectly."}
+{"key": "ios_date_picker/ios/dark", "verdict": "ACCEPTED", "reason": "The UI elements and layout are identical between the two screenshots."}
+{"key": "update_path_data/maccatalyst/light", "verdict": "DECLINED", "reason": "The window title has changed from 'MauiReference' to 'MAUI C++ — gallery'."}
+{"key": "shapes/maccatalyst/light", "verdict": "ACCEPTED", "reason": "The visual differences are minor and do not affect the functional layout or content."}
+{"key": "filter_selection/maccatalyst/light", "verdict": "ACCEPTED", "reason": "The UI content and layout are identical, with only a minor change in the window title."}
+{"key": "scattered_radio_button/ios/light", "verdict": "ACCEPTED", "reason": "The UI elements and layout are identical between the desired and candidate images."}
+{"key": "scroll_mode_test/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "The UI elements and content are identical, with only the window title and dropdown selection state differing as expected."}
+{"key": "border_alignment/maccatalyst/light", "verdict": "ACCEPTED", "reason": "The UI elements and layout are identical between the two screenshots."}
+{"key": "gradient/windows/dark", "verdict": "ACCEPTED", "reason": "The visual representation of the gradients matches the desired UI."}
+{"key": "empty_view/ios/light", "verdict": "ACCEPTED", "reason": "The candidate UI matches the desired UI perfectly."}
+{"key": "templated_view/maccatalyst/light", "verdict": "DECLINED", "reason": "The window title has changed from 'MauiReference' to 'MAUI C++ — gallery'."}
+{"key": "single_bound_selection/android/light", "verdict": "ACCEPTED", "reason": "The candidate UI matches the desired UI perfectly."}
+{"key": "pan_gesture_events/ios/light", "verdict": "ACCEPTED", "reason": "The differences in the status text are dynamic values and should be ignored."}
+{"key": "slider/android/dark", "verdict": "ACCEPTED", "reason": "The candidate UI matches the desired UI perfectly."}
+{"key": "items/android/dark", "verdict": "ACCEPTED", "reason": "The UI elements and content are identical between the desired and candidate screenshots."}
+{"key": "line_gallery/windows/dark", "verdict": "ACCEPTED", "reason": "The candidate UI matches the desired UI perfectly."}
+{"key": "hybrid_web_view/ios/light", "verdict": "DECLINED", "reason": "The text labels are being truncated with ellipses in the candidate UI, making them difficult to read."}
+{"key": "border_layout/windows/light", "verdict": "ACCEPTED", "reason": "The candidate UI matches the desired UI perfectly."}

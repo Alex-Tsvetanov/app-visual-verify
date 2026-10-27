@@ -1,0 +1,36 @@
+{"key": "some_empty_groups/android/dark", "verdict": "DECLINED", "reason": "Group header names lost their bold weight in the candidate."}
+{"key": "some_empty_groups/android/light", "verdict": "DECLINED", "reason": "Group header names lost their bold weight in the candidate."}
+{"key": "stack_layout/android/dark", "verdict": "ACCEPTED", "reason": "Labels and colored boxes match in content and layout."}
+{"key": "stack_layout/android/light", "verdict": "ACCEPTED", "reason": "Labels and colored boxes match in content and layout."}
+{"key": "staggered_layout/android/dark", "verdict": "ACCEPTED", "reason": "Item grid is identical in content and arrangement."}
+{"key": "staggered_layout/android/light", "verdict": "ACCEPTED", "reason": "Item grid is identical in content and arrangement."}
+{"key": "stepper/android/dark", "verdict": "DECLINED", "reason": "Minus buttons and the disabled stepper appear enabled in the candidate, a wrong state."}
+{"key": "stepper/android/light", "verdict": "ACCEPTED", "reason": "Steppers, labels and enabled/disabled states match."}
+{"key": "styles/android/dark", "verdict": "ACCEPTED", "reason": "Styled texts and button match apart from minor border corner rendering."}
+{"key": "styles/android/light", "verdict": "ACCEPTED", "reason": "Styled texts and button match apart from minor border corner rendering."}
+{"key": "swipe_gesture/android/dark", "verdict": "ACCEPTED", "reason": "Header, card and status text match."}
+{"key": "swipe_gesture/android/light", "verdict": "ACCEPTED", "reason": "Header, card and status text match."}
+{"key": "swipe_item_position/android/dark", "verdict": "DECLINED", "reason": "The 'Swipe in any direction' label is missing or invisible in the candidate."}
+{"key": "swipe_item_position/android/light", "verdict": "ACCEPTED", "reason": "Picker and hint label match."}
+{"key": "swipe_item_size/android/dark", "verdict": "ACCEPTED", "reason": "Labels and swipe rows match in content and size."}
+{"key": "swipe_item_size/android/light", "verdict": "ACCEPTED", "reason": "Labels and swipe rows match in content and size."}
+{"key": "swipe_refresh/android/dark", "verdict": "ACCEPTED", "reason": "Both texts match."}
+{"key": "swipe_refresh/android/light", "verdict": "ACCEPTED", "reason": "Both texts match."}
+{"key": "swipe_threshold/android/dark", "verdict": "ACCEPTED", "reason": "Labels, sliders and swipe rows match."}
+{"key": "swipe_threshold/android/light", "verdict": "ACCEPTED", "reason": "Labels, sliders and swipe rows match."}
+{"key": "swipe_view_margin/android/dark", "verdict": "ACCEPTED", "reason": "Text, sliders and swipe items match."}
+{"key": "swipe_view_margin/android/light", "verdict": "ACCEPTED", "reason": "Text, sliders and swipe items match."}
+{"key": "swipe_view_shadow/android/dark", "verdict": "ACCEPTED", "reason": "Labels and bordered content cards match."}
+{"key": "swipe_view_shadow/android/light", "verdict": "ACCEPTED", "reason": "Labels and bordered content cards match."}
+{"key": "switch/android/dark", "verdict": "DECLINED", "reason": "Default switch focus shows as a full-width grey band instead of a circular halo."}
+{"key": "switch_grouping/android/dark", "verdict": "DECLINED", "reason": "Switch focus indicator renders as a grey square instead of a circular halo."}
+{"key": "switch_grouping/android/light", "verdict": "ACCEPTED", "reason": "Switch and grouped list match."}
+{"key": "switch/android/light", "verdict": "ACCEPTED", "reason": "All switches, labels and states match."}
+{"key": "tabbed_flyout/android/dark", "verdict": "DECLINED", "reason": "Button shading differs, losing the Home tab's distinct appearance from the other buttons."}
+{"key": "tabbed_flyout/android/light", "verdict": "ACCEPTED", "reason": "Buttons and texts match."}
+{"key": "templated_view/android/dark", "verdict": "ACCEPTED", "reason": "Cards and texts match, including identical clipping."}
+{"key": "templated_view/android/light", "verdict": "ACCEPTED", "reason": "Cards and texts match, including identical clipping."}
+{"key": "time_picker/android/dark", "verdict": "DECLINED", "reason": "The Disabled time picker appears enabled in the candidate."}
+{"key": "time_picker/android/light", "verdict": "ACCEPTED", "reason": "All pickers, buttons and states match."}
+{"key": "title_bar/android/dark", "verdict": "ACCEPTED", "reason": "Options, fields and buttons match."}
+{"key": "title_bar/android/light", "verdict": "ACCEPTED", "reason": "Options, fields and buttons match."}

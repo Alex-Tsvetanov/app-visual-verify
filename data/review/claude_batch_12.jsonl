@@ -1,0 +1,36 @@
+{"key": "date_picker/ios/dark", "verdict": "DECLINED", "reason": "The 'Set to null' picker is empty instead of showing the date, and gradient-background date text lost its left padding."}
+{"key": "date_picker/ios/light", "verdict": "DECLINED", "reason": "The 'Set to null' picker is empty instead of showing the date, and gradient-background date text lost its left padding."}
+{"key": "device/ios/dark", "verdict": "ACCEPTED", "reason": "Same content and layout; only the OS version value differs, which is environment-dependent."}
+{"key": "device/ios/light", "verdict": "ACCEPTED", "reason": "Same content and layout; only the OS version value differs, which is environment-dependent."}
+{"key": "dispatcher/ios/dark", "verdict": "ACCEPTED", "reason": "Text, buttons and layout match."}
+{"key": "dispatcher/ios/light", "verdict": "ACCEPTED", "reason": "Text, buttons and layout match."}
+{"key": "drag_drop/ios/dark", "verdict": "ACCEPTED", "reason": "Swatches, labels and layout match."}
+{"key": "drag_drop/ios/light", "verdict": "ACCEPTED", "reason": "Swatches, labels and layout match."}
+{"key": "editor/ios/dark", "verdict": "ACCEPTED", "reason": "All editors, text, colours and layout match."}
+{"key": "editor/ios/light", "verdict": "ACCEPTED", "reason": "All editors, text, colours and layout match."}
+{"key": "effects/ios/dark", "verdict": "ACCEPTED", "reason": "Entries, buttons and status text match."}
+{"key": "effects/ios/light", "verdict": "ACCEPTED", "reason": "Entries, buttons and status text match."}
+{"key": "ellipse_gallery/ios/dark", "verdict": "ACCEPTED", "reason": "All ellipses, strokes, fills and labels match."}
+{"key": "ellipse_gallery/ios/light", "verdict": "ACCEPTED", "reason": "All ellipses, strokes, fills and labels match."}
+{"key": "empty_view/ios/dark", "verdict": "ACCEPTED", "reason": "Search bar and item list match."}
+{"key": "empty_view/ios/light", "verdict": "ACCEPTED", "reason": "Search bar and item list match."}
+{"key": "empty_view_load_simulate/ios/dark", "verdict": "ACCEPTED", "reason": "Same centered loading message."}
+{"key": "empty_view_load_simulate/ios/light", "verdict": "ACCEPTED", "reason": "Same centered loading message."}
+{"key": "empty_view_null/ios/dark", "verdict": "ACCEPTED", "reason": "Same centered empty message."}
+{"key": "empty_view_null/ios/light", "verdict": "ACCEPTED", "reason": "Same centered empty message."}
+{"key": "empty_view_rtl/ios/dark", "verdict": "DECLINED", "reason": "The picker shows 'Left to Right' selected instead of the 'FlowDirection' placeholder."}
+{"key": "empty_view_rtl/ios/light", "verdict": "DECLINED", "reason": "The picker shows 'Left to Right' selected instead of the 'FlowDirection' placeholder."}
+{"key": "empty_view_selector/ios/dark", "verdict": "ACCEPTED", "reason": "Instructions, search bar and item match."}
+{"key": "empty_view_selector/ios/light", "verdict": "ACCEPTED", "reason": "Instructions, search bar and item match."}
+{"key": "empty_view_swap/ios/dark", "verdict": "ACCEPTED", "reason": "Toggle, buttons and grid items match."}
+{"key": "empty_view_swap/ios/light", "verdict": "ACCEPTED", "reason": "Toggle, buttons and grid items match."}
+{"key": "empty_view_template/ios/dark", "verdict": "ACCEPTED", "reason": "Search bar and grid items match."}
+{"key": "empty_view_template/ios/light", "verdict": "ACCEPTED", "reason": "Search bar and grid items match."}
+{"key": "empty_view_view/ios/dark", "verdict": "ACCEPTED", "reason": "Search bar and grid items match."}
+{"key": "empty_view_view/ios/light", "verdict": "ACCEPTED", "reason": "Search bar and grid items match."}
+{"key": "entry/ios/dark", "verdict": "ACCEPTED", "reason": "All entries, slider and labels match."}
+{"key": "entry/ios/light", "verdict": "ACCEPTED", "reason": "All entries, slider and labels match."}
+{"key": "filter_collection/ios/dark", "verdict": "DECLINED", "reason": "The 'Use EmptyView' label sits higher and is no longer vertically aligned with its switch."}
+{"key": "filter_collection/ios/light", "verdict": "DECLINED", "reason": "The 'Use EmptyView' label sits higher and is no longer vertically aligned with its switch."}
+{"key": "filter_selection/ios/dark", "verdict": "ACCEPTED", "reason": "Instructions, reset button, selection label and list match."}
+{"key": "filter_selection/ios/light", "verdict": "ACCEPTED", "reason": "Instructions, reset button, selection label and list match."}

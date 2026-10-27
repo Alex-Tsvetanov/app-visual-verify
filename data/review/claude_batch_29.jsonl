@@ -1,0 +1,36 @@
+{"key": "triggers/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same text, entry, label and button in the same layout."}
+{"key": "triggers/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same content and layout; both render identically."}
+{"key": "update_path_data/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Path shape, data label and button match."}
+{"key": "update_path_data/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Path shape, data label and button match."}
+{"key": "value_controls/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Slider, stepper, progress bar, switch and indicator all match."}
+{"key": "value_controls/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All value controls match in state and position."}
+{"key": "varied_size_selector/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same items, buttons and inputs; separator lines differ only slightly in rendering."}
+{"key": "varied_size_selector/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same list items, buttons and inputs in the same layout."}
+{"key": "vertical_stack/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Same label and six coloured boxes in the same order and position."}
+{"key": "vertical_stack/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Same label and coloured boxes in the same layout."}
+{"key": "visual_states/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "All labels, entries and buttons match including the green entry state."}
+{"key": "visual_states/maccatalyst/light", "verdict": "ACCEPTED", "reason": "All labels, entries and buttons match including the green entry state."}
+{"key": "web_view/maccatalyst/dark", "verdict": "DECLINED", "reason": "Navigation status text reads 'new_page -> https://demo.test/welcome' instead of 'No navigation yet'."}
+{"key": "web_view/maccatalyst/light", "verdict": "DECLINED", "reason": "Navigation status text reads 'new_page -> https://demo.test/welcome' instead of 'No navigation yet'."}
+{"key": "z_index/maccatalyst/dark", "verdict": "ACCEPTED", "reason": "Stacked labels, colours and z-order match."}
+{"key": "z_index/maccatalyst/light", "verdict": "ACCEPTED", "reason": "Stacked labels, colours and z-order match."}
+{"key": "absolute_layout/windows/dark", "verdict": "DECLINED", "reason": "AutoSized box is smaller and positioned differently than desired."}
+{"key": "absolute_layout/windows/light", "verdict": "DECLINED", "reason": "AutoSized box is smaller and positioned differently than desired."}
+{"key": "activity_indicator/windows/dark", "verdict": "DECLINED", "reason": "Smaller indicator is barely visible and the lower labels shift up."}
+{"key": "activity_indicator/windows/light", "verdict": "DECLINED", "reason": "Smaller indicator is barely visible and the lower labels shift up."}
+{"key": "adaptive_collection/windows/dark", "verdict": "ACCEPTED", "reason": "Same eight items in the same layout."}
+{"key": "adaptive_collection/windows/light", "verdict": "ACCEPTED", "reason": "Same eight items in the same layout."}
+{"key": "alerts/windows/dark", "verdict": "ACCEPTED", "reason": "Same headings and buttons in the same layout."}
+{"key": "alerts/windows/light", "verdict": "ACCEPTED", "reason": "Same headings and buttons in the same layout."}
+{"key": "alignment/windows/dark", "verdict": "ACCEPTED", "reason": "Labels and buttons align identically."}
+{"key": "alignment/windows/light", "verdict": "ACCEPTED", "reason": "Labels and buttons align identically."}
+{"key": "animation/windows/dark", "verdict": "ACCEPTED", "reason": "Image and three buttons match including the disabled Cancel state."}
+{"key": "animation/windows/light", "verdict": "ACCEPTED", "reason": "Image and three buttons match including the disabled Cancel state."}
+{"key": "app_theme_binding/windows/dark", "verdict": "ACCEPTED", "reason": "Same text and theme colours (red and teal)."}
+{"key": "app_theme_binding/windows/light", "verdict": "ACCEPTED", "reason": "Same text and theme colours (green and orange)."}
+{"key": "application_control/windows/dark", "verdict": "ACCEPTED", "reason": "Same label, buttons and status text."}
+{"key": "application_control/windows/light", "verdict": "ACCEPTED", "reason": "Same label, buttons and status text."}
+{"key": "auto_size_shapes/windows/dark", "verdict": "ACCEPTED", "reason": "Ellipse, background regions and label match."}
+{"key": "auto_size_shapes/windows/light", "verdict": "ACCEPTED", "reason": "Ellipse, background regions and label match."}
+{"key": "basic_grouping/windows/dark", "verdict": "ACCEPTED", "reason": "Same groups, members and footers; only footer corner rounding differs slightly."}
+{"key": "basic_grouping/windows/light", "verdict": "ACCEPTED", "reason": "Same groups, members and footers; only footer corner rounding differs slightly."}
